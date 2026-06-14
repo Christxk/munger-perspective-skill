@@ -35,7 +35,7 @@ Extraordinary. From 1972 to 2007 (35 years): pre-tax earnings grew from ~$5M to 
 > "Berkshire is built on constructive criticism. The See's lesson transformed our entire approach."
 
 **Source**: 2019 DJCO meeting
-> "We made quite a few millions of dollars... It's a game of being there all the time and recognizing the rare opportunity when it comes."
+> "Take the Daily Journal Corporation. We made quite a few millions of dollars out of the foreclosure boom because we published legal notices and we dominated the publication of foreclosure notices in the worst real estate depression in the history of modern times. And we could have raised our prices at the time and made more tens of millions of dollars. But we didn't do it. You know what your fellow citizens are losing their damn houses in the worst recession, 'Charlie Munger billionaire raises prices.' It would look lousy on the front page of the paper. Should you do it? And the answer is no of course not. Warren always said it's probably always a mistake to marry for money and it's really stupid if you're already rich. Anyway. You can see we've had some fun as we go along and it's worked so well. But if you actually figure out how many decisions were made in the history of the Daily Journal Corporation or the history of Berkshire Hathaway it wasn't very many per year that were meaningful. It's a game of being there all the time and recognizing the rare opportunity when it comes and recognizing that the normal human allotment is to not have very many."
 
 ### Pattern Analysis
 This is the single most important investment decision in the evolution of Munger-Buffett philosophy. It represents the pivot from Graham's "buy cheap statistically" to "buy quality at a reasonable price." The near-miss (almost walking away over $100,000) became a permanent scar they actively remembered to avoid repeating. Reveals Munger's willingness to override his own instincts based on trusted criticism.
@@ -49,7 +49,7 @@ September 2008, during the global financial crisis. Berkshire Hathaway invested 
 
 ### Munger's Reasoning (in his own words)
 **Source**: 2018 DJCO meeting
-> "That with Berkshire Hathaway and the Munger family money that went into it was really a venture capital type play even though it was in the public market. BYD has developed into a huge company. It's got 250,000 employees more or less. It has a huge electric car business, it has a small gasoline car business, it has a huge battery business, it has a huge new lithium mine coming into production... The man who founded BYD was like the eighth son of a peasant, and an older brother noticed that he was a genius and then with their Confucian system, the older brother just devoted his life to making sure the genius got educated."
+> "That with Berkshire Hathaway and the Munger family money that went into it was really a venture capital type play even though it was in the public market. And BYD has developed into a huge company. It's got 250,000 employees more or less. It has a huge electric car business, it has a small gasoline car business, it has a huge battery business, it has a huge new lithium mine coming into production, near Tibet, but has a lake full of toxic water that if you drank it, it would kill you. But it's perfect for mining lithium. And it's a big lake. One of the biggest in the world. So we have an interesting venture capital type business, and BYD has gone into a business they were never in before, which is monorails. And they are selling monorails like you can't believe. Boom-diddy, boom-diddy, boom to whole cities in China. And some even in other countries. And they're also selling those big electric buses, etc. etc. and so on. It's weird that anybody at Berkshire or in the Munger Family, or the Daily Journal would have anything to do with a little company in China that becomes a big company, but it happened. And there's a buried story here that's wonderful. The man who founded BYD was like the eighth son of a peasant, and an older brother noticed that he was a genius and then with their Confucian system, the older brother just devoted his life to making sure the genius got educated."
 
 **Source**: 2019 DJCO meeting
 > "If you're asking whether Wang Chuanfu of BYD will do well, he'll do amazingly well."
@@ -93,7 +93,7 @@ Munger joined Costco's board in 1997, having been recruited by founder Jim Sineg
 > "Costco I know a lot about because I've been a director for about 20 years and I think Costco will continue to flourish and it's a damn miracle the way the Kirkland brand keeps getting more and more accepted."
 
 **Source**: 2018 DJCO meeting (Brands question)
-> "Costco I know a lot about because I've been a director for about 20 years and I think Costco will continue to flourish... You're right that it's going to be harder for the big brands, but they're still quite valuable. If you could own say, the Snicker's Bar trademarks, it will still be a good asset 60 years from now. Now it may not be quite as good for the owner as it was in the last 60 years. But it doesn't have to be."
+> "Costco I know a lot about because I've been a director for about 20 years and I think Costco will continue to flourish and it's a damn miracle the way the Kirkland brand keeps getting more and more accepted. You're right about that. So you're right that it's going to be harder for the big brands, but they're still quite valuable. If you could own say, the Snicker's Bar trademarks and so forth, it will still be a good asset 60 years from now. Now it may not be quite as good for the owner as it was in the last 60 years. But it doesn't have to be."
 
 ### Applied Frameworks
 - Low-cost producer advantage (scale economics + narrow markup = unbreachable moat)
@@ -196,7 +196,7 @@ August 1991. Salomon Brothers was caught in a Treasury auction bidding scandal. 
 
 ### Munger's Own Telling
 **Source**: 2007 Wesco meeting
-> "What was interesting about that day was that it would have had reverberations that would have made the Long Term Capital Management blow-up look like nothing if the Secretary of the Treasury, Nick Brady, hadn't reversed the government's decision to suspend Salomon from participating in government Treasury auctions... Because of this, Nick Brady knew all about Warren, and I think he trusted Warren. There was a catch in Warren's voice. Faced with a decision that would have had catastrophic impact had they made the wrong decision, but when Nick heard the catch in Warren's voice, he realized how concerned Warren was and trusted him."
+> "What was interesting about that day was that it would have had reverberations that would have made the Long Term Capital Management blow-up look like nothing if the Secretary of the Treasury, Nick Brady, hadn't reversed the government's decision to suspend Salomon from participating in government Treasury auctions. Nick Brady's family was one of the original shareholders of Berkshire but sold out before Warren came on. Nick correctly recognized that the New England textile industry was doomed and sold all of the family's Berkshire stock. His cousin held on until Warren came on and even after. By making this correct decision, one branch of the family benefited from lollapalooza effects. Because of this, Nick Brady knew all about Warren, and I think he trusted Warren. There was a catch in Warren's voice. Faced with a decision that would have had catastrophic impact had they made the wrong decision, but when Nick heard the catch in Warren's voice, he realized how concerned Warren was and trusted him when he said he needed some reversal of an announced Treasury decision."
 
 > "Getting a good reputation in life can have remarkably favorable outcomes."
 
@@ -246,14 +246,14 @@ Munger became chairman of Daily Journal Corporation, a legal newspaper publisher
 
 ### Munger's Reasoning
 **Source**: 2018 DJCO meeting
-> "Most newspapers by the way I think are going to perish. It's just a question of when. You know the New York Times will continue... but by and large the newspaper business is not doing well. Berkshire Hathaway owns a lot of them. And buying them we figured on a certain natural decline rate after which the profits would go to zero. We underestimated the rate of decline. It's going faster than we thought."
+> "Most newspapers by the way I think are going to perish. It's just a question of when. I mean they're all going to die. You know the New York Times will continue because people will pay $5 for it in an airport. So there will be a few survivors, but by and large the newspaper business is not doing well. Berkshire Hathaway owns a lot of them. And buying them we figured on a certain natural decline rate after which the profits would go to zero. We underestimated the rate of decline. It's going faster than we thought."
 
 > "On the other side we have this second business in the Daily Journal Company which is this software business. That of course has taken a lot of treasure and a lot of effort to get started. But our software business now produces a lot more revenue than our traditional print business, and it's generally doing quite credibly."
 
 > "One of the advantages of being very rich is that we can behave better than other people. Not only are we very rich, we don't give a damn about what we report in any given quarter, and that gives us an advantage in saying to these government agencies, 'You're not going to take a big risk with us because you're not going to pay us until the system is working.'"
 
 **Source**: 2019 DJCO meeting
-> "This is a part of the software business that the giants tend to hate. They like a business where you just stamp out an extra copy of something and 98 percent of the revenues go immediately into the till as cash and there's no extra work. And that is not handling a bunch of justice agencies... It's a very slow grinding business and that's the nature of the game. We have always liked it because a business like this requires a company that's very rich and very determined and is willing to keep plugging."
+> "This is a part of the software business that the giants tend to hate. They like a business where you just stamp out an extra copy of something and 98 percent of the revenues go immediately into the till as cash and there's no extra work. And that is not handling a bunch of justice agencies, attorney generals, state courts, federal courts, and so forth all over the country with different requirements, different consultants, and of course steady and aggressive competition. The nature of our business it's more like technical consulting than it is just stamping out software. It's a very high service business. It's very difficult. The computer science is time consuming and difficult. But just dealing with that much bureaucracy over that many different fields with the political realities, it's just immensely difficult. So it's a very slow grinding business and that's the nature of the game. We have always liked it because a business like this requires a company that's very rich and very determined and is willing to keep plugging."
 
 ### Applied Frameworks
 - Playing where giants won't (niche software + government sales)
@@ -265,7 +265,7 @@ Munger became chairman of Daily Journal Corporation, a legal newspaper publisher
 Mixed but credible. The print business is in terminal decline but the software business is winning significant contracts (California, Australia, Canada). The securities portfolio (built from foreclosure notice revenue during the housing crisis) generated extraordinary returns.
 
 ### Pattern Analysis
-Daily Journal reveals Munger as operator, not just investor. He took a dying business and pivoted it, albeit slowly. His competitive insight: enter an unglamorous, difficult market (government software) that the giants avoid; use wealth to offer better terms (deferred payment); build trust over years. This is applying investment philosophy to operations. He acknowledges the limits: "I was old when Journal Technologies came into being... Guerin and Salzman are responsible."
+Daily Journal reveals Munger as operator, not just investor. He took a dying business and pivoted it, albeit slowly. His competitive insight: enter an unglamorous, difficult market (government software) that the giants avoid; use wealth to offer better terms (deferred payment); build trust over years. This is applying investment philosophy to operations. He acknowledges the limits: "I was old when Journal Technologies came into being. I guess I had a weak moment when Guerin talked me into it. And it worked because Gerry took a hold of it and worked miracles. So I don't deserve much credit. It's Guerin and Salzman who are responsible for Journal Technologies. I just clap. I'm good at clapping."
 
 ---
 
@@ -311,7 +311,9 @@ Munger later said he underestimated how far Amazon's retail dominance could exte
 
 ### Early Tech Generally
 **Source**: Mungerisms
-> "We don't think because it's never happened that it won't... We have three baskets: in, out, and too tough. A lot of stuff goes into the 'too tough' basket."
+> "We don't think because it's never happened that it won't. There's no actuarial science, it's rough judgment. We just try to be conservative." (2001 Wesco meeting)
+
+> "There are a lot of things we pass on. We have three baskets: in, out and too tough. A lot of stuff goes into the 'too tough' basket. We can't do that if it's a problem at a Berkshire subsidiary company, but if we don't own it, we just pass." (2002 Wesco meeting)
 
 Munger consistently put most technology companies in the "too tough" basket. This protected them from losses (they avoided the dot-com crash) but also meant missing Google, Amazon, and early Microsoft.
 
@@ -339,7 +341,7 @@ Munger consistently put most technology companies in the "too tough" basket. Thi
 Munger was 35, a successful lawyer with the firm Munger, Tolles & Olson in Los Angeles. Buffett was 29, running his investment partnerships in Omaha. They met at a dinner party arranged by the Davis family.
 
 ### What Happened
-Buffett later said: "About five minutes into it, Charlie was sort of rolling on the floor laughing at his own jokes... I thought, 'I'm not going to find another guy like this.'"
+Buffett later said: "About five minutes into it, Charlie was sort of rolling on the floor laughing at his own jokes, which is exactly the same thing I did. I thought, 'I'm not going to find another guy like this.' And we just hit it off."
 
 ### Significance
 This meeting set the stage for their 60+ year partnership. They discovered an immediate intellectual kinship. Buffett recognized that Munger had an investment mind superior to law. Munger recognized in Buffett a kindred spirit with extraordinary abilities.
@@ -394,7 +396,7 @@ Munger officially became Vice Chairman of Berkshire Hathaway in 1978, though he'
 > "I think those authors give me more credit [for influencing Buffett] than I deserve. It's true that Warren had a touch of brain block from working under Ben Graham and making a ton of money -- it's hard to switch from something that's worked so well. But if Charlie Munger had never lived, the Buffett record would still be pretty much what it is."
 
 **Source**: Buffett's 2015 annual letter
-> "The blueprint he gave me was simple: Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices. Altering my behavior is not an easy task... But Charlie never tired of repeating his maxims about business and investing to me, and his logic was irrefutable. Consequently, Berkshire has been built to Charlie's blueprint."
+> "The blueprint he gave me was simple: Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices. Altering my behavior is not an easy task (ask my family). I had enjoyed reasonable success without Charlie's input, so why should I listen to a lawyer who had never spent a day in business school (when – ahem – I had attended three). But Charlie never tired of repeating his maxims about business and investing to me, and his logic was irrefutable. Consequently, Berkshire has been built to Charlie's blueprint. My role has been that of general contractor, with the CEOs of Berkshire's subsidiaries doing the real work as sub-contractors."
 
 ### Applied Frameworks
 - Comparative advantage: Munger stayed in Pasadena, let Buffett run Omaha
@@ -445,10 +447,10 @@ Berkshire Hathaway operates with only ~25 people at headquarters, managing a con
 > "I don't think in the history of the world has anything Berkshire's size operated in so decentralized a fashion. The net amount of bureaucracy is tiny, costs are low, autonomy in subsidiaries is vast, there is no common culture shuffling people around. How far can this go? This system has gone farther than any other system."
 
 **Source**: 2005 Wesco meeting
-> "Everybody likes being appreciated and treated fairly, and dominant personalities who are capable of running a business like being trusted... That's how we operate Berkshire -- a seamless web of deserved trust. We get rid of the craziness, of people checking to make sure it's done right. When you get a seamless web of deserved trust, you get enormous efficiencies."
+> "Everybody likes being appreciated and treated fairly, and dominant personalities who are capable of running a business like being trusted. A kid trusted with the key to the computer room said, 'It's wonderful to be trusted.' That's how we operate Berkshire -- a seamless web of deserved trust. We get rid of the craziness, of people checking to make sure it's done right. When you get a seamless web of deserved trust, you get enormous efficiencies. It's what the Japanese did to beat our brains out in manufacturing: suppliers, employers, the purchasing company, management -- all created a seamless web of deserved trust."
 
 **Source**: 2019 DJCO meeting
-> "Having no bureaucracy is a huge advantage if the people who are running are sensible people... Modern life creates successful bureaucracy and successful bureaucracy breeds failure and stupidity."
+> "One of the reasons that Berkshire has been so successful is there's practically nobody at headquarters. We have almost no corporate bureaucracy. We have a few internal auditors who go out from there and check this or that. But basically we have no bureaucracy. Having no bureaucracy is a huge advantage if the people who are running are sensible people. Think of how poorly all of us have behaved in big bureaucracy even though we have a lot of talent because we couldn't change anything. So bureaucracy has a standard bunch of evils on a standard and bunch of stupid wastes and so forth, and avoiding it is hugely important. Of course there's a tendency of successful places, particularly successful governments, is to have more and more bureaucracy. Of course it's terribly counterproductive. And of course the bureaucracy, the individual bureaucrats they're benefiting from more assistance, more meetings, more this, more that. So what looks like poison to us from the outside, because the decisions are so terrible, looks wonderful for them, it's opportunity. I've just described the great tragedy of modern life. Modern life creates successful bureaucracy and successful bureaucracy breeds failure and stupidity. How can it be otherwise. That's the big tension of modern life."
 
 ### Pattern Analysis
 This is applying the trust principle to organizational design. Munger and Buffett built a system that assumes people are honest and competent until proven otherwise -- the exact opposite of most corporate control systems. They hire people they trust, then actually trust them. This requires: (1) extremely careful selection of business partners; (2) willingness to tolerate occasional disappointments as the price of the system; (3) personal humility (headquarters doesn't pretend to know more than the operating managers).
@@ -551,7 +553,7 @@ Said: "We have three baskets: in, out, and too tough." Did: Passed on most techn
 Munger's criticism of derivatives was among his most passionate and repeated themes: "Derivatives are a sewer." "Mark-to-model accounting is disgusting." Yet Berkshire has engaged in significant derivative transactions -- long-dated equity index puts, credit default swaps. Munger's resolution: Berkshire only writes derivatives where (a) they receive premium upfront, (b) they have no counterparty risk (due to Berkshire's AAA credit), and (c) they understand the exposure. But the tension remains: condemning the system while selectively profiting from it.
 
 **Source**: 2008 Wesco meeting
-> "There have been comments on derivative trades we have done. If other people shouldn't be doing it, why are we? Other people pay us money because people know we don't have clearance risk... If you ask me, would I give up all of the opportunities of derivative trading to go back to a simpler cleaner world like engineering of yore -- I would do it in a heartbeat."
+> "There have been comments on derivative trades we have done. If other people shouldn't be doing it, why are we? Other people pay us money because people know we don't have clearance risk, we are not at whim of other parties. It is a very different kind of a trade. The only reason we can make those trades is because there aren't many out there who others would trust to make those trades. If you ask me, would I give up all of the opportunities of derivative trading to go back to a simpler cleaner world like engineering of yore -- I would do it in a heartbeat."
 
 **2. Alibaba/China -- Investing Outside Circle of Competence**
 Said: Stay within your circle of competence. Said: Chinese investing is "very tough" and "a lot of terrible things can happen." Did: Committed ~$72 million (28% of Daily Journal's portfolio) to Alibaba, a Chinese internet retailer. Lost significant money. Self-assessment: "One of the worst mistakes I ever made."
@@ -561,7 +563,7 @@ Munger and Buffett invested $5 billion in Goldman Sachs during the 2008 crisis, 
 
 **4. "I Wouldn't Do It" on Berkshire's SQUARZ**
 **Source**: 2003 Wesco meeting
-> "Warren has a big motor and there isn't enough going on at Berkshire... when he sees a mispriced security, he's willing to issue it. Personally, I wouldn't issue it. But it's one of Warren's quirks."
+> "Warren has a big motor and there isn't enough going on at Berkshire with a tiny pile of assets and an insufficient number of large businesses so when he sees a mispriced security, he's willing to issue it. Personally, I wouldn't issue it. But it's one of Warren's quirks. Remember the LIONS [a security Berkshire issued long ago]? We only have to put up with this every 20 years. To Warren, the appeal is that it could be done. I think the mere fact of borrowing money at a negative interest rate turned him on because not many people are able to do that. Just call it an intellectual quirk."
 
 This shows Munger sometimes disagrees with Buffett but defers. It is not a say-do contradiction per se -- Munger openly stated his disagreement -- but it shows the partnership operates on consensus, not Munger's unilateral rules.
 
@@ -715,7 +717,7 @@ This episode reveals the tension in Munger's approach: extreme patience (four ye
 Effective January 1, 2008, Wes-FIC entered into a retrocession agreement with National Indemnity Company (NICO, a Berkshire subsidiary) to assume 10% of NICO's 20% quota-share reinsurance of Swiss Re - effectively 2% of all Swiss Re property-casualty risks incepting over five years.
 
 #### Munger's Own Words
-> "Wesco's Board of Directors has recently and enthusiastically approved Wes-FIC's most significant reinsurance contract to date: its participation... in an agreement with National Indemnity Company... for the assumption of 10% of NICO's quota-share reinsurance of Swiss Reinsurance Company... Under this retrocession agreement, Wes-FIC will effectively assume 2% of all of Swiss Re's property-casualty risks incepting over the next five years on the same terms as NICO's agreement with Swiss Re."
+> "Wesco's Board of Directors has recently and enthusiastically approved Wes-FIC's most significant reinsurance contract to date: its participation, since January 1, 2008, in an agreement with National Indemnity Company ('NICO'), another Berkshire Hathaway insurance subsidiary, for the assumption of 10% of NICO's quota-share reinsurance of Swiss Reinsurance Company and its property-casualty affiliates ('Swiss Re'). Under this retrocession agreement, Wes-FIC will effectively assume 2% of all of Swiss Re's property-casualty risks incepting over the next five years on the same terms as NICO's agreement with Swiss Re."
 
 > "If recent years' volumes were to continue over the next five years, the annual written premiums assumed by Wes-FIC under this retrocession agreement would be in the $300 million range."
 

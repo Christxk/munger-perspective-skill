@@ -397,7 +397,7 @@
 
 **Source**: speeches/1994-A-Lesson-on-Elementary-Worldly-Wisdom-As-It-Relates-To-Investment-Management-Business.md, 1994, USC Business School speech, en
 **Full context**:
-> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business... one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as much work as our old ones." And Warren said, "Gee, I hope this doesn't work because if it does, I'm going to close the mill." And he meant it.
+> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles—which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as much work as our old ones." And Warren said, "Gee, I hope this doesn't work because if it does, I'm going to close the mill." And he meant it.
 
 **Related quotes**: business, technology, Buffett
 
@@ -601,7 +601,7 @@
 
 **Source**: speeches/1994-A-Lesson-on-Elementary-Worldly-Wisdom-As-It-Relates-To-Investment-Management-Business.md, 1994, USC Business School speech, en
 **Full context**:
-> The great defect of scale, of course, which makes the game interesting—so that the big people don't always win—is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality—which is again grounded in human nature. And the incentives are perverse... So you get big, fat, dumb, unmotivated bureaucracies. They also tend to become somewhat corrupt. In other words, if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you and we're both happy." ... The constant curse of scale is that it leads to big, dumb bureaucracy—which, of course, reaches its highest and worst form in government where the incentives are really awful. That doesn't mean we don't need governments—because we do. But it's a terrible problem to get big bureaucracies to behave.
+> The great defect of scale, of course, which makes the game interesting—so that the big people don't always win—is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality—which is again grounded in human nature. And the incentives are perverse. For example, if you worked for AT&T in my day, it was a great bureaucracy. Who in the hell was really thinking about the shareholder or anything else? And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It's not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies. They also tend to become somewhat corrupt. In other words, if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you and we're both happy." So you get layers of management and associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They're too slow to make decisions and nimbler people run circles around them. The constant curse of scale is that it leads to big, dumb bureaucracy—which, of course, reaches its highest and worst form in government where the incentives are really awful. That doesn't mean we don't need governments—because we do. But it's a terrible problem to get big bureaucracies to behave.
 
 **Related quotes**: incentives, criticism-government
 
@@ -641,7 +641,7 @@
 
 **Source**: letters/023-2008-Wesco-meetingnotes.md, 2008, Wesco annual meeting Q&A, en
 **Full context**:
-> The only duty of corporate executive is to widen the moat. We must make it wider. Every day is to widen the moat. We gave you a competitive advantage, and you must leave us the moat... One must keep their eye on ball of widening the moat, to be a steward of the competitive advantage that came to you.
+> "The only duty of corporate executive is to widen the moat. We must make it wider. Every day is to widen the moat. We gave you a competitive advantage, and you must leave us the moat. There are times when it is too tough. But duty should be to widen the moat. I can see instance after instance where that isn’t what people do in business. One must keep their eye on ball of widening the moat, to be a steward of the competitive advantage that came to you. A General in England said, ‘Get you the sons your fathers got, and God will save the Queen.’ At Hewlett P"
 
 **Related quotes**: competitive-advantage, moat
 
@@ -671,7 +671,7 @@
 
 **Source**: letters/022-2007-Wesco-meetingnotes.md, 2007, Wesco annual meeting Q&A, en
 **Full context**:
-> An enormous pleasure in life is to be rightly trusted... At Berkshire, we have subnormal process. We try to operate in a web of seamless trust, deserved trust, and try to be careful whom we let in. They act like this at the Mayo Clinic. Imagine if they didn't. Most patients would die.
+> An enormous pleasure in life is to be rightly trusted. One of my kids was a computer nerd and his school gave him access to the entire school computer system. He was exultant by the extreme trust. If your friends are asking you to raise their children if they die, you're doing something right. It's wonderful to be trusted. Some think if we just had more compliance checks and process, virtue would be maximized. At Berkshire, we have subnormal process. We try to operate in a web of seamless trust, deserved trust, and try to be careful whom we let in. They act like this at the Mayo Clinic. Imagine if they didn't. Most patients would die.
 
 **Related quotes**: Berkshire, management, business-culture
 
@@ -945,7 +945,7 @@
 
 **Source**: letters/018-2003-Wesco-meetingnotes.md, 2003, Wesco annual meeting Q&A, en
 **Full context**:
-> The banking industry has been a gold mine... Can it go on forever? A wise economist once said, "If a thing can't go on forever, it will eventually stop."
+> The banking industry has been a gold mine. I think Warren and I blew it -- we should have invested a lot of money in banks. While we did well in it, we should have been heavier in it. The amount of money made in banking has been awesome. And [this despite the fact that] the people who made the money -- how shall I say it -- have been moderately skillful. [Bankers have been like] a duck sitting on a pond and they raised the pond. By borrowing short and lending long, one can make a lot of money. It's so easy that people are tempted to do more and more. Can it go on forever? A wise economist once said, "If a thing can't go on forever, it will eventually stop."
 
 **Related quotes**: economics, bubbles, discipline
 
@@ -975,7 +975,7 @@
 
 **Source**: letters/022-2007-Wesco-meetingnotes.md, 2007, Wesco annual meeting Q&A, en
 **Full context**:
-> If you're running a hedge fund, you're paying the lowest taxes, lower than a college professor or a taxi driver. This is madness of a sort... There's an enormous concentration of wealth in people who don't make or invent anything. It can't be good for our system to create this new kind of hero if our graduating brilliant young give up engineering to go into trading derivatives. This is rewarded by a peculiarity in the tax code, but it'll probably change.
+> If you're running a hedge fund, you're paying the lowest taxes, lower than a college professor or a taxi driver. This is madness of a sort. It would not surprise me if this changed in the near future. There's an enormous concentration of wealth in people who don't make or invent anything. It can't be good for our system to create this new kind of hero if our graduating brilliant young give up engineering to go into trading derivatives. This is rewarded by a peculiarity in the tax code, but it'll probably change.
 
 **Related quotes**: hedge-funds, criticism-wall-street
 
@@ -985,7 +985,7 @@
 
 **Source**: letters/021-2006-Wesco-meetingnotes.md, 2006, Wesco annual meeting Q&A, en
 **Full context**:
-> Somehow we've created a perverse system of incentives. At Samsung, their meeting of engineers is at 11pm. Our meetings of engineers [meaning our smartest citizens] are also at 11pm, but they're working to price derivatives. I think it's crazy to have incentives that drive your most intelligent people into a very sophisticated gaming system. A rich system can endure a lot... But do we want our auto industry to just crumble away and somebody else's to take over because they do it better? I don't think it's a good outcome. I don't think we can stand a diversion of our best minds to hedge funds.
+> Somehow we've created a perverse system of incentives. At Samsung, their meeting of engineers is at 11pm. Our meetings of engineers [meaning our smartest citizens] are also at 11pm, but they're working to price derivatives. I think it's crazy to have incentives that drive your most intelligent people into a very sophisticated gaming system. A rich system can endure a lot. If 10% of our people over age 60 want to spend X hours per week playing Texas Hold Em, we can afford it. But it's not good. But do we want our auto industry to just crumble away and somebody else's to take over because they do it better? I don't think it's a good outcome. I don't think we can stand a diversion of our best minds to hedge funds.
 
 **Related quotes**: hedge-funds, criticism-wall-street, incentives
 
@@ -1125,9 +1125,9 @@
 
 ### "Saying the accounting for derivatives is like a sewer is an insult to sewers."
 
-**Source**: speeches/2001-2006-Mungerisms.md, 2001-2006, Berkshire/Wesco annual meeting Q&A compilation, en/zh
+**Source**: letters/017-2002-Wesco-meetingnotes.md, 2002, Wesco annual meeting Q&A, en
 **Full context**:
-> "The accounting for derivatives is so disgusting. It is a sewer... Saying the accounting for derivatives is like a sewer is an insult to sewers."
+> "It [accounting for derivatives] is just disgusting. It is a sewer, and if I'm right, there will be hell to pay in due course. All of you will have to prepare to deal with a blow-up of derivative books. To me, it's always been obvious it [the accounting for derivatives] is ridiculous."
 
 **Related quotes**: derivatives, accounting
 
@@ -1139,7 +1139,7 @@
 
 **Source**: letters/024-2009-Wesco-meetingnotes.md, 2009, Wesco annual meeting Q&A, en
 **Full context**:
-> An investment bank that is too big to fail shouldn't be allowed to be anything but a fairly boring business... It's "crazy" to let bright young men buy what they want in the repo market with enormous leverage. Gambling on high leverage ought to be banned. We don't need options exchanges or credit default swaps. A man doesn't deserve high pay for ballooning a balance sheet at a tiny spread. "Any idiot could do it. In fact, many have."
+> An investment bank that is too big to fail shouldn't be allowed to be anything but a fairly boring business, making markets, underwriting offerings, and so on. It used to be that way. Partners didn't make much money. They were conservative people, they actually owned the business, and they'd seen the Thirties. It's "crazy" to let bright young men buy what they want in the repo market with enormous leverage. Gambling on high leverage ought to be banned. We don't need options exchanges or credit default swaps. A man doesn't deserve high pay for ballooning a balance sheet at a tiny spread. "Any idiot could do it. In fact, many have."
 
 **Related quotes**: regulation, criticism-wall-street, risk
 
@@ -1719,7 +1719,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "I say I'm under-criticizing the professors. At least when this rustic legislature rounded Pi to an even number, the error was relatively small. But once you try to put a lot of false precision into a complex system like economics, the errors can compound to the point where they're worse than those of the McKinsey partner when he was incompetently advising the Washington Post."
 
 **Source**: [NEW-PDF] speeches/2003-Academic-Economics.txt, 2003, UCSB Economics Department lecture, en
-**Full context**: About a legislator who proposed rounding Pi to 3.2: "At any rate, this rustic legislator proposed a new law in his state. He wanted to pass a law rounding Pi to an even 3.2 so it would be easier for the school children to make the computations. Well, you can say that this is too ridiculous... I say I'm under-criticizing the professors."
+**Full context**: About a legislator who proposed rounding Pi to 3.2: "At any rate, this rustic legislator proposed a new law in his state. He wanted to pass a law rounding Pi to an even 3.2 so it would be easier for the school children to make the computations. Well, you can say that this is too ridiculous, and it can't be fair to liken economics professors like Laffer to a rustic legislator like this. I say I'm under-criticizing the professors."
 **Related quotes**: false-precision, economics-critique, Washington-Post
 
 ---
@@ -1729,7 +1729,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "The new form of Gresham's Law... bad lending drives out good. Think of how powerful that model is."
 
 **Source**: [NEW-PDF] speeches/2010-Munger-Talk-at-Harvard-Westlake.txt, 2010, Harvard-Westlake School, en
-**Full context**: "The new form of Gresham's Law is brought into play - in the savings and loans crisis, when it was perfectly obvious that bad lending drives out good. Think of how powerful that model is. Think of the disaster that it creates for everybody. You sit there in your little institution. All of the builders [are not good credits anymore], and you are in the business of lending money to builders. Unless you do the same idiotic thing [as] Joe Blow is doing down the street... You've got to shrink the business that you love and maybe lay off the employees who have trusted you their careers... or [make] a lot of dumb loans. At Berkshire Hathaway we try and let the place shrink. We never fire anybody, we tell them to go out and play golf. We sure as hell don't want to make any dumb loans."
+**Full context**: "The new form of Gresham's Law is brought into play - in the savings and loans crisis, when it was perfectly obvious that bad lending drives out good. Think of how powerful that model is. Think of the disaster that it creates for everybody. You sit there in your little institution. All of the builders [are not good credits anymore], and you are in the business of lending money to builders. Unless you do the same idiotic thing [as] Joe Blow is doing down the street. Pete Johnson up the street wants to do something a little dumber and the thing just goes to a mighty tide. You've got to shrink the business that you love and maybe lay off the employees who have trusted you their careers and so forth or [make] a lot of dumb loans. At Berkshire Hathaway we try and let the place shrink. We never fire anybody, we tell them to go out and play golf. We sure as hell don't want to make any dumb loans."
 **Related quotes**: incentives, banking, competition, ethics
 
 ---
@@ -1737,7 +1737,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "Bad morals drive out the good."
 
 **Source**: [NEW-PDF] speeches/2010-Munger-Talk-at-Harvard-Westlake.txt, 2010, Harvard-Westlake School, en
-**Full context**: Extending Gresham's Law to moral behavior: "It isn't just bad loans. Bad morals drive out the good. If you want to run a check-cashing agency in [a] downtown big city, more than 100 percent of all the profit you could possibly earn can only be earned by flim-flamming people on the finance contracts. So if you aren't willing to cheat people... more than 100 percent of the profit can't be earned. Well, if you inherited the business or your idiot son-in-law is in it, you don't know what else to do. This is what I would call an adult problem and most people solve it in the adult fashion: They learn to tolerate the cheating. But that is not the right answer to people who want to live a larger and better life."
+**Full context**: Extending Gresham's Law to moral behavior: "It isn't just bad loans. Bad morals drive out the good. If you want to run a check-cashing agency in [a] downtown big city, more than 100 percent of all the profit you could possibly earn can only be earned by flim-flamming people on the finance contracts. So if you aren't willing to cheat people - basically minorities - more than 100 percent of the profit can't be earned. Well, if you inherited the business or your idiot son-in-law is in it, you don't know what else to do. This is what I would call an adult problem and most people solve it in the adult fashion: They learn to tolerate the cheating. But that is not the right answer to people who want to live a larger and better life."
 **Related quotes**: ethics, business, competition, moral-hazard
 
 ---
@@ -1753,7 +1753,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "The system is responsible in proportion to the degree that the people who make the decisions bear the consequences."
 
 **Source**: [NEW-PDF] speeches/2010-Munger-Talk-at-Harvard-Westlake.txt, 2010, Harvard-Westlake School (quoting Charlie Frankel), en
-**Full context**: "Charlie Frankel... created this philosophy of responsibility. He said the system is responsible in proportion to the degree that the people who make the decisions bear the consequences. So to Charlie Frankel, you don't create a loan system where all the people who make the loans promptly dump them on somebody else through lies and twaddle, and they don't bear the responsibility when the loans are good or bad. To Frankel, that is amoral, that is an irresponsible system."
+**Full context**: "Charlie Frankel. He was mugged to death in due course because, after all, he lived in Manhattan in a different time. Before he was mugged to death, he created this philosophy of responsibility. He said the system is responsible in proportion to the degree that the people who make the decisions bear the consequences. So to Charlie Frankel, you don't create a loan system where all the people who make the loans promptly dump them on somebody else through lies and twaddle, and they don't bear the responsibility when the loans are good or bad. To Frankel, that is amoral, that is an irresponsible system."
 **Related quotes**: responsibility, incentives, moral-hazard, financial-crisis
 
 ---
@@ -1785,7 +1785,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "Aristotle said, 'People will adjust better if the perceived difference in outcomes in society are perceived as just.' Therefore, everybody that wants to help society be stable should have a duty to arrange everything, including his own compensation, [to] be perceived elsewhere as just. Well, all I can say is that if Aristotle were still alive, he'd be a grumpy old man because his message hasn't fully been assimilated yet."
 
 **Source**: [NEW-PDF] speeches/2010-Munger-Talk-at-Harvard-Westlake.txt, 2010, Harvard-Westlake School, en
-**Full context**: Solution to envy-driven problems in finance - perceived justice in compensation: "Aristotle said, 'People will adjust better if the perceived difference in outcomes in society are perceived as just.'... Well, all I can say is that if Aristotle were still alive, he'd be a grumpy old man because his message hasn't fully been assimilated yet."
+**Full context**: Solution to envy-driven problems in finance - perceived justice in compensation: "Aristotle said, 'People will adjust better if the perceived difference in outcomes in society are perceived as just.' Therefore, everybody that wants to help society be stable should have a duty to arrange everything, including his own compensation, [to] be perceived elsewhere as just. Well, all I can say is that if Aristotle were still alive, he'd be a grumpy old man because his message hasn't fully been assimilated yet."
 **Related quotes**: envy, compensation, justice, Aristotle
 
 ---
@@ -1795,7 +1795,7 @@ _This RAG database contains 150+ substantively extracted quotes organized across
 ### "Non-egality would work better in the parts of the world that I wanted to inhabit."
 
 **Source**: [NEW-PDF] speeches/2007-USC-Gould-School-of-Law-Commencement-Address.txt, 2007, USC Law School commencement, en
-**Full context**: "I realized very early that non-egality would work better in the parts of the world that I wanted to inhabit. What do I mean by non-egality? I mean John Wooden when he was the number one basketball coach in the world. He just said to the bottom five players that you don't get to play. The top seven did all the playing. Well the top seven learned more... You do not want to choose a brain surgeon for your child from 50 applicants where all of them just take turns doing the procedure. You don't want your airplanes designed that way. You don't want your Berkshire Hathaway's run that way. You want to get the power into the right people."
+**Full context**: "I realized very early that non-egality would work better in the parts of the world that I wanted to inhabit. What do I mean by non-egality? I mean John Wooden when he was the number one basketball coach in the world. He just said to the bottom five players that you don't get to play. The top seven did all the playing. Well the top seven learned more, remember the learning machine, they learned more because they did all the playing. And when he got to that system he won more than he had ever won before. I think the game of life, in many respects, is about getting a lot of practice into the hands of the people that have the most aptitude to learn and the most tendency to be learning machines. And if you want the very highest reaches of human civilization, that's where you have to go. You do not want to choose a brain surgeon for your child from 50 applicants where all of them just take turns doing the procedure. You don't want your airplanes designed that way. You don't want your Berkshire Hathaway's run that way. You want to get the power into the right people."
 **Related quotes**: excellence, meritocracy, learning-machines, organizational-design
 
 ---

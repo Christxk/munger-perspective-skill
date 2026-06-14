@@ -75,7 +75,11 @@ Inversion is one of Munger's most distinctive thinking tools. He attributes it t
 > "我们接触过的事情有很多。我们有三个选项：可以，不行，太难。除非我们对某个项目特别看好，否则就会把它归为'太难'的选项。你需要做的，只是寻找一块特殊的能力领域，并把精力放在那里面就可以了。如果你确有能力，你就会非常清楚你能力圈的边界在哪里。没有边界的能力根本不能称之为能力。（如果你问自己是否过了能力圈的范围，）那这个问题本身就是答案。"
 
 **Source**: Wesco 2002 Meeting notes
-> "'There are a lot of things we pass on. We have three baskets: in, out and too tough. A lot of stuff goes into the 'too tough' basket. ... We have to have a special insight, or we'll put it in the 'too tough' basket. All of you have to look for a special area of competency and focus on that.'"
+> "'There are a lot of things we pass on. We have three baskets: in, out and too tough. A lot of stuff goes into the 'too tough' basket. We can't do that if it's a problem at a Berkshire subsidiary company, but if we don't own it, we just pass.'"
+
+> "'I don't know how people cope [trying to figure everything out].'"
+
+> "'We have to have a special insight, or we'll put it in the 'too tough' basket. All of you have to look for a special area of competency and focus on that.'"
 
 **Source**: Wesco 2003 Meeting notes
 > "The danger is that you have more risk of operating outside of your circle of competency. I don't think we're ever gone outside our circle of competency. We find things across a fairly wide range that we think is within our circle of competency. If you can widen your range and broaden your circle of competency, then you'll be a better investor."
@@ -130,13 +134,19 @@ The full list of 25 tendencies:
 > "也许最重要的管理原则就是，'制定正确的激励机制。'"
 
 **Source**: Mungerisms (cross-reference with incentives):
-> "联邦快递的案例。联邦快递系统的核心和灵魂是保证货物按时送达...最后有个人终于想通了：公司并不希望职员工作的时间越长越好，而是希望他们快速地、无差错地完成某项任务，所以按照小时来支付夜班薪水的做法是很傻的。也许，这个人想，如果他们按照班次来支付薪水，并允许夜班工人在把所有货物装上飞机之后提前回家，那么这个系统会运转得更好。你瞧，这种方法果然奏效了。"
+> "说到激励机制的威力，在所有案例中，我最欣赏的是联邦快递的案例。联邦快递系统的核心和灵魂是保证货物按时送达，它必须在三更半夜让所有的飞机集中到一个地方，然后把货物快速转发到各架飞机上。如果哪个环节出现了延误，联邦快递就无法把货物及时地送到客户手里。曾经有一段时间，联邦快递的夜班工人总是不能按时完成工作。他们对工人动之以情、晓之以理。他们尝试了各种各样的方法，但就是没效果。最后有个人终于想通了：公司并不希望职员工作的时间越长越好，而是希望他们快速地、无差错地完成某项任务，所以按照小时来支付夜班薪水的做法是很傻的。也许，这个人想，如果他们按照班次来支付薪水，并允许夜班工人在把所有货物装上飞机之后提前回家，那么这个系统会运转得更好。你瞧，这种方法果然奏效了。"
 
 **Source**: 1994 Speech (Federal Express cross-reference):
-> "From all business, my favorite case on incentives is Federal Express. The heart and soul of their system... is having all their airplanes come to one place in the middle of the night and shift all the packages from plane to plane... And it was always screwed up... Finally, somebody got the idea to pay all these people not so much an hour, but so much a shift—and when it's all done, they can all go home. Well, their problems cleared up overnight."
+> "From all business, my favorite case on incentives is Federal Express. The heart and soul of their system—which creates the integrity of the product—is having all their airplanes come to one place in the middle of the night and shift all the packages from plane to plane. If there are delays, the whole operation can't deliver a product full of integrity to Federal Express customers."
+
+> "And it was always screwed up. They could never get it done on time. They tried everything—moral suasion, threats, you name it. And nothing worked."
+
+> "Finally, somebody got the idea to pay all these people not so much an hour, but so much a shift—and when it's all done, they can all go home. Well, their problems cleared up overnight."
 
 2. **喜欢/热爱倾向 (Liking/Loving Tendency)**:
-> "在遗传因素的作用之下，刚孵出来的小鹅在破壳而出后将会'热爱'并跟随第一个对它和善的生物...喜欢/热爱倾向造成的一个非常具有现实意义的后果就是，它是一种心理调节工具，促使人们：（1）忽略其热爱对象的缺点，对其百依百顺；（2）偏爱那些能够让自己联想起热爱对象的人、物品和行动；（3）为了爱而扭曲其他事实。"
+> "在遗传因素的作用之下，刚孵出来的小鹅在破壳而出后将会"热爱"并跟随第一个对它和善的生物，那几乎总是它的母亲。但是，如果小鹅孵出来那一刻，出现的并不是母鹅，而是一个人，那么小鹅将会"热爱"并跟随这个人，把他当做自己的母亲。"
+
+> "喜欢/热爱倾向造成的一个非常具有现实意义的后果就是，它是一种心理调节工具，促使人们：（1）忽略其热爱对象的缺点，对其百依百顺；（2）偏爱那些能够让自己联想起热爱对象的人、物品和行动（这一点我们将会在"受简单联想影响的倾向"中讨论）；（3）为了爱而扭曲其他事实。"
 
 3. **讨厌/憎恨倾向 (Disliking/Hating Tendency)**:
 > "讨厌/憎恨倾向也是一种心理调节工具，它能促使深陷其中的人们：（1）忽略其讨厌对象的优点；（2）讨厌那些能够让自己联想起讨厌对象的人、物品和行动；（3）为了仇恨而扭曲其他事实。"
@@ -152,7 +162,7 @@ The full list of 25 tendencies:
 > "富兰克林的《穷理查年鉴》：'一盎司的预防比一磅的治疗更值钱。'"
 
 6. **好奇心倾向 (Curiosity Tendency)**:
-> "最好的现代教育机构...能够增强人们的好奇心，而好奇心则能帮助人们防止或者减少其他心理倾向造成的糟糕后果。好奇心还能让人们在正式教育结束很久之后依然拥有许多乐趣和智慧。"
+> "哺乳动物天生就具有好奇心，但在所有非人类的哺乳动物里面，好奇心最强烈的是猿类和猴类。而人类的好奇心又比他的这些近亲强烈得多。在发达的人类文明中，文化极大地提高了好奇心在促进知识发展方面的效率。例如，雅典（及其殖民地亚历山德里亚）人的纯粹好奇心推动了数学和科学的发展，而罗马人则对数学或科学几乎没有贡献。罗马人更专注于矿藏、道路和水利等'实用'工程。最好的现代教育机构（这样的机构在许多地方都为数甚少）能够增强人们的好奇心，而好奇心则能帮助人们防止或者减少其他心理倾向造成的糟糕后果。好奇心还能让人们在正式教育结束很久之后依然拥有许多乐趣和智慧。"
 
 7. **康德式公平倾向 (Kantian Fairness Tendency)**:
 > "康德以其'绝对命令'而闻名。所谓绝对命令是某种'黄金法则'，它要求人们遵守某些行为方式，如果所有人都遵守这些方式，那么就能够保证社会制度对每个人来说都是最好的。"
@@ -173,7 +183,9 @@ The full list of 25 tendencies:
 > "人们早就发现，和猿类、猴类、狗类和其他许多认知能力较为低下的动物相同，人类身上也有以德报德、以牙还牙的极端倾向。"
 
 10. **受简单联想影响的倾向 (Influence-of-Mere-Association Tendency)**:
-> "斯金纳研究过的标准条件反射是世界上最常见的条件反射...但条件反射还有另外一种，反射行为是由简单的联想引发的。"
+> "斯金纳研究过的标准条件反射是世界上最常见的条件反射。在这种条件反射中，创造出新习惯的反射行为是由以前得到的奖励直接引起的。例如，有个人买了一罐名牌鞋油，发现这种鞋油能把鞋擦得特别亮，由于这种"奖励"，下次他需要再买鞋油时，还是买了这个牌子。"
+
+> "但条件反射还有另外一种，反射行为是由简单的联想引发的。"
 
 > "'波斯信使综合症'。古代波斯人真的会把信使杀掉，而这些信使惟一的过错是把真实的坏消息带回家。"
 
@@ -205,7 +217,7 @@ The full list of 25 tendencies:
 > "每个人都知道，突然的压力，比如遭遇威胁，会导致人体内部的肾上腺素激增，推动更快、更极端的反应。"
 
 18. **错误衡量易得性倾向 (Availability-Misweighing Tendency)**:
-> "人类的大脑是有限和不完美的，它很容易满足于容易得到的东西。大脑无法使用它记不住或者认识不到的东西...所以人类的大脑会高估容易得到的东西的重要性。"
+> "这种倾向和一句歌词相互呼应：'如果我爱的女孩不在身边，我就爱身边的女孩。'人类的大脑是有限和不完美的，它很容易满足于容易得到的东西。大脑无法使用它记不住或者认识不到的东西，因为它会受到一种或几种心理倾向的影响，比如说上述歌曲中那个家伙就受到身边女孩的影响。所以人类的大脑会高估容易得到的东西的重要性，因而展现出易得性—错误衡量倾向。"
 
 19. **不用就忘倾向 (Use-It-or-Lose-It Tendency)**:
 > "所有技能都会因为不用而退化。我曾经是个微积分天才，但到了20岁之后，这种才能很快就因为完全没有被使用而消失了。"
@@ -305,7 +317,7 @@ Margin of safety originates with Ben Graham but Munger applies it beyond investi
 #### Full Passages
 
 **Source**: 1994 Speech, 1994
-> "From all business, my favorite case on incentives is Federal Express... And it was always screwed up. They tried everything—moral suasion, threats, you name it. And nothing worked. Finally, somebody got the idea to pay all these people not so much an hour, but so much a shift... Well, their problems cleared up overnight."
+> "From all business, my favorite case on incentives is Federal Express. The heart and soul of their system—which creates the integrity of the product—is having all their airplanes come to one place in the middle of the night and shift all the packages from plane to plane. If there are delays, the whole operation can't deliver a product full of integrity to Federal Express customers. And it was always screwed up. They could never get it done on time. They tried everything—moral suasion, threats, you name it. And nothing worked. Finally, somebody got the idea to pay all these people not so much an hour, but so much a shift—and when it's all done, they can all go home. Well, their problems cleared up overnight."
 
 > "So what makes sense for the investor is different from what makes sense for the manager. And, as usual in human affairs, what determines the behavior are incentives for the decision maker."
 
@@ -356,7 +368,7 @@ Munger credits Graham's Mr. Market metaphor as one of the foundational mental co
 > "当沃伦在商学院讲课时，他说：'我用一张考勤卡就能改善你最终的财务状况；这张卡片上有20格，所以你只能有20次打卡的机会——这代表你一生中所能拥有的投资次数。只要你把卡打完，你就再也不能进行投资了。'他说：'在这样的规则之下，你才会真正慎重地考虑你做的事情，你将不得不花大笔资金在你真正想投资的项目上。这样你的表现将会好得多。'"
 
 **Source**: Wesco 2003:
-> "Warren said at the Berkshire meeting... that he often tells business school students that if he gave them a card that only had 20 punches for a lifetime, and each time they made an investment they would use up one punch, and that after 20 punches there would be no more, then on average, with those rules, you'll die a lot richer."
+> "Warren said at the Berkshire meeting (or maybe it was to the press afterward?), that he often tells business school students that if he gave them a card that only had 20 punches for a lifetime, and each time they made an investment they would use up one punch, and that after 20 punches there would be no more, then on average, with those rules, you'll die a lot richer. But people can't grasp this; they don't know what to make of it. But I believe it's true -- you'll do better over a lifetime [following the 20-punch way of thinking], assuming you're a smart, disciplined person. This room is filled with people who followed that advice. But that is absolute apostasy in academia."
 
 #### Analysis Notes
 The pari-mutuel model is one of Munger's most original conceptual contributions. It unifies market efficiency/inefficiency with the behavioral discipline of selective heavy betting. The 20-punch card metaphor (attributed to Buffett) reinforces the same concept. Both recur across speeches (1994), Mungerisms, and meetings (Wesco 2003).
@@ -384,7 +396,7 @@ Munger's "surfing" model is an original metaphor for technological disruption an
 **Source**: 1994 Speech, 1994
 > "And once we get into microeconomics, we get into the concept of advantages of scale. Now we're getting closer to investment analysis—because in terms of which businesses succeed and which businesses fail, advantages of scale are ungodly important."
 
-> "The great defect of scale, of course, which makes the game interesting—so that the big people don't always win—is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality—which is again grounded in human nature. And the incentives are perverse... So you get big, fat, dumb, unmotivated bureaucracies."
+> "The great defect of scale, of course, which makes the game interesting—so that the big people don't always win—is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality—which is again grounded in human nature. And the incentives are perverse. For example, if you worked for AT&T in my day, it was a great bureaucracy. Who in the hell was really thinking about the shareholder or anything else? And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It's not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies."
 
 > "So life is an everlasting battle between those two forces—to get these advantages of scale on one side and a tendency to get a lot like the U.S. Agriculture Department on the other side—where they just sit around."
 
@@ -410,7 +422,7 @@ The cancer surgery formula is one of Munger's self-named models. It connects to 
 #### Full Passages
 
 **Source**: 1994 Speech, 1994
-> "Now we come to another somewhat less reliable form of human wisdom—microeconomics. And here, I find it quite useful to think of a free market economy—or partly free market economy—as sort of the equivalent of an ecosystem... Just as in an ecosystem, people who narrowly specialize can get terribly good at occupying some little niche."
+> "Now we come to another somewhat less reliable form of human wisdom—microeconomics. And here, I find it quite useful to think of a free market economy—or partly free market economy—as sort of the equivalent of an ecosystem.... This is a very unfashionable way of thinking because early in the days after Darwin came along, people like the robber barons assumed that the doctrine of the survival of the fittest authenticated them as deserving power—you know, 'I'm the richest. Therefore, I'm the best. God's in his heaven, etc.' And that reaction of the robber barons was so irritating to people that it made it unfashionable to think of an economy as an ecosystem. But the truth is that it is a lot like an ecosystem. And you get many of the same results. Just as in an ecosystem, people who narrowly specialize can get terribly good at occupying some little niche."
 
 **Source**: Wesco 2000 Meeting notes
 > "Common stock investors can make money by predicting the outcomes of practice evolution. You can't derive this by fundamental analysis—you must think biologically."
@@ -472,7 +484,7 @@ Intellectual honesty / not fooling yourself is a meta-principle that underlies M
 > "Beta系数、现代组合投资理论等等——这些在我看来都没什么道理。我们想要做到的是，用低廉的价格，甚至是合理的价格，来购买那些拥有可持续竞争优势的企业。"
 
 **Source**: Wesco 2003:
-> "They used to criticize us bitterly, but stopped doing that when criticized by their heirs... In what other profession do the leading practitioners differ so much from the leading theorists?"
+> "They used to criticize us bitterly, but stopped doing that when criticized by their heirs[?]. There's a world in academia where markets are perfectly efficient, where nobody knows if one company is better than another at any time, where value is dictated based on price. Then, it can never make any sense for a company to buy back its own stock. But if you say, 'I can point to you many situations in which a stock was selling for 1/5th of its value, so why shouldn't a company buy it back?', some purists still won't change their minds. A corollary of this says that you can never find a price that is rational to buy a stock that you know a lot about. It makes it hard for Warren and I to go on every year. We don't really care actually. [Laughter] In what other profession do the leading practitioners differ so much from the leading theorists? [Laughter] Hopefully this is not true in surgery, engineering and so forth."
 
 **Source**: Wesco 2004:
 > "Beta and modern portfolio theory and the like—none of it makes any sense to me. We're trying to buy businesses with sustainable competitive advantages at a low—or even a fair price."
@@ -775,7 +787,7 @@ In every single annual shareholder letter from 1997 through 2009, Munger provide
 1. After-tax liquidating value (book value per share)
 2. Plus the present value of the deferred-tax advantage (the "interest-free loan from the government")
 
-> "Of course, so long as Wesco does not liquidate, and does not sell any appreciated assets, it has, in effect, an interest-free 'loan' from the government equal to its deferred income taxes on the unrealized gains... However, some day, perhaps soon, major parts of the interest-free 'loan' must be paid as assets are sold. Therefore, Wesco's shareholders have no perpetual advantage creating value for them of $X per Wesco share. Instead, the present value of Wesco's shareholders' advantage must logically be much lower than $X per Wesco share."
+> "Of course, so long as Wesco does not liquidate, and does not sell any appreciated assets, it has, in effect, an interest-free 'loan' from the government equal to its deferred income taxes on both the unrealized gains and gains deferred from the merger of Salomon into Travelers in 1997, subtracted in determining its net worth. This interest-free 'loan' from the government is at this moment working for Wesco shareholders and amounted to about $102 per Wesco share at yearend 1997. However, some day, perhaps soon, major parts of the interest-free 'loan' must be paid as assets are sold. Therefore, Wesco's shareholders have no perpetual advantage creating value for them of $102 per Wesco share. Instead, the present value of Wesco's shareholders' advantage must logically be much lower than $102 per Wesco share."
 
 **Analysis**: This is a genuinely novel valuation framework that Munger employed systematically for over a decade. He never simply reported book value - he always adjusted for the time value of deferred taxes. This shows his practical application of opportunity cost thinking: a dollar of tax deferred is worth less than a dollar, but more than zero. The method is notably consistent year after year - Munger computes both the raw deferred tax per share and his estimate of its present value. [Genuinely NEW - not in existing research files]
 
@@ -836,7 +848,7 @@ On their late-2007 equity investments (which occurred just before the 2008 crash
 **Source**: [NEW-PDF] letters/011-2007-letters.txt, letters/012-2008-letters.txt, letters/013-2009-letters.txt
 
 About Precision Steel's CEO facing structural decline in US steel:
-> "Terry Piper... has done an outstanding job in leading Precision Steel through very difficult years. But he has no magic wand with which to compensate for competitive losses among his best customers."
+> "Terry Piper, who became Precision Steel's President and Chief Executive Officer in 1999, has done an outstanding job in leading Precision Steel through very difficult years. But he has no magic wand with which to compensate for competitive losses among his best customers."
 
 > "He is undertaking the difficult task of paring costs to an endurable level."
 
@@ -858,7 +870,7 @@ About Precision Steel's CEO facing structural decline in US steel:
 
 #### A.2.2 Thomas Hunt Morgan and Avoiding "Placer Mining"
 
-> "The late, great, Thomas Hunt Morgan, who was one of greatest biologists who ever lived, when he got to Caltech... banned the Frieden calculator from the biology department. And when they said, 'What the hell are you doing, Mr. Morgan?,' He said, 'Well, I am like a guy who is prospecting for gold along the banks of the Sacramento River in 1849. With a little intelligence, I can reach down and pick up big nuggets of gold. And as long as I can do that, I'm not going to let any people in my department waste scarce resources in placer mining.'"
+> "The late, great, Thomas Hunt Morgan, who was one of greatest biologists who ever lived, when he got to Caltech, had a very interesting, extreme way of avoiding some mistakes from overcounting what could be measured, and undercounting what couldn't. At that time there were no computers and the computer substitute then available to science and engineering was the Frieden calculator, and Caltech was full of Frieden calculators. And Thomas Hunt Morgan banned the Frieden calculator from the biology department. And when they said, 'What the hell are you doing, Mr. Morgan?,' He said, 'Well, I am like a guy who is prospecting for gold along the banks of the Sacramento River in 1849. With a little intelligence, I can reach down and pick up big nuggets of gold. And as long as I can do that, I'm not going to let any people in my department waste scarce resources in placer mining.'"
 
 > "I've adopted the same technique, and here I am in my 80th year. I haven't had to do any placer mining yet. And it begins to look like I'm going to get all the way through, as I'd always hoped, without doing any of that damned placer mining."
 
@@ -872,13 +884,13 @@ About Precision Steel's CEO facing structural decline in US steel:
 
 #### A.2.4 Einstein and Sharon Stone: Two New Munger References
 
-> "I think that economists would be way better off if they paid more attention to Einstein and Sharon Stone. Well, Einstein is easy because Einstein is famous for saying, 'Everything should be made as simple as possible, but no more simple.' ... Sharon Stone contributed to the subject because someone once asked her if she was bothered by penis envy. And she said, 'absolutely not, I have more trouble than I can handle with what I've got.'"
+> "I think that economists would be way better off if they paid more attention to Einstein and Sharon Stone. Well, Einstein is easy because Einstein is famous for saying, 'Everything should be made as simple as possible, but no more simple.' Now, the saying is a tautology, but it's very useful, and some economist – it may have been Herb Stein – had a similar tautological saying that I dearly love: 'If a thing can't go on forever, it will eventually stop.' Sharon Stone contributed to the subject because someone once asked her if she was bothered by penis envy. And she said, 'absolutely not, I have more trouble than I can handle with what I've got.'"
 
 **Analysis**: Classic Munger humor - juxtaposing high and low culture to make a point about physics envy in economics. The Einstein reference is new to the research corpus in this phrasing. [Genuinely NEW]
 
 #### A.2.5 The Rustic Legislator Rounding Pi to 3.2
 
-> "The situation of people like Laffer reminds me of a rustic legislator - and this really happened in America. I don't invent these stories. Reality is always more ridiculous than what I'm going to tell you. At any rate, this rustic legislator proposed a new law in his state. He wanted to pass a law rounding Pi to an even 3.2 so it would be easier for the school children to make the computations. Well, you can say that this is too ridiculous, and it can't be fair to liken economics professors like Laffer to a rustic legislator like this. I say I'm under-criticizing the professors. At least when this rustic legislature rounded Pi to an even number, the error was relatively small. But once you try to put a lot of false precision into a complex system like economics, the errors can compound to the point where they're worse than those of the McKinsey partner..."
+> "The situation of people like Laffer reminds me of a rustic legislator - and this really happened in America. I don't invent these stories. Reality is always more ridiculous than what I'm going to tell you. At any rate, this rustic legislator proposed a new law in his state. He wanted to pass a law rounding Pi to an even 3.2 so it would be easier for the school children to make the computations. Well, you can say that this is too ridiculous, and it can't be fair to liken economics professors like Laffer to a rustic legislator like this. I say I'm under-criticizing the professors. At least when this rustic legislature rounded Pi to an even number, the error was relatively small. But once you try to put a lot of false precision into a complex system like economics, the errors can compound to the point where they're worse than those of the McKinsey partner when he was incompetently advising the Washington Post. So, economics should emulate physics' basic ethos, but its search for precision in physics–like formulas is almost always wrong in economics."
 
 **Analysis**: A brilliant new Munger metaphor for false precision. He argues that economics professors are WORSE than a rustic legislator rounding pi - because their errors compound rather than remaining small. [Genuinely NEW]
 
@@ -892,7 +904,7 @@ About Precision Steel's CEO facing structural decline in US steel:
 
 > "The new form of Gresham's Law is brought into play - in economic thought, anyway - in the savings and loans crisis, when it was perfectly obvious that bad lending drives out good. Think of how powerful that model is. Think of the disaster that it creates for everybody."
 
-> "It isn't just bad loans. Bad morals drive out the good... if you aren't willing to cheat people - basically minorities - more than 100 percent of the profit can't be earned. Well, if you inherited the business or your idiot son-in-law is in it, you don't know what else to do. This is what I would call an adult problem and most people solve it in the adult fashion: They learn to tolerate the cheating. But that is not the right answer to people who want to live a larger and better life."
+> "It isn't just bad loans. Bad morals drive out the good. If you want to run a check-cashing agency in [a] downtown big city, more than 100 percent of all the profit you could possibly earn can only be earned by flim-flamming people on the finance contracts. So if you aren't willing to cheat people - basically minorities - more than 100 percent of the profit can't be earned. Well, if you inherited the business or your idiot son-in-law is in it, you don't know what else to do. This is what I would call an adult problem and most people solve it in the adult fashion: They learn to tolerate the cheating. But that is not the right answer to people who want to live a larger and better life."
 
 **Analysis**: This is one of Munger's most important late-career conceptual contributions - extending Gresham's Law beyond currency to lending standards and moral behavior. He explicitly says this is "not taught in economics courses and should be." [Genuinely NEW]
 
@@ -904,7 +916,7 @@ About Precision Steel's CEO facing structural decline in US steel:
 
 #### A.3.3 Charlie Frankel's Philosophy of Responsibility
 
-> "Charlie Frankel... created this philosophy of responsibility. He said the system is responsible in proportion to the degree that the people who make the decisions bear the consequences. So to Charlie Frankel, you don't create a loan system where all the people who make the loans promptly dump them on somebody else through lies and twaddle, and they don't bear the responsibility when the loans are good or bad. To Frankel, that is amoral, that is an irresponsible system."
+> "Another thing that is never discussed any more is my idea of one of the great philosophers of America who was Charlie Frankel. He was mugged to death in due course because, after all, he lived in Manhattan in a different time. Before he was mugged to death, he created this philosophy of responsibility. He said the system is responsible in proportion to the degree that the people who make the decisions bear the consequences. So to Charlie Frankel, you don't create a loan system where all the people who make the loans promptly dump them on somebody else through lies and twaddle, and they don't bear the responsibility when the loans are good or bad. To Frankel, that is amoral, that is an irresponsible system."
 
 **Analysis**: This is an entirely NEW intellectual influence in the Munger corpus. Charlie Frankel (philosopher at Columbia) has not appeared in any existing research file. Munger uses Frankel's responsibility principle to critique the entire mortgage securitization system. [Genuinely NEW - new intellectual influence]
 
@@ -944,8 +956,6 @@ About Precision Steel's CEO facing structural decline in US steel:
 
 #### A.4.1 Non-Egality / John Wooden's Basketball System
 
-> "I realized very early that non-egality would work better in the parts of the world that I wanted to inhabit... I mean John Wooden when he was the number one basketball coach in the world. He just said to the bottom five players that you don't get to play. The top seven did all the playing. Well the top seven learned more, remember the learning machine, they learned more because they did all the playing. And when he got to that system he won more than he had ever won before. I think the game of life, in many respects, is about getting a lot of practice into the hands of the people that have the most aptitude to learn and the most tendency to be learning machines."
+> "I realized very early that non-egality would work better in the parts of the world that I wanted to inhabit. What do I mean by non-egality? I mean John Wooden when he was the number one basketball coach in the world. He just said to the bottom five players that you don't get to play. The top seven did all the playing. Well the top seven learned more, remember the learning machine, they learned more because they did all the playing. And when he got to that system he won more than he had ever won before. I think the game of life, in many respects, is about getting a lot of practice into the hands of the people that have the most aptitude to learn and the most tendency to be learning machines. And if you want the very highest reaches of human civilization, that's where you have to go. You do not want to choose a brain surgeon for your child from 50 applicants where all of them just take turns doing the procedure. You don't want your airplanes designed that way. You don't want your Berkshire Hathaway's run that way. You want to get the power into the right people."
 
-> "You do not want to choose a brain surgeon for your child from 50 applicants where all of them just take turns doing the procedure. You don't want your airplanes designed that way. You don't want your Berkshire Hathaway's run that way. You want to get the power into the right people."
-
-**Analysis**: This is an important and somewhat surprising Munger argument - he explicitly advocates for unequal allocation of opportunity as the path to excellence. The "non-egality" concept is a genuine Munger coinage. It connects his "learning machines" concept with organizational design. [Genuinely NEW - not in zh version or existing research]
+**Analysis**: This is an important and somewhat surprising Munger argument - he explicitly advocates for unequal allocation of opportunity as the path to excellence. The "non-egality" concept is a genuine Munger coinage. It connects his "learning machines" concept with organizational design.

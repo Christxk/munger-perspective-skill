@@ -103,7 +103,7 @@ Munger almost never builds suspense toward a conclusion. He states the conclusio
 
 ### Words He NEVER Uses
 Based on corpus analysis, these words/concepts are conspicuously absent:
-- **"Synergy"** (explicitly rejected: "We don't say 'synergy' word, because people always claim synergies... We don't avoid synergies, we avoid claims of synergies" - Mungerisms)
+- **"Synergy"** (explicitly rejected: "The reason we avoid the word 'synergy' is because people generally claim more synergistic benefits than will come. Yes, it exists, but there are so many false promises. Berkshire is full of synergies -- we don't avoid synergies, just claims of synergies" - Mungerisms)
 - **"Passionate"** (uses "fanaticism" instead)
 - **"Stakeholders"** (uses "shareholders" or "owners" exclusively)
 - **"Empowerment"** (corporate jargon - absent)
@@ -169,7 +169,7 @@ Ranked by frequency of borrowing:
 **2. Biology / Evolution / Ecology**
 **Source**: 1994 USC speech
 > "I find it quite useful to think of a free market economy—or partly free market economy—as sort of the equivalent of an ecosystem."
-> "Just as animals flourish in niches, similarly, people who specialize in the business world..."
+> "Just as animals flourish in niches, similarly, people who specialize in the business world—and get very good because they specialize—frequently find good economics that they wouldn't get any other way."
 
 **Source**: DJCO 2015
 > "You're seeing a perfect example of Darwin: you're watching one business die, while somebody tries to replace it with another."
@@ -185,7 +185,7 @@ Ranked by frequency of borrowing:
 **4. Physical Tools / Mechanics**
 **Source**: 1994 USC speech
 > "It's like the old saying, 'To the man with only a hammer, every problem looks like a nail.'"
-> "Ben Graham could run his Geiger counter over this detritus from the collapse of the 1930s..."
+> "Ben Graham could run his Geiger counter over this detritus from the collapse of the 1930s and find things selling below their working capital per share and so on."
 
 **5. Architecture / Construction**
 **Source**: 1994 USC speech
@@ -216,7 +216,7 @@ Ranked by frequency of borrowing:
 > "Most books I read I don't finish the first chapter. I'm not burdened by awful books." [understatement of his extreme selectivity]
 
 **Source**: DJCO 2015
-> "We have the oldest board of directors in the history of the world... The Chairman [Munger] is 91. Should we be climbing Half Dome with one arm and one leg?"
+> "We have the oldest board of directors in the history of the world. The youngest one is 60. The Chairman [Munger] is 91. Should we be climbing Half Dome with one arm and one leg?"
 
 ### Irony and Sarcasm Patterns
 Munger's irony is delivered deadpan, rarely signaled by tone (which makes translation difficult).
@@ -277,10 +277,10 @@ Ranked by frequency:
 > "It wasn't like shooting fish in a barrel, which is what I prefer. My idea of shooting fish in a barrel, by the way, is to drain the barrel first."
 
 **5. The Cautious Little Squirrel (Source: 2017 Michigan talk)**
-> "When I chose this alternative career I had over $300,000 in liquid instruments, so I had, and that was 10 years of living expenses, so I was not a courageous bench or some admirable man I was a cautious little squirrel. Saving up more nuts than I really needed..."
+> "When I chose this alternative career I had over $300,000 in liquid instruments, so I had, and that was 10 years of living expenses, so I was not a courageous bench or some admirable man I was a cautious little squirrel. Saving up more nuts than I really needed it and not going very deep into my pile of nuts and so that wasn't that courageous and I kept one foot in the law firm while I tried my capitalist career, but as soon as the capitalist career succeeded I intended to lift that second foot because I recognized that the potential of law practice as I saw it then I didn't anticipate the boom that came to the big firms."
 
 **6. Half Dome With One Arm and One Leg (Source: DJCO 2015)**
-> "That was about like a guy who decided he wanted to climb Half Dome in Yosemite Park, despite of the fact he only had one arm and one leg... For some strange reason we're about halfway up Half Dome with our one arm and one leg."
+> "That was about like a guy who decided he wanted to climb Half Dome in Yosemite Park, despite of the fact he only had one arm and one leg. We tried it anyway. Luckily, we had a great boom in foreclosure notices, which gave us a temporary flood of revenue. We used that position to develop this software business, partly by purchase, and partly by self-development. It was a very odds-against-us thing. There's a name for a certain kind of rock climbing – 5/11 – that means it's not really possible, but occasionally somebody does it – and that's what we tried to do here. For some strange reason we're about halfway up Half Dome with our one arm and one leg."
 
 **7. Envy Is Boring (Source: DJCO 2014)**
 > "I see in professional firms, where everybody is overpaid by 150%, and some guy gets $10,000 more than somebody else in one year, and the guy who doesn't get it goes berserk. Is this rational, when you're overpaid by 150% and somebody gets 1/3 of 1% more? But it happens."
@@ -387,15 +387,15 @@ Munger almost never reads quotes; he paraphrases the idea and attributes it.
 Munger references people through stories, not bibliographic citations.
 
 **Source**: 2017 Michigan talk
-> "Ben Franklin has married just like the most important decision you have your business career... Ben Franklin had the best advice ever given on marriage he said keep your eyes wide open before marriage and half shut thereafter."
+> "Ben Franklin has married just like the most important decision you have your business career it'll do more for you good or bad than anything else Ben Franklin had the best advice ever given on marriage he said keep your eyes wide open before marriage and half shut thereafter."
 
 **Pattern 3: Citation of what great thinkers MISSED**
 This is a uniquely Munger move - he cites people for their blind spots.
 
 **Source**: 2017 Michigan talk
-> "If I ask you what was the biggest the worst single mistake in the work of Adam Smith... what he missed was how much the steady advance of technology would advance wealth and standards of living."
+> "If I ask you what was the biggest the worst single mistake in the work of Adam Smith, you know I know I'd get oh I don't see everybody big eyes lighting up, the biggest mistake in the work of Adam Smith he was totally right about markets and so on and the advantages of trade division of labor and so forth what he missed was how much the steady advance of technology would advance, wealth and standards of living. He in the 1700s, was living not too much differently than the way they lived in the Roman Empire and he just missed it but, and there in fact had been huge improvements in technology but he just missed that he wasn't very technically minded and it was really stupid."
 
-> "What was the worst mistake David Ricardo made?... he missed the second-order consequences... he didn't think about what would happen in one country had way higher living standards in another."
+> "What was the worst mistake David Ricardo made? I'll bet the Dean can't answer this question I'm not going to ask you to try. I'll tell you the answer, David Ricardo missed he got the first-order consequences of trade perfectly right and it was not an obvious insight and it was a great achievement which is yeah but he didn't think about the second-order consequences, he wasn't mathematical enough to see and he wasn't mathematical to think what would happen in one country had way higher living standards in another like Adam Smith he missed in the main issue."
 
 **Pattern 4: Uses literature/classical references as shorthand**
 **Source**: 1994 USC speech
@@ -420,7 +420,7 @@ This is a uniquely Munger move - he cites people for their blind spots.
 
 **"Synergy"** - Explicitly rejected
 **Source**: Mungerisms
-> "We don't say 'synergy' word, because people always claim synergies... We don't avoid synergies, we avoid claims of synergies."
+> "The reason we avoid the word 'synergy' is because people generally claim more synergistic benefits than will come. Yes, it exists, but there are so many false promises. Berkshire is full of synergies -- we don't avoid synergies, just claims of synergies."
 
 **"EBITDA"** - Actively mocked
 **Source**: Mungerisms
