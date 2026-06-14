@@ -780,3 +780,227 @@ Munger built his life around a few simple architectural principles:
 ---
 
 *This timeline compiled from both the local Munger corpus and web research. All statements attributed to Munger are sourced to specific speeches, interviews, or writings as indicated. Dates and biographical facts cross-referenced across multiple web sources where possible.*
+
+---
+
+## APPENDIX: 芒格之道 Timeline Additions (1987-2022)
+
+*New and corrected timeline details from 《芒格之道》(2023). Source tagged [MT-YYYY].*
+
+### TA.1 KEY EVENTS 2021-2022
+
+**2021 ([MT-2021])**:
+- February: DJCO annual meeting via Yahoo Finance livestream (no in-person audience, COVID). Munger and CEO Gerry Salzman alone in studio.
+- Confirmed DJCO's Alibaba position established (Q1 2021).
+- Criticized GameStop squeeze: "把赌徒引到股市来，让他们尽情地赌"
+- Criticized SPACs: "只要有人愿意买，投行连屎都能卖"
+- Criticized Robinhood: "罗宾汉的宣传口号很龌龊、很卑劣"
+- On Bitcoin at $50K+: "我不认为比特币将取代现有的交换媒介"
+- Rick Guerin memorial: died 2020 at 90; "参加过海军的智商测试，得分非常高，而且还提前交卷了"
+- On China: "中国创造的经济奇迹史无前例...中国走的道路应该是适合中国的"
+- On happiness: "要想幸福，第一条，降低自己的预期"
+- On BYD: "我们会对它非常忠诚，甚至有些过于忠诚"
+
+**2022 ([MT-2022])**:
+- February 17: DJCO annual meeting at LA HQ. Livestreamed by Yahoo Finance. Becky Quick (CNBC) conducted Q&A.
+- Defended China/Alibaba: "我们能以更便宜的价格买入，获得更高的公司价值"
+- Buffett divergence: "与沃伦相比，我对中国更有好感...这只是我和沃伦之间很小的一个差异"
+- Succession: "盖瑞83了，我98了，我俩都得换"
+- Cryptocurrency: "加密货币是像性病一样的脏东西...我真希望政府能立即禁止加密货币"
+- On speculation: Advocated for high short-term capital gains tax to reduce market gambling
+- On journalism's death: "95%的报纸已经不复存在了...传统媒体的衰落是文明的重大损失"
+- On Deng Xiaoping: "他必将作为一位伟大的领袖而永载史册"
+- On index fund concentration: "他们的权势堪比教皇。我不想让他们说了算"
+- On World Book Encyclopedia: "每年能获得5000万美元的税前利润" until Microsoft's free Encarta killed it - "资本主义的创造性破坏"
+- On happiness paradox: "生活水平提高了六倍，但很多人觉得非常不幸福...驱动世界发展的，不是贪婪，而是嫉妒"
+- On bureaucracy: "伯克希尔总部根本没几个人...我们不会染上官僚病"
+- On oil: "石油能源是我们的宝贵资产。我们的石油能源如同艾奥瓦州的表层土壤一样宝贵"
+
+### TA.2 CORRECTIONS/ADDITIONS
+
+**1987 Crash Warning**: [MT-1987] confirms Munger was already holding large cash positions before Black Monday - "以前的投资机会让我们感到踏实，现在我们觉得不踏实" - not because he predicted the crash but because everything looked too expensive.
+
+**Santa Barbara Real Estate Project (1970s-2000s)**: [MT-1987] through [MT-1994] provide extensive detail on Wesco's 13-year development battle: land acquired via foreclosure at ~$10/sqm, had to fund archaeological excavations ($800K+), donated half the land for public beach access, subject to Montecito 36-permits-per-year ordinance, 32 luxury homes planned (~$700K each).
+
+**The "Fishing Tackle" Story Origin**: Told as early as 1987 ([MT-1987]), not first in 1994 USC speech.
+
+**The "Graham IQ Test" Story**: [MT-1990] - Graham tested 150+ IQ investors with trick questions. Only one person got >50% right, mostly by guessing. Lesson: even the smartest can be deceived by someone smarter.
+
+**Rick Guerin Tribute**: [MT-2021] provides Munger's memorial words for his friend who died at 90 in 2020.
+
+**Blue Chip Stamps Complete Arc**: [MT-1993] - Munger: "我们本事很大，把这家公司的销售额从每年1.2亿美元搞到了30万美元" but the stock became worth >$1 billion through float investing.
+
+
+## APPENDIX: Poor Charlie's Almanack Additions [PCA]
+
+*New data from the complete Chronology section (chapter [100]) and Biography chapter of Poor Charlie's Almanack. Added 2026-06-15.*
+
+---
+
+### PCA.1 COMPLETE CHRONOLOGY FROM POOR CHARLIE'S ALMANACK (Chapter [100])
+
+**Source**: [PCA] "查理·芒格年谱" (Charlie Munger Chronology), pp. 4155-4273
+
+The following entries supplement or correct the existing timeline. Where the book provides new dates or details not in our original timeline, they are marked as [PCA-NEW]. Where the book confirms existing entries, they are noted for cross-reference.
+
+**1924**: Born January 1, Omaha, Nebraska. Father: Al Munger. Mother: Tootie Munger. [PCA confirms]
+
+**1941-1942**: Attended University of Michigan, majoring in mathematics. Dropped out. [PCA confirms]
+
+**1943**: Joined U.S. Army Air Corps, served as weather forecaster (天文士官). [PCA-NEW detail: specific military role]
+
+**1946**: Married Nancy Huggins. [PCA confirms]
+
+**1948**: Graduated Harvard Law School with honors (优秀毕业生). Began at Wright & Garrett (later Musick, Peeler & Garrett) in Los Angeles. [PCA confirms]
+
+**1949**: Passed California bar exam. [PCA-NEW: specific date for bar admission]
+
+**1950**: Met Ed Hoskins; eventually co-founded Transformer Engineers (变形者工程公司). [PCA-NEW: previously unknown business venture]
+
+**1951**: Divorced Nancy Huggins. [PCA-NEW: previously listed as 1953]
+
+**1955**: Son Teddy died of leukemia. [PCA confirms]
+
+**1956**: Married Nancy Barry Borthwick. [PCA confirms]
+
+**1959**: Met Warren Buffett at dinner arranged by children of Dr. Edwin Davis in Omaha. [PCA confirms; adds detail that Charlie was in Omaha for his father's funeral]
+
+**1960**: Demolished two houses on his Hancock Park property; sold one lot, built new house on the other. [PCA-NEW: specific detail about his LA home]
+
+**1961**: Sold Transformer Engineers with partner Ed Hoskins. Began first real estate development with Otis Booth. [PCA-NEW: previously unknown business exit]
+
+**1962**: February 1 - Founded Wheeler, Munger & Co. with Jack Wheeler in Los Angeles. Munger, Tolles & Hills law firm opened with seven lawyers including Roy Tolles, Roderick Hills (future SEC Chairman), and Carla Anderson Hills (future U.S. Trade Representative). Warren began buying Berkshire Hathaway stock. [PCA adds detail on founding partners of law firm]
+
+**1965**: Terminated law practice; ceased being active member of Munger, Tolles & Olson. Charlie, Warren, and Rick Guerin began buying Blue Chip Stamps stock. Warren acquired controlling stake in Berkshire Hathaway. [PCA confirms]
+
+**1967**: Charlie and Warren went to New York to acquire Associated Cotton Shops. Warren had earlier acquired National Indemnity and National Fire & Marine for $8.6 million. [PCA-NEW: specific NYC trip and earlier acquisition details]
+
+**1968**: Warren organized trip to Coronado, California to visit Benjamin Graham with friends and investors (including Charlie) to discuss the weak stock market. Warren began liquidating Berkshire's textile assets, transforming it into a holding company. [PCA-NEW: Coronado meeting with Graham]
+
+**1969**: Charlie and Warren provided funding and legal support for Dr. Bellows' appeal to California Supreme Court (convicted for referring patients to an abortion clinic). Charlie became trustee of Harvard School in LA (later merged with Westlake). Buffett Partnership closed at year-end with 100 partners. [PCA-NEW: Bellows case, Harvard School trusteeship date]
+
+**1972**: Through Blue Chip Stamps, acquired See's Candies for $25 million. Rick Guerin and Charlie acquired controlling stake in New America Fund. [PCA confirms]
+
+**1973**: Berkshire's newspaper The Sun, under Stan Lipsey, won Pulitzer Prize for exposé of Boys Town. Berkshire began investing in Washington Post, becoming largest shareholder outside the Graham family. [PCA-NEW: Pulitzer Prize and Post investment dates]
+
+**1974**: Charlie became Chairman of Harvard-Westlake School board (served until 1979). Warren and Charlie acquired Wesco Financial - Pasadena S&L parent. [PCA confirms; adds board chair end date]
+
+**1975**: Charlie resigned from Wheeler, Munger leadership; partnership liquidated in 1976. 1962-1975 compound annual return: 19.8% vs Dow 5%. [PCA confirms]
+
+**1976**: SEC completed investigation of Blue Chip Stamps/Wesco/Berkshire relationships; Blue Chip dispute settled. Warren and Charlie paid $115,000 to potentially affected Wesco shareholders without admitting or denying wrongdoing. Charlie became Blue Chip Stamps Chairman. [PCA adds: "既不宣称无辜，也不承认犯罪" (neither claimed innocence nor admitted guilt)]
+
+**1977**: Through Blue Chip, acquired Buffalo Evening News for $32 million. Year-end: Berkshire's Blue Chip investment appreciated 36.5%. Berkshire invested $10.9 million in Capital Cities Communications. [PCA-NEW: specific numbers]
+
+**1978**: Charlie became Berkshire Vice Chairman. Berkshire increased Blue Chip stake to 58%, enabling consolidation. Charlie's vision problems began. [PCA-NEW: vision problems onset date]
+
+**1979**: Wesco acquired Precision Steel. [PCA confirms]
+
+**1980**: Charlie's cataract surgery failed, causing blindness in left eye and extremely painful complications. Right eye vision gradually deteriorated but was resolved through surgery; afterward wore thick cataract glasses. [PCA-NEW: specific medical event and year]
+
+**1983**: Blue Chip Stamps became wholly-owned Berkshire subsidiary. Acquired Nebraska Furniture Mart. [PCA confirms]
+
+**1984**: Charlie became Wesco Financial Chairman and President. [PCA confirms; adds President role]
+
+**1985**: Wesco Financial Insurance Company established (Omaha HQ). Berkshire permanently closed all textile mills. Acquired Helzberg Diamond Shops. [PCA-NEW: Wesco insurance subsidiary year, Helzberg]
+
+**1986**: Charlie and Rick Guerin closed the hugely profitable New America Fund, distributed assets to investors. Los Angeles Daily Journal Corporation went public; Charlie became Chairman. Warren and Charlie acquired Scott & Fetzer (World Book Encyclopedia, Kirby vacuums, etc.) for $315 million. Acquired Fechheimer Brothers. [PCA-NEW: New America Fund closure year, DJCO IPO year, Scott & Fetzer price]
+
+**1987**: Berkshire invested $700 million for 20% of Salomon Brothers. Warren and Charlie elected to board. [PCA-NEW: investment amount]
+
+**1989**: Charlie resigned from U.S. League of Savings Institutions in protest of its refusal to support reasonable S&L reform. Berkshire invested $1.3 billion in three companies: Gillette, USAir, and Champion International. Charlie handled Gillette negotiations - July: bought $600M Gillette preferred, later converted to 11% common. Acquired Borsheim's in Omaha. Charlie's sister Mary died of Parkinson's disease. [PCA-NEW: League resignation, investment amounts, sister's death]
+
+**1991**: Salomon bond trader violated federal regulations, nearly bankrupting the firm. Warren, Charlie, and Munger Tolles worked to save it. Warren took over as Salomon CEO for nine months. Acquired H.H. Brown Shoe Group. [PCA confirms]
+
+**1992**: Mutual Savings & Loan surrendered its S&L charter. Acquired Lowell Shoe and Central States Indemnity. [PCA-NEW: specific acquisitions]
+
+**1993**: Charlie first appeared on Forbes 400. Berkshire sold Mutual Savings. Charlie and Warren became USAir directors (emergency appointment). Berkshire acquired Dexter Shoe for $420 million in stock. [PCA-NEW: Forbes 400 first appearance, USAir board, Dexter price]
+
+**1994**: Sold Capital Cities/ABC to Walt Disney Company, profit $2 billion. [PCA-NEW: specific transaction]
+
+**1995**: Berkshire acquired remaining 49% of GEICO for $2.3 billion. Charlie and Warren left USAir board. Acquired R.C. Willey Furniture. [PCA-NEW: GEICO percentage and price, USAir exit]
+
+**1996**: Wesco Financial Insurance acquired Kansas Bankers Surety (specialized in insuring banks, especially in the Midwest). Acquired FlightSafety International for $1.6 billion. [PCA-NEW: KBS year, FlightSafety price]
+
+**1997**: Charlie joined Costco board. Sold Salomon to Travelers Group for $9 billion; Berkshire's profit ~$1.7 billion. Acquired Star Furniture. [PCA confirms; adds amounts]
+
+**1998**: Berkshire acquired Executive Jet (NetJets) for $725 million. Travelers merged into Citigroup. Berkshire acquired Dairy Queen for $585 million, General Re for $22 billion. [PCA-NEW: specific acquisition prices]
+
+**1999**: Berkshire acquired Jordan's Furniture. Book value grew only 0.5%, worst performance in 35 years. [PCA-NEW: book value detail]
+
+**2000**: Berkshire acquired U.S. Liability (insurance), Ben Bridge Jeweler, Justin Industries (boots and bricks), Benjamin Moore (paint). Wesco acquired CORT Business Services for $386 million. Berkshire acquired 76% of MidAmerican Energy. [PCA confirms; adds CORT price and MidAmerican percentage]
+
+**2001**: Berkshire acquired MiTek (roof truss), XTRA (trailer leasing), and formed JV with Leucadia to provide $6 billion loan to Finova. Acquired Johns Manville, 87.3% of Shaw Industries ($4B annual revenue carpet maker). Annual report disclosed $3.77 billion loss ($2.5 billion from 9/11). [PCA-NEW: extensive acquisition detail, loss figures]
+
+**2002**: Berkshire acquired CTB (poultry/hog/egg equipment), Garan (children's animal toys), Pampered Chef (direct-sale kitchen tools), Kern River Gas and Northern Natural Gas. Acquired Larson-Juhl (frame wholesaler) and Fruit of the Loom. Sold $400 million SQUARZ bonds - first-ever negative interest rate bonds. [PCA-NEW: acquisitions and the SQUARZ negative-rate bond innovation]
+
+**2003**: Berkshire acquired Clayton Homes and McLane Company. Don Keough, Tom Murphy, David Gottesman, and Charlotte Guyman joined Berkshire board (11 directors). [PCA-NEW: board additions]
+
+**2004**: Charlie celebrated 80th birthday. Buffett disclosed in annual letter (March 2004) that he invested in foreign currencies for "first time ever" - $12 billion across 5 currencies. Bill Gates joined Berkshire board. [PCA-NEW: Gates joined board, currency bet detail]
+
+**2005**: Berkshire acquired Medical Protective (medical malpractice insurer for doctors/dentists) and Forest River (leading RV manufacturer). Berkshire exchanged ~10% Gillette stake for P&G shares. [PCA-NEW]
+
+**2006**: Nancy and Charlie's golden wedding anniversary (50 years). Berkshire acquisitions: Business Wire, 85% of Applied Underwriters, PacifiCorp ($5.1 billion cash - largest at that time), 80% of Iscar Metalworking ($4 billion, Israel-based), Russell Corporation. [PCA-NEW: anniversary, acquisition details]
+
+**2007**: Charlie became longest-living Munger, surpassing Reuben Munger. Acquisitions: TTI, VF Corp's intimate apparel, two jewelry suppliers merged into Richline Group. Announced deal to acquire 60% of Marmon Holdings for $4.5 billion (with plan for remaining 40% over 5-6 years). Agreed to provide reinsurance to Equitas (Lloyd's pre-1992 policies). [PCA-NEW: "longest-living Munger" milestone, Marmon structure, Equitas deal]
+
+**2008**: Berkshire opened new municipal bond insurance company; offered to reinsure ~$800 billion tax-exempt bonds from 3 largest muni bond insurers. Berkshire acquired $14.5 billion in preferred stock from Wrigley ($23B JV with Mars), Goldman Sachs ($3.5B), and GE. [PCA-NEW: muni bond insurer moves, preferred stock terms]
+
+**2009**: At Wesco annual meeting, Charlie emphasized importance of business ethics. November 3, 2009: Berkshire announced $26 billion cash+stock to acquire remaining 77.4% of Burlington Northern Santa Fe - largest deal in Berkshire history. Daily Journal deployed $20 million cash into bank stocks at market bottom (Wells Fargo, Bank of America), generating substantial returns. [PCA-NEW: DJCO bank stock deployment detail]
+
+**2010**: At Harvard-Westlake interview/Q&A, Charlie discussed 2007-2008 financial crisis, citing American philosopher Charles Frankel's philosophy of responsibility. [PCA-NEW: Frankel reference]
+
+**2011**: Charlie ceased being Wesco CEO and Chairman. June 2011: Berkshire acquired remaining ~20% of Wesco. March 14, 2011: Berkshire announced $9 billion cash acquisition of Lubrizol - one of largest deals. March 25, 2011: Berkshire entered Indian insurance market via BerkshireInsurance.com. August 26, 2011: Berkshire bought $5 billion Bank of America preferred stock. [PCA-NEW: Lubrizol price, India entry, BofA preferred]
+
+**2013**: February 14, 2013: Berkshire and 3G Capital announced $28 billion (including debt) acquisition of Heinz. [PCA-NEW]
+
+**2014**: Charlie celebrated 90th birthday. [PCA confirms]
+
+**2015**: June 18, 2015: Berkshire acquired 46.2 million Heinz common shares, becoming 52.5% majority owner. August 10, 2015: Berkshire announced $235/share acquisition of Precision Castparts. Berkshire's Wells Fargo stake grew from 300M shares (2009) to 500M shares by year-end 2015, worth $27.2 billion on $12.7 billion cost basis - largest Berkshire holding. [PCA-NEW: detailed share numbers, Precision Castparts price]
+
+---
+
+### PCA.2 CORRECTIONS AND ADDITIONS TO DATES
+
+Based on the PCA Chronology, the following corrections should be noted against the existing timeline:
+
+1. **Divorce from Nancy Huggins**: PCA dates this to **1951** not 1953 (existing timeline says 1953). The Biography chapter confirms this: "他的婚姻遇到了问题，他和他的妻子最终在1953年离婚" (Ch.1 says 1953), but the Chronology says 1951. Given the inconsistent sources, PCA Chronology (1951) may be more authoritative.
+
+2. **Transformer Engineers**: Munger co-founded a company called Transformer Engineers (变形者工程公司) with Ed Hoskins around 1950, sold in 1961. This business venture was previously unknown in existing research.
+
+3. **First Forbes 400 appearance**: 1993 (not earlier). Existing research didn't specify the year.
+
+4. **Cataract surgery failure**: 1980 - left eye blind, extremely painful complications. Right eye saved through surgery but required thick cataract glasses thereafter. This significant health event was missing from the existing timeline.
+
+5. **Vision problems began**: 1978, not later as implied in some sources.
+
+6. **Munger became longest-living family member**: 2007, surpassing Reuben Munger.
+
+7. **SQUARZ bonds**: 2002 - first-ever negative interest rate bonds ($400 million). This financial innovation was Berkshire-specific and not captured in existing research.
+
+---
+
+### PCA.3 NEW BOOK-LEVEL DETAIL: THE CORT ACQUISITION PRICE AND TIMING
+
+**Source**: [PCA] Chapter 1 and Chronology
+
+The book specifies: Wesco acquired CORT for $386 million in cash in 2000. The acquisition was "almost exactly at the peak of the dot-com bubble" and the furniture rental business was "heavily dependent on corporate relocations, IPO activity, and tech-sector expansion - all of which collapsed immediately after."
+
+---
+
+### PCA.4 FAMILY HISTORY DETAILS NOT IN EXISTING TIMELINE
+
+**Source**: [PCA] Chapter 1, Biography section
+
+1. **Munger's maternal grandfather**: Harvard School of Architecture honors graduate, architect by profession. This explains Munger's lifelong interest in architecture.
+
+2. **Childhood labor**: At the Buffett & Son grocery store, young workers worked 12-hour shifts with no eating or breaks, paid $2/day, and had to pay 2 cents for the new Social Security tax. Ernest Buffett's admonition: "Socialism is problematic."
+
+3. **Young Charlie's negotiation skills**: He traded hamsters, usually getting larger ones or rare colors. His mother forced him to stop at 35 hamsters because the basement was too smelly.
+
+4. **High school**: Central High School, Omaha. Smallest in his class (started school early due to early reading). Joined the rifle team due to lack of size for regular sports, became captain and won Distinguished Representative award. His father was a duck hunter and was proud of his son's marksmanship.
+
+5. **Munger's IQ**: The book mentions "空军的测试表明他的智商极高" (Air Force tests showed his IQ was extremely high).
+
+6. **Harvard Law admission**: Was initially rejected (no undergraduate degree), but former Harvard Law Dean Roscoe Pound, a family friend, personally intervened. Pound was then 94 years old. The admissions office made Charlie take undergraduate courses first.
+
+7. **Résumé**: Graduated Harvard Law as one of 12 honor graduates out of 335 students.

@@ -731,3 +731,339 @@ This sets up his entire critique as the answer to a single question he's been st
 > Howard Marks: "No, I think Charlie it is close to right. I think that the problems we've had have stemmed from human failings and they are never going to change."
 
 **Analysis**: Munger uses a peer validation technique - calling on a respected investor (Howard Marks) in the audience to confirm his analysis. This is an unusual interactive move for Munger, who normally operates as a solo authority. [Genuinely NEW interactive pattern]
+
+
+## APPENDIX: Poor Charlie's Almanack Additions [PCA]
+
+*New content extracted from Poor Charlie's Almanack Chapter 3 "Mungerisms" (Talks at Berkshire and Wesco 2001-2006) and other chapters. Added 2026-06-15.*
+
+---
+
+### PCA.1 NEW ONE-LINERS FROM CHAPTER 3 "MUNGERISMS" (Not in Existing Database)
+
+These are quotes from the book's curated "Mungerisms" section (2001-2006 meeting excerpts) that are NOT already captured in our research files. Each is tagged with the book's original topic section.
+
+**On Success and Investment Philosophy:**
+
+1. > "我们赚钱，靠的是记住浅显的，而不是掌握深奥的。我们从来不去试图成为非常聪明的人，而是持续地试图别变成蠢货，久而久之，我们这种人便能获得非常大的优势。" [PCA, Ch.3, "我们成功的关键"]
+
+("We make money by remembering the obvious, not by grasping the esoteric. We never try to be very smart, but continuously try not to be stupid. Over time, people like us gain a very large advantage.")
+
+2. > "如果乌龟能够吸取它那些最棒前辈的已经被实践所证明的洞见，有时候它也能跑赢那些追求独创性的兔子。" [PCA, Ch.3, "我们成功的关键"]
+
+("If a tortoise can absorb the proven insights of its best predecessors, sometimes it can outrun rabbits that pursue originality.")
+
+3. > "有人曾经说，'每有一群追寻独创性的兔子，就有一群忽视前人最优秀工作的蠢货之列的兔子。'" [PCA, Ch.3]
+
+("Someone once said, for every group of rabbits pursuing originality, there's a group of rabbits in the column of fools who ignore the best work of predecessors.")
+
+**On Investment Style / "Sit on Your Ass":**
+
+4. > "我们偏向于把大量的钱投在我们不用再另作决策的地方。" [PCA, Ch.3, "坐等投资法"]
+
+("We prefer to put large amounts of money where we won't have to make another decision.")
+
+5. > "有这么两类企业：第一类每年赚12%，你到年底可以把利润拿走。第二类每年赚12%，但所有多余的现金必须进行再投资——它总是没有分红。这让我想起了那个卖建筑设备的家伙——他望着那些从购买新设备的客户手里吃进的二手机器，并说：'我所有的利润都在那里了，在院子里生锈。'我们讨厌那种企业。" [PCA, Ch.3, "优秀企业是什么？"]
+
+("There are two types of businesses: The first earns 12% and you can take the profits at year-end. The second earns 12% but all excess cash must be reinvested - it never pays dividends. Reminds me of the construction equipment salesman looking at used machines taken as trade-ins: 'All my profits are out there, rusting in the yard.' We hate that kind of business.")
+
+**On Size and Growth Constraints:**
+
+6. > "所有的经济发展都会在规模越来越大的过程中锻造出它们自己的数学铁锚。" [PCA, Ch.3, quoting Buffett]
+
+("All economic development forges its own mathematical anchor as it grows larger and larger.")
+
+7. > "在未来，伯克希尔和西科的收益将不会像过去那么好。（所有大型成功企业的情况都是这样的。）惟一的区别是我们会告诉你们。" [PCA, Ch.3, "伯克希尔的未来展望"]
+
+("In the future, Berkshire and Wesco's returns won't be as good as in the past. (This is true of all large successful companies.) The only difference is we'll tell you.")
+
+**On People Who Shouldn't Be in Investing:**
+
+8. > "如果我有机会进入某个企业工作，而那里的人用各种指数标准来衡量我，逼我把钱都投出去，聚集在周围监视我，那么我会讨厌这家企业。我会有戴上脚镣手铐的感觉。" [PCA, Ch.3, "集中投资"]
+
+("If I had the chance to work at a firm where people measured me by various index benchmarks, forced me to put all my money to work, and gathered around to watch me, I would hate that firm. I'd feel like I was in shackles.")
+
+**On Macroeconomics and Prediction:**
+
+9. > "人们总是喜欢请人来为他们预测未来。很久很久以前，有些国王会请人来解读绵羊的内脏。假装知道未来的人总是有市场的。聆听今天的预测家的行为，就像古代国王请人看绵羊的内脏那么疯狂。" [PCA, Ch.3, "预测的价值"]
+
+("People have always liked to hire others to predict the future. Long ago, kings would hire people to read sheep entrails. There's always a market for people who pretend to know the future. Listening to today's forecasters is as crazy as ancient kings consulting sheep entrails.")
+
+10. > "我觉得都没有用。我只是密切关注伯克希尔的各家子公司，常常阅读商业报纸和杂志而已，由此我能接触到大量宏观层面的东西。我发现我只要这么做，就足以了解宏观层面正在发生什么情况了。" [PCA, Ch.3, "'我没有什么要补充的'第二篇", responding to "what macro data do you watch?"]
+
+("I find none of it useful. I just closely follow Berkshire's subsidiaries, and frequently read business newspapers and magazines. Through that, I get enough exposure to macro-level information. I've found that as long as I do this, I can adequately understand what's happening at the macro level.")
+
+**On Accounting / Wall Street:**
+
+11. > "会计人员应该明白的基本原则是，报表不应以报表编制者的利益为中心。报表惟一的使命是服务使用者。" [PCA, Ch.3, "对会计的批评", quoting C.F. Braun]
+
+("The basic principle accountants should understand is that financial statements should not center on the interests of the preparer. The sole mission of statements is to serve the user.")
+
+12. > "如果你把尾巴称为腿，那么一只狗有几条腿呢？四条。将尾巴称为腿，并不能让它就变成腿。" [PCA, Ch.3, quoting Buffett on pension return assumptions]
+
+("If you call a tail a leg, how many legs does a dog have? Four. Calling a tail a leg doesn't make it a leg.")
+
+**On Derivatives:**
+
+13. > "我认为，要测试任何（有显著衍生品风险的）大型机构的管理人员的智力和道德水准，最好的方法是问他们：'你真的能理解你的衍生品账目吗？'如果有人说是，那这个人要么疯掉了，要么是在说谎。" [PCA, Ch.3, "衍生品"]
+
+("I think the best way to test the intelligence and moral standards of any large institution's management is to ask them: 'Do you really understand your derivatives book?' If someone says yes, that person is either crazy or lying.")
+
+**On Humor:**
+
+14. > "我宁愿将毒蛇丢进我的衬衣里，也不愿聘用一名薪酬顾问。" [PCA, Ch.3, "幽默"]
+
+("I would rather throw a viper into my shirt than hire a compensation consultant.")
+
+15. > "在企业界，如果你聘请了分析师，在并购时进行了尽职调查，却不具备常识，那么你遇到的将会是地狱。" [PCA, Ch.3, "幽默"]
+
+("In the business world, if you hire analysts and do due diligence on M&A, but lack common sense, what you'll encounter is hell.")
+
+16. > "如果你取得了很高的地位，那么你必须遵守某些行为规则。如果你是一个喜欢酗酒的铲沙工人，你可以去脱衣舞俱乐部；但如果你是波士顿的主教，那你就不应该去了。" [PCA, Ch.3, "幽默"]
+
+("If you've achieved high status, you must follow certain behavioral rules. If you're a sand-shoveler who likes to drink, you can go to strip clubs. But if you're the bishop of Boston, you shouldn't.")
+
+---
+
+### PCA.2 "I HAVE NOTHING TO ADD" - THE COMPLETE ANTHOLOGY FROM THE BOOK
+
+**Source**: [PCA] Various chapters
+
+The book documents the legendary status of Munger's signature deflection:
+
+**PCA.2.1 The Cardboard Charlie**
+> "1998年9月，在为收购通用再保险公司而召开的特别大会上，沃伦真的用一个硬纸板做成的查理人像和一段查理说'我没有什么要补充的'的录音出现在主席台上。我的一个朋友参加了该大会，据他说，'沃伦大概播了六次这段录音，每次都会露出顽皮的神色。'" [PCA, Ch.3 Introduction]
+
+("At the September 1998 special meeting for the Gen Re acquisition, Warren actually appeared on stage with a cardboard Charlie figure and a recording of Charlie saying 'I have nothing to add.' A friend who attended said Warren played it about six times, each time with a mischievous look.")
+
+**PCA.2.2 The Editor's Use of "I Have Nothing to Add" as Section Transitions**
+
+Peter Kaufman, the editor, brilliantly uses "我没有什么要补充的" (I have nothing to add) as section transitions throughout the book. There are at least three explicit "我没有什么要补充的" sections:
+
+- **第一篇** (Part 1): The closed-bid auction question at Harvard Faculty Club (1994) - "萨克豪瑟会理解的原因" (a reason Sackhouser would understand)
+- **第二篇** (Part 2): The macroeconomic data question - Munger says he finds no macro statistics useful
+- **最后一篇** (Final): The Latin American reformer question from the 2005 Psychology speech - Munger refuses to dig out the paper
+
+**PCA.2.3 Buffett on Calibrating Charlie's "No"**
+> "你千万要学会如何校准他的答案。如果你问查理某个项目，他说'不'，那么我们会用所有的钱来投资它。如果他说'这是我听过的最愚蠢的事情'，那么我们就会适当地做一点投资。" [PCA, Ch.3, "查理是可恶的'说不大师'", Buffett speaking]
+
+("You absolutely must learn to calibrate his answers. If you ask Charlie about a project and he says 'No,' we'll invest all our money in it. If he says 'That's the stupidest thing I've ever heard,' then we'll make a moderate investment.")
+
+**PCA.2.4 Charlie Accepts the Nickname**
+In a 2004 meeting dialogue:
+> 沃伦："查理，你还有什么要说的吗？"
+> 查理："没有，我觉得你说'不'说得很完美了。" [PCA, Ch.3]
+(Warren: "Charlie, do you have anything to add?" Charlie: "No. I think you said 'No' perfectly.")
+
+---
+
+### PCA.3 NEW METAPHORS AND ANALOGIES NOT IN EXISTING DATABASE
+
+**PCA.3.1 The Maytag Repairman (Munger Applied to Himself)**
+> "最近我跟杰克·麦克唐纳聊天，他在斯坦福商学院上一门以我们的原则为基础的投资课。他说那很孤独——他觉得自己像是那个美泰克家电维修员。" [PCA, Ch.3]
+
+(Referring to the Maytag repairman - the loneliest person in town because Maytag products never break. Applied to those who follow Berkshire's methods in a world that does things differently.)
+
+**PCA.3.2 "Bonkers" Applied to Pension Fund Assumptions**
+> "当前这种（假设养老基金能够获得高得脱离现实的回报率）做法是愚蠢而且不正当的。但如果你跟管理人员提出来，他们的眼睛在敌意来临之前就已经瞪上你了。" [PCA, Ch.3]
+
+("The current practice of assuming unrealistically high pension fund returns is stupid and improper. But if you bring it up with management, their eyes have already glared at you before the hostility arrives.")
+
+**PCA.3.3 "His Bread I Eat, His Song I Sing" Extended**
+> "下面这句谚语很好地总结了那些会计人员什么话也不说的原因：'谁给我面包吃，我就给谁唱歌。'" [PCA, Ch.3]
+
+(The proverb that captures why accountants say nothing: "Whose bread I eat, his song I sing.")
+
+**PCA.3.4 "In Engineering, People Have Huge Safety Margins. In Finance, None."**
+> "在工程领域，人们拥有很大的安全边际。但在金融界，人们根本不考虑安全。他们只是追求扩张扩张扩张。做假账为此推波助澜。对此我比沃伦更加悲观。" [PCA, Ch.3]
+
+("In engineering, people have huge safety margins. But in finance, people don't consider safety at all. They just pursue expansion, expansion, expansion. False accounting fuels this. On this point I'm more pessimistic than Warren.")
+
+**PCA.3.5 "Bonkers" for People Who Think Options Have No Cost**
+> "任何反对这种看法的人都是神经病。这些人（投票支持不将股票期权算为成本的88名参议员）是愚蠢而可耻的。他们知道那是错误的，偏偏还那么做。" [PCA, Ch.3]
+
+("Anyone who opposes this view is bonkers. These people [the 88 Senators who voted not to expense stock options] are stupid and shameful. They know it's wrong and they did it anyway.")
+
+---
+
+### PCA.4 THE "SELF-MADE SYSTEM" - Munger's Originality
+
+**Source**: [PCA] Chapter 2 and Chapter 3 Introduction
+
+The book's editorial framing emphasizes that Munger CREATED his system from scratch:
+
+> "查理的投资方法和大多数投资者所用的较为粗陋的系统完全不同。查理不会对一家公司的财务信息进行肤浅的独立评估，而是对他打算要投资的公司的内部经营状况及其所处的、更大的整体'生态系统'作出全面的分析。他将他用来作出这种评估的工具称为'多元思维模型'。" [PCA, Ch.2]
+
+("Charlie's investment method is completely different from the crude systems used by most investors. Charlie doesn't conduct superficial independent evaluations of a company's financial information. Rather, he performs comprehensive analysis of the company's internal operations AND its place in the larger overall 'ecosystem.' He calls the tools he uses for this evaluation 'multiple mental models.'")
+
+> "查理找不到现成的方法来解决这个任务，所以他费劲地自创了大部分通过自学得来的系统。" [PCA, Ch.2]
+
+("Charlie couldn't find an existing method to solve this problem, so he painstakingly created most of his system through self-study.")
+
+This editorial emphasis on Munger's ORIGINALITY - his system was self-created, not learned from anyone - is a framing not present in the raw speech transcripts.
+
+---
+
+### PCA.5 THE COSTCO BOARD RECRUITMENT STORY
+
+**Source**: [PCA] Chapter 3, Jim Sinegal's account
+
+Jim Sinegal, Costco CEO, describes recruiting Munger to the board:
+
+> "八年前，查理同意在洛杉矶的加州俱乐部和我共进午餐……我的目的是说服他加入好市多，成为我们的董事。刚见面时，查理说他非常喜欢在好市多购物，我一下子就喜欢他了；我们的对话不断被打断——当天去吃饭的还有另外500个人，每个人都想跟查理寒暄几句，而查理几乎能叫出他们所有人的名字。" [PCA, Ch.3, 塞内加尔谈芒格]
+
+("Eight years ago, Charlie agreed to have lunch with me at the California Club in LA. My goal was to persuade him to join Costco's board. When we met, Charlie said he really enjoyed shopping at Costco, and I liked him immediately. Our conversation was repeatedly interrupted - 500 other people were dining there that day, and everyone wanted to greet Charlie, and Charlie could name almost all of them.")
+
+Munger's response: "他称自己为'古稀老人'" (He called himself an "ancient septuagenarian" - using a very literary Chinese expression). Sinegal's reaction: "他居然会跟从事仓储业的人说起这么文雅的词汇；他觉得我能听懂，这让我的虚荣心得到很大的满足。" (He actually used such an elegant term with someone in the warehouse business; the fact that he thought I'd understand it greatly satisfied my vanity.)
+
+---
+
+## APPENDIX: 芒格之道 Q&A Patterns (1987-2022)
+
+*New patterns, one-liners, and stylistic observations from 《芒格之道》(2023), the complete Chinese compilation of Munger's shareholder meeting Q&A. Source tagged [MT-YYYY].*
+
+---
+
+### MT.1 NEW Q&A PATTERNS NOT IN EXISTING DATABASE
+
+#### MT.1.1 The "Swallow Your Pride" Deflection
+
+**Source**: [MT-2021], [MT-2022]
+
+Late-career Munger developed a specific technique for deflecting questions about complex topics he doesn't understand: He frames ignorance as wisdom.
+
+**Example ([MT-2021]):**
+Question about hydrogen energy in transportation:
+> "很抱歉，你的问题不在我的能力圈范围之内，我答不出来。" (Sorry, your question is outside my circle of competence, I can't answer.)
+
+**Example ([MT-2022]):**
+Question about whether Costco is overvalued:
+> "按开市客现在的股价，我不一定会买，但我绝对不会卖。" (At Costco's current price, I might not buy, but I would absolutely never sell.)
+
+**Analysis**: This is different from the classic "I have nothing to add" deflection. Here, Munger gives a partial, nuanced answer that refuses binary framing - he won't say "buy" or "sell," but gives his actual mental state (holding through overvaluation because quality is so high).
+
+---
+
+#### MT.1.2 The "Turning the Question Around" Technique (Early Career Version)
+
+**Source**: [MT-1987], [MT-1990], [MT-1993]
+
+Younger Munger more actively reframes questions than the older Munger. The book shows this pattern was deployed from his very first meetings.
+
+**Example ([MT-1990]):**
+Question about whether Wesco can replicate past success:
+> "我要是真知道如何复制过去的成功，那可好了。其实，大多数时候，我们什么都不做。我们出手的时候很少。即使是出手的时候，我们也是如履薄冰，对可能承担的风险感到不安。"
+
+**Analysis**: He converts a question about "how to win" into an answer about "how not to lose" - turning the question around (inversion as Q&A technique) rather than answering directly.
+
+---
+
+#### MT.1.3 The "Share the Pain" Moment
+
+**Source**: [MT-2021]
+
+When asked about the difficulty of investing:
+> "你觉得难的话，说明你的脑子是清醒的，投资当然难了。和我们这代人相比，现在的年轻人，太难了。现在的年轻人，想要出人头地，想要获得财富，必须比我们那时候付出远远更多的努力。"
+
+**Analysis**: This is Munger at his most empathetic - a rare mode. Instead of the Mozart-like "you can't do it" deflection, he validates the questioner's struggle and places it in generational context. This "share the pain" pattern appears more frequently in his very late years (2021-2022).
+
+---
+
+#### MT.1.4 The "Loyalty Disclosure" Pattern
+
+**Source**: [MT-2021], [MT-2022]
+
+When asked about selling, Munger makes his emotional attachment explicit:
+
+**Example ([MT-2021]):**
+> "如果我们喜欢一家公司、喜欢它的管理层，比亚迪就是一个例子，我们会对它非常忠诚，甚至有些过于忠诚。这一点，我们不会变。"
+
+**Example ([MT-2022]):**
+> "按开市客现在的股价，我不一定会买，但我绝对不会卖。"
+
+**Analysis**: Munger's open admission of "excessive loyalty" is unusual for a value investor. He essentially acknowledges a behavioral bias and refuses to correct for it - a rare departure from pure rationality.
+
+---
+
+#### MT.1.5 The Self-Deprecating Humor About Age (Evolved Form)
+
+**Source**: [MT-2021], [MT-2022]
+
+Munger weaponizes his age with a specific new technique - openly acknowledging his limitations while continuing to operate:
+
+> "我都这个岁数了，对自己的要求放松了很多。回顾这一生，我很知足。别人做得比我好，我也不在意了。" ([MT-2021])
+
+> "我这么大岁数了，去自己想去的地方投资，这点自由还是可以有的。" ([MT-2022])
+
+**Analysis**: Late-career Munger uses age as both shield and sword - it excuses lower standards while justifying contrarian positions (investing in China while Buffett doesn't).
+
+---
+
+### MT.2 NEW MEMORABLE ONE-LINERS FROM 1987-1998 AND 2021-2022
+
+**From 1987-1998 period (NOT in existing corpus):**
+
+1. [MT-1987] "我喝酒，但我的市政债券不喝酒。" (I drink, but my municipal bonds don't drink.) — On separating asset quality from personal behavior, quoting an old investor.
+
+2. [MT-1988] "在发放贷款之前，就把贷款收回来了。" (Collect the loan before you make it.) — Texas banking maxim.
+
+3. [MT-1989] "河里淹死的都是会水的。" (Those who drown in rivers are those who know how to swim.) — On the danger of competence breeding overconfidence.
+
+4. [MT-1990] "格雷厄姆是个非常聪明的人。他在题目中故意设置了陷阱，让我们都中计了。" — On Graham's IQ test trap lesson: "如果比你聪明很多的人要骗你，你再怎么判断和分析，也很难不受骗。"
+
+5. [MT-1992] "关注IPO市场犹如在下水道里淘金。" (Paying attention to the IPO market is like panning for gold in a sewer.)
+
+6. [MT-1992] "吃一百个豆不嫌腥。" (Eating a hundred beans without noticing the stink.) — On institutions that never learn from being cheated.
+
+7. [MT-1993] "玩金融的，动不动手指头，钱就来了，人很容易失去理智。" — On why finance corrupts: you make money just by moving your fingers.
+
+8. [MT-1997] "好矿不怕管理差。" (A good mine doesn't fear bad management.) — On fault-tolerant businesses.
+
+9. [MT-1997] "有时候需要播种，有时候需要收获，也有时候需要熬过寒冬、保住命。" (Sometimes you sow, sometimes you harvest, and sometimes you just need to survive the winter.)
+
+10. [MT-1998] "我们已经进入了资本主义的困难模式。" (We have entered capitalism's Hard Mode.) — On the investing environment getting tougher.
+
+**From 2021-2022 period (NOT in existing corpus):**
+
+11. [MT-2021] "只要有人愿意买，投行连屎都能卖。" (As long as someone will buy, investment banks will sell even sh*t.) — On SPACs.
+
+12. [MT-2021] "比特币更像一种人造黄金。我从来不买黄金，当然也不买比特币。" (Bitcoin is more like artificial gold. I never buy gold, and of course I don't buy Bitcoin.)
+
+13. [MT-2021] "虱子和跳蚤哪个更好一些，我没法选。" (Between lice and fleas, I can't choose which is better.) — On being asked to compare Tesla's valuation and Bitcoin's price, quoting Samuel Johnson.
+
+14. [MT-2021] "想过得幸福很简单。要想幸福，第一条，降低自己的预期。" (Wanting to be happy is simple. First rule: lower your expectations.)
+
+15. [MT-2022] "加密货币是像性病一样的脏东西，我连正眼瞧一下都不愿意。" (Cryptocurrency is something dirty like a venereal disease, I won't even give it a direct glance.)
+
+16. [MT-2022] "报纸消亡了，取而代之的是一群博眼球的疯子。" (Newspapers died, replaced by a bunch of attention-seeking madmen.)
+
+17. [MT-2022] "潮水有起有落，我不妄想预测潮水的起落，我只想着自己怎么能游得好一些。" (Tides rise and fall. I don't bother predicting them; I just focus on swimming well.)
+
+18. [MT-2022] "如果你的预期更符合现实，你就不会那么痛苦。" (If your expectations match reality, you won't suffer as much.)
+
+19. [MT-2022] "生活水平提高了六倍，但很多人觉得非常不幸福...驱动世界发展的，不是贪婪，而是嫉妒。" (Living standards rose sixfold, but many feel very unhappy... What drives the world is not greed, but envy.)
+
+---
+
+### MT.3 HOW MUNGER'S Q&A STYLE EVOLVED (35-Year Arc)
+
+**Younger Munger (1987-1995):** More technical, more willing to explain specific business operations (loan policies, insurance reserving, real estate development details). More combative tone with regulators. Passionate about S&L crisis analysis. Still establishing his public voice.
+
+**Middle Munger (1996-2005):** Peak "teaching mode." Organizes answers around mental models. References to books and frameworks increase. Starts using the "hammer" metaphor regularly. The "I have nothing to add" trademark emerges at Berkshire meetings.
+
+**Older Munger (2006-2015):** Peak compression. Answers get shorter, sharper, funnier. More one-liners. Less patient with repetitive questions.
+
+**Late Munger (2016-2022):** Visible softening on some edges. More willing to admit he "doesn't know" without edge. More reflective. The "share the pain" mode emerges. Yet the core framework remains extraordinarily consistent - in 2022, at age 98, he is still making the same arguments about speculation, envy, rationality, and value investing that he made in 1987 at age 63.
+
+---
+
+### MT.4 NEW SPECIFIC Q&A MOMENTS OF NOTE
+
+**1987 - First meeting with shareholders:**
+Munger establishes his persona immediately - humble about the future ("我们根本没有预知未来的能力"), skeptical about acquisitions ("真有我们看好的公司，我们会尽全力追求，但现在没一个我们看好的"), and candid about limitations.
+
+**1990 - The Graham IQ test revelation:**
+Munger reveals that Ben Graham once administered a trick quiz at a gathering of 150+ IQ investors. Only one person got more than half the questions right - and that was by guessing. The lesson: "如果比你聪明很多的人要骗你，你再怎么判断和分析，也很难不受骗。" This story does NOT appear in our existing corpus.
+
+**2022 - The "not fooling yourself" about macro:**
+> "很难预测好公司未来将如何...要预测过去哪家公司发展得好，这很简单，因为过去发生的事，我们已经知道了。要预测将来会怎样，那可就难了。我真说不好。"

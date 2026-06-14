@@ -806,3 +806,326 @@ For the first time in the Wesco letters, Munger provides an explicit statement o
 > "Strategically, we strive to invest in businesses that possess excellent economics, with able and honest management, at sensible prices. We prefer to invest a meaningful amount in each investee, resulting in concentration, exposing the portfolio to more significant market price fluctuations than might be the case were Wesco's investments more diversified. Concentration has worked out very well in the past as evidenced by significant realized investment gains. Most equity investments are expected to be held for long periods of time; thus, we are not ordinarily troubled by short-term price volatility with respect to our investments provided that the underlying business, economic and management characteristics of the investees remain favorable. We strive to maintain much liquidity to provide a margin of safety against short-term equity price volatility."
 
 **Analysis**: This is the most complete, formal statement of Munger's investment strategy in any of the 13 shareholder letters. It covers: (1) business quality, (2) management quality, (3) price discipline, (4) concentration preference, (5) tolerance for volatility, (6) long holding periods, (7) liquidity as margin of safety. [Genuinely NEW as a formal strategy statement in an SEC filing]
+
+
+## APPENDIX: Poor Charlie's Almanack Additions [PCA]
+
+*New content from the complete Poor Charlie's Almanack text. Added 2026-06-15.*
+
+---
+
+### PCA.1 PARTNERSHIP HISTORY - FULL DETAILS FROM CHAPTER 1 (BIOGRAPHY)
+
+**Source**: [PCA] Chapter 1: "查理·芒格传略" (Biography by Michael Broggie)
+
+The book's biographical chapter provides rich detail about Munger's partnership history not fully captured in existing research:
+
+**PCA.1.1 The Meeting with Buffett (1959) - Extended Account**
+
+The book provides the most complete version of the meeting, including Charlie's father's funeral as context:
+
+> "查理的父亲去世了，查理必须返回奥马哈料理后事。为了欢迎查理回家，查理的朋友兼医师埃德·戴维斯医生的子女们安排了一个晚宴。戴维斯的两个儿子埃迪和尼尔都是查理童年的死党……出席晚宴的有薇拉和李希曼、尼尔和他的妻子琼，以及一个叫做沃伦·巴菲特的小伙子。" [PCA, Ch.1]
+
+(Charlie's father died, and Charlie had to return to Omaha to handle affairs. To welcome him home, the children of Dr. Ed Davis arranged a dinner. ... Attending were Willa and Lee Seemann, Neil and his wife Joan, and a young man named Warren Buffett.)
+
+**Comparison of ages**: Warren was 29, Charlie was 35.
+
+**The "both laughing at their own jokes" moment:**
+> "那天晚上，两位年轻人——沃伦29岁，查理35岁——相谈甚欢，他们无所不谈，话题包括商业、金融和历史的许多方面。如果其中一方在某个方面的知识比较丰富，另外一方就会很兴奋地洗耳恭听。" [PCA, Ch.1]
+
+(That night, the two young men - Warren 29, Charlie 35 - had a wonderful conversation. They talked about everything: business, finance, history. If one had more knowledge on a subject, the other would listen with great excitement.)
+
+**Buffett's immediate attempt to recruit:**
+> "沃伦对查理继续从事律师职业不以为然。他说查理固然可以把当律师作为一种爱好，可是当律师赚的钱没有沃伦正在做的事情赚得多。沃伦的逻辑帮助查理在经济条件许可的时候第一时间放弃了律师生涯。" [PCA, Ch.1]
+
+(Warren was unimpressed with Charlie continuing as a lawyer. He said Charlie could treat law as a hobby, but lawyering wouldn't make as much money as what Warren was doing. Warren's logic helped Charlie abandon his legal career as soon as economic conditions permitted.)
+
+**The continuing correspondence:**
+> "查理返回洛杉矶之后，他们的交流还在继续，通过电话和长长的信件，有时他们的信长达九页。他们都明白两个人注定要一起做生意。" [PCA, Ch.1]
+
+(After Charlie returned to LA, their communication continued via phone calls and long letters, sometimes nine pages long. Both understood they were destined to do business together.)
+
+**No formal contract:**
+> "他们之间不存在正式的合伙关系或契约关系——这种纽带是由两个相互理解、相互信赖的中西部人的一次握手和拥抱创造出来的。" [PCA, Ch.1]
+
+(There was no formal partnership agreement or contract between them - the bond was created by a handshake and embrace between two mutually understanding and trusting Midwesterners.)
+
+**PCA.1.2 The Munger, Tolles & Olson Origin Story**
+
+The book provides the creation date and founding partners:
+
+> "1962年2月，他和四个来自穆西克、毕勒&加雷特的同事合伙成立了新的律师事务所。最初的五位合伙人分别是罗伊·托尔斯、罗德里克·希尔斯、狄克·艾斯本思赫德、弗雷德·沃尔德和查理。后来成为合伙人的还有罗德的太太卡尔拉，以及詹姆斯·伍德……他们把律师事务所命名为芒格、托尔斯&希尔斯。" [PCA, Ch.1]
+
+(February 1962: Charlie and four colleagues from Musick, Peeler & Garrett founded a new law firm. The original five partners: Roy Tolles, Roderick Hills, Dick Esbenshade, Fred Warder, and Charlie. Later joined by Rod's wife Carla Hills [future U.S. Trade Representative] and James Wood. Named Munger, Tolles & Hills.)
+
+**Munger left the firm after only 3 years of practice - but left his shares to a dying partner:**
+
+> "虽然芒格早在1965年就离开了这个律师事务所，只在那里干了三年，但他对该所的影响仍然是不可磨灭的……离开的时候，他并没有撤出他在该公司的股份。相反地，他主动将他的股份划给他的年轻合伙人弗雷德·沃尔德——他死于癌症，留下了一个妻子和几个子女。" [PCA, Ch.1]
+
+(Although Munger left the firm in 1965 after only three years there, his influence was indelible. When he left, he didn't withdraw his partnership shares. Instead, he gave them to his young partner Fred Warder - who died of cancer, leaving a wife and children.)
+
+**PCA.1.3 The Wheeler, Munger Partnership - Precise Performance Data**
+
+> "惠勒芒格公司的前11年表现非常优异，年均复合毛收益率为28.3%（净收益率为20%），同期道指年均复合增长只有6.7%，而且没有出现收益下滑的年份。但这家合伙公司在1973年和1974年的大熊市中遭到了沉重的打击，这两年的亏损率分别为31.9%和31.5%……不过这家合伙公司在1975年强劲反弹，年度收益猛增73.2%，将14年的年均复合回报率提高到19.8%（净回报率13.7%），而同期道指的年均复合增长只有5%。" [PCA, Ch.1]
+
+(The first 11 years: compound annual gross return 28.3% (net 20%) vs Dow 6.7%, with no down years. Then 1973: -31.9%, 1974: -31.5%. 1975: +73.2%. 14-year compound: 19.8% gross (13.7% net) vs Dow 5%.)
+
+> "惠勒芒格公司清算的时候，它的股东得到了蓝筹印花公司和多元零售公司的股份。这些股份后来被转为伯克希尔·哈撒韦的股票，1975年底的收市价是38美元。如今，每股价格超过85000美元（2005年本书英文版首次出版的时候）。" [PCA, Ch.1]
+
+(When Wheeler Munger was liquidated, shareholders received Blue Chip Stamps and Diversified Retailing shares, later converted to Berkshire. Price at year-end 1975: $38/share. By 2005: >$85,000/share.)
+
+**PCA.1.4 Munger's Law Firm Philosophy**
+
+The book captures Munger's unusual guidance to his law partners:
+
+> "查理论吸引客户：'关键是把手头的事情做好……把手头的事情做好。把已经拥有的客户照顾好，其他的自然会来找你。'" [PCA, Ch.1]
+
+(Munger on attracting clients: "The key is to do the work at hand well. Take care of the clients you already have. The rest will come to you naturally.")
+
+> "他总是提醒他们，'别只看到钱'，要'选择那些你愿意与他交朋友的客户'。" [PCA, Ch.1]
+
+(He always reminded them: "Don't just look at the money." Choose clients "you would want to be friends with.")
+
+**PCA.1.5 The Early Side Investments**
+
+> "1961年，查理第一次涉足房地产业，投资伙伴是他的客户和朋友奥蒂斯·布思。他们在加州理工学院附近的空地修建了分户式产权公寓，这项投资大获成功，两位合伙人投入了10万美元，得到了30万美元的可观利润。……等到1964年他收手的时候，光是房地产开发就给他带来了高达140万美元的收益。" [PCA, Ch.1]
+
+(1961: First real estate development with Otis Booth near Caltech. $100K investment, $300K profit. By 1964 when he stopped, real estate alone had earned him $1.4 million.)
+
+**PCA.1.6 The Family Background**
+
+> "查理的爷爷是一位受尊敬的联邦法官，他的父亲也踏上法律的道路，成了一名成功的律师。……他爷爷伸出援手，拯救了查理的叔叔汤姆开设在内布拉斯加州斯特朗姆斯伯格市的一家小银行，查理从中领教到了爷爷的慷慨仗义和精明的商业头脑。由于经济形势很糟糕，加上庄稼因为干旱而歉收，该银行的农民客户无力偿还贷款。汤姆累积了35000美元无法收回的贷款凭证，前来恳求芒格爷爷相助。这位法官拿出一半的身家来冒险，花了35000美元的第一抵押贷款来交换银行的那些不良贷款……法官最终收回了他的绝大部分投资，但那是很多年以后的事情了。" [PCA, Ch.1]
+
+This is the origin story of the "tough times / family support" theme that runs through Munger's philosophy. His grandfather risked HALF his net worth to save his uncle's bank.
+
+**Key detail**: The grandfather also sent his "musician son-in-law to pharmacy school and funded him to buy a well-located pharmacy that had failed during the Depression. The pharmacy prospered."
+
+---
+
+### PCA.2 THE PARTNERSHIP STRUCTURE - HOW MUNGER AND BUFFETT ACTUALLY WORKED
+
+**Source**: [PCA] Chapter 1
+
+> "沃伦投资或者收购企业的时候，会请芒格托尔斯律师事务所当法律顾问，他能随时享有全国顶尖的律师事务所，这给他带来了很多收益。与此同时，芒格托尔斯除了获得巴菲特的顾问费之外，也有其他收获，因为巴菲特的声誉给律师事务所带来了更多的高端客户。" [PCA, Ch.1]
+
+(When Warren invested or acquired, he'd hire Munger Tolles as legal counsel. This gave him instant access to a top national law firm, creating many benefits for him. Meanwhile, Munger Tolles got Buffett's fees AND his reputation brought more high-end clients.)
+
+**Munger on the partnership dynamic:**
+> "'合伙人最好能够独立工作。你可以当一名指挥型的合伙人、服从型的合伙人，或者一名总是平等协作的合伙人。我三种都当过。人们无法相信我突然让自己变成沃伦的一名服从型合伙人，但有些人很好，你成为他的服从型合伙人也挺好的。我并没有妄自尊大，对此无法接受。总是会有人在某些方面比你优秀。你必须先成为下属，然后才能成为领导。'" [PCA, Ch.1]
+
+("A partner is best able to work independently. You can be a directive partner, a subordinate partner, or an always-equal-collaborator partner. I've been all three. People can't believe I suddenly made myself a subordinate partner to Warren. But some people are so good that it's fine to be their subordinate partner. I didn't let arrogance prevent me from accepting this. There will always be someone better than you in some ways. You must first be a subordinate before you can be a leader.")
+
+---
+
+### PCA.3 RICK GUERIN ON MUNGER'S HONESTY - TWO BUSINESS DEALS
+
+**Source**: [PCA] Chapter 2, Rick Guerin's account
+
+> "'我曾有两次看到查理在商业交易中付出了比他需要支付的金额更多的钱。第一次是在我们收购一家企业的时候，当时有两位老太太持有该企业发行的债券，我们本来很容易以远低于面值的价格收购这些债券——但是查理却按照面值给她们钱。第二次是在我需要一些现金去做另外一项投资的时候。当时我想要把我们合资成立的公司的一半股权卖给他，他说你开个价——我说13万美元，他说不行，23万美元才对，他真给了我那么多钱。'" [PCA, Ch.2, Rick Guerin]
+
+("I've twice seen Charlie pay MORE than he needed to in business deals. First: acquiring a company, two elderly ladies held its bonds. We could easily have bought the bonds at far below face value - but Charlie paid them face value. Second: I needed cash for another investment. I wanted to sell him half our joint venture. He said name your price - I said $130,000. He said no, $230,000 is correct. And he actually gave me that much.")
+
+"This let Charlie use his favorite line: 'I'm right, you're smart, sooner or later you'll see I'm right.'"
+
+---
+
+### PCA.4 THE MUNGER FAMILY'S CHARITABLE ETHOS (Early Evidence)
+
+**Source**: [PCA] Chapter 1
+
+The book documents that Munger's charitable orientation started very early:
+
+> "芒格个人的生活原则在这个律师事务所也有所体现，该所不事声张地为洛杉矶地区的贫困人民和弱势群体提供了大量的法律援助服务。" [PCA, Ch.1]
+
+(Munger's personal life principles were reflected in the law firm, which quietly provided extensive pro bono legal aid to the poor and disadvantaged in Los Angeles.)
+
+And a key early gift that demonstrates Munger's personal style of giving (not just money, but hands-on involvement):
+
+> "查理对该建筑的外观有许多具体的想法，他设计了新古典式的外立面，使得这座房子和亨廷顿图书馆那些历史悠久的建筑相得益彰。不过查理把新楼内部的功能规划留给我的职员和我去完成。" [PCA, Ch.1, Huntington Library director's account]
+
+(Charlie had many specific ideas about the building's appearance - he designed the neoclassical facade. But he left the interior functional planning to the library staff.)
+
+---
+
+## APPENDIX: 芒格之道 Decision Updates (1987-2022)
+
+*New and updated investment decisions and business management details from 《芒格之道》(2023). Source tagged [MT-YYYY].*
+
+---
+
+### D.1 NEW INVESTMENT DECISIONS FROM 1987-1998 (NOT in existing corpus)
+
+#### D.1.1 Bowery Savings Bank Investment (1987)
+
+**Source**: [MT-1987]
+
+**Context**: Wesco participated as a capital provider in a consortium rescue of Bowery Savings Bank, a troubled New York savings bank. Investment: ~$9 million.
+
+**Munger's description**:
+> "我们作为出资方之一，参与了对包厘街储蓄银行的联合收购...包厘街储蓄银行已经深陷泥潭，联邦存款保险公司拿出了大笔资金都不够，还要加上我们私人资本的出资，才有可能把它救活。"
+
+**Outcome**: Sold for $200 million total. Wesco's $9M investment doubled in approximately two years (100% return).
+
+**Analysis**: Early example of Munger/Buffett's willingness to invest in troubled financial institutions with government backing - a playbook they would repeat many times.
+
+---
+
+#### D.1.2 Santa Barbara Real Estate Project (1975-~2002)
+
+**Source**: [MT-1987], [MT-1988], [MT-1989], [MT-1990], [MT-1991], [MT-1992], [MT-1993], [MT-1994]
+
+**Context**: Wesco had land acquired through foreclosure near the Santa Barbara coastline. Development was delayed 13+ years by California coastal regulations, archaeological requirements, and water restrictions.
+
+**Munger's detailed account ([MT-1989])**:
+> "我们历尽曲折...我们在圣巴巴拉市做这个地产项目饱受折磨，好在终于要修成正果了...我们和他们斗了13年。"
+
+Key details NEW to our corpus:
+- Land cost: ~$10/square meter
+- 32 houses planned, each ~$700K sale price
+- Had to donate half the land to public access for beach rights
+- Required to replace a neighbor's gate to match theirs (at Wesco's expense)
+- Required to yank out Kikuyu grass and plant "native" grass (at huge cost)
+- Subject to a Montecito ordinance limiting to 36 building permits per year
+- Groundwater rights were senior but ignored by regulators
+
+**Munger's reflection**: "从过去的经验来看，只要坚持下去，最后的结果总是不会太差。" (Based on past experience, as long as you persist, the outcome generally isn't too bad.)
+
+---
+
+#### D.1.3 New America Electric Acquisition and Sale (1988-1993)
+
+**Source**: [MT-1989], [MT-1994]
+
+**Context**: Wesco acquired 80% of New America Electric (electrical products manufacturer) for ~$8.2M in 1988. Sold at a loss in 1993.
+
+**Munger's admission ([MT-1994])**:
+> "出售的决定是由新美国电器公司的首席执行官格伦·米切尔做出的，他不能再忍受自20世纪30年代以来的糟糕商业环境。芒格认为，西科进入电气设备领域的时机不佳，是他误判的结果。"
+
+**Analysis**: This is a NEW documented investment mistake not in our existing corpus. Munger explicitly calls it "his misjudgment" about timing.
+
+---
+
+#### D.1.4 Kansas Bankers Surety Acquisition (1996)
+
+**Source**: [MT-1997], [MT-1998]
+
+**Context**: Wesco acquired Kansas Bankers Surety Company for ~$80M cash in Q3 1996. The company (founded 1909) provided deposit insurance to community banks in 22 midwestern states, plus D&O liability, employer liability, and other niche insurance products.
+
+**Munger's rationale ([MT-1998])**:
+> "一家小型保险公司被一家资本雄厚的保险公司收购之后，它对波动性的承受能力增强，购买再保险服务的费用相应减少，利润率确实会有所提高。"
+
+**Analysis**: This fits Munger's "cancer surgery formula" - taking a well-run niche insurer and removing the drag of reinsurance costs through Berkshire's capital backing. A pattern later repeated with other insurance acquisitions.
+
+---
+
+#### D.1.5 Exiting the S&L Business (1993)
+
+**Source**: [MT-1993]
+
+**Context**: Wesco sold Mutual Savings' deposit business and exited the savings & loan industry entirely. The S&L subsidiary was merged into Wesco-Financial Insurance Company in Nebraska.
+
+**Munger's rationale**:
+> "我们经营储贷业务很多年了...西科的未来并不在这里。按照西科的整体市值计算，互助储蓄只占很小的比例，但是我们因此背负了沉重的监管负担。"
+
+**Significance**: This is the end of Wesco's original business. Munger admits that Wesco's organizational structure and mindset weren't suited for the S&L business, though other S&Ls (like World Savings, Golden West) were excellent at it.
+
+---
+
+#### D.1.6 Buying US Air Preferred Stock (1989)
+
+**Existing corpus** has mentions of US Air as a mistake. The book adds NEW details:
+
+**Source**: [MT-1993], [MT-1994], [MT-1995], [MT-1997]
+
+**New details ([MT-1994])**:
+> "我非常乐意回答这个问题。对于我们犯的错误，我认为应该像驯狗一样处理，让狗自己拉的自己闻。我愿意深刻反省自己的错误。我愿意反省，虽然反省的过程不好受，但我知道反省是对的。"
+
+**The incentive structure detail ([MT-1997])**:
+> "我们在这笔投资中加了一个条款。如果全美航空的优先股出现违约，停止派发股息，则未来除了支付累积股息之外，还必须额外支付最优惠利率加5%的利息。因为有这个条款，后来，全美航空陷入了困境，但仍然按时派发我们的股息。没想到全美航空真陷入了困境，全美航空的优先股险些冲破我们的最后一道安全防线。"
+
+**Outcome ([MT-1998])**: Converted preferred to common in 1998, sold for $21.7M (gain of $18.7M pretax on original $12M investment after writedowns). "不管怎么说，这笔投资做得不好。"
+
+---
+
+#### D.1.7 Freddie Mac Investment (1988-~2000)
+
+**Source**: [MT-1989], [MT-1990], [MT-1991], [MT-1992], [MT-1993], [MT-1994], [MT-1995], [MT-1997]
+
+The book provides FAR more detail on the Freddie Mac thesis than existing corpus:
+
+**Full investment rationale ([MT-1989 Appendix])**:
+1. Freddie Mac is a hybrid: government-created but privately funded
+2. Business model: Buy mortgages -> package as MBS -> guarantee -> sell (earn guarantee fees + spread, avoid interest rate risk)
+3. Extraordinarily high ROE
+4. Stock trading at ~6x earnings (purchase at ~$30/share)
+5. Why cheap: (a) investors unfamiliar with Freddie Mac, (b) concern about regulatory/political risk post-FSLIC collapse
+6. Why fears overblown: Congress won't let another GSE fail; Freddie Mac is fundamentally healthy unlike FSLIC
+
+**New detail ([MT-1991])**: Munger openly discusses Freddie Mac's unexpected apartment loan losses and praises management's quick corrective action.
+
+**Buying limit reached**: Wesco bought 4% of Freddie Mac (the legal maximum for a single S&L holder), which forced disclosure of their thesis.
+
+**Also** ([MT-1992]): "我们买了房地美，但没买房利美，是因为他当时傻了。" Buffett called not buying Fannie Mae a "thumb-sucking" error.
+
+---
+
+### D.2 UPDATED 2021-2022 DETAILS
+
+#### D.2.1 Alibaba Investment - Additional Context from Munger
+
+**Source**: [MT-2021], [MT-2022]
+
+**NEW detail ([MT-2022])**:
+> "很多理智的投资者有一个共同点：他们选择自己觉得踏实的东西投资。沃伦也不例外。与沃伦相比，我对中国更有好感，我投资中国公司感到更踏实。其实，这只是我和沃伦之间很小的一个差异。"
+
+> "阿里巴巴的护城河没有苹果和Alphabet那么深。阿里巴巴虽然是一家规模很大的互联网零售商，但是互联网的竞争会越来越激烈。"
+
+**On margin borrowing** ([MT-2022]): "保证金借款没多少，我们根本不当回事。" (The margin borrowing isn't much, we don't consider it significant at all.)
+
+**Analysis**: Munger explicitly acknowledges (1) he and Buffett diverged on China comfort level, (2) he recognized Alibaba's competitive moat was weaker than Apple/Alphabet, (3) he treated the margin borrowing as immaterial. This adds nuance to our existing analysis that he "violated his own principles."
+
+---
+
+#### D.2.2 BYD Investment - Loyalty Commitment
+
+**Source**: [MT-2021]
+
+> "如果我们喜欢一家公司、喜欢它的管理层，比亚迪就是一个例子，我们会对它非常忠诚，甚至有些过于忠诚。这一点，我们不会变。"
+
+**Analysis**: Munger explicitly acknowledges "excessive loyalty" as a feature, not a bug, of his investment approach to BYD. This is a remarkably honest disclosure for a value investor.
+
+---
+
+### D.3 NEW BUSINESS MANAGEMENT/OPERATIONAL DECISIONS
+
+#### D.3.1 Mutual Savings Exit from U.S. League of Savings Institutions (1989)
+
+**Source**: [MT-1989 Appendix]
+
+Munger wrote a blistering resignation letter from the S&L trade association, publicly calling its lobbying "a major carcinogen" in the S&L crisis. Full text in the book:
+
+> "储蓄和贷款行业引发了美国金融机构历史上最严重的一场乱局...美国储蓄机构联盟确实难辞其咎。第一，多年以来，联盟一直通过政治游说，庇护一小撮坑蒙拐骗、经营不善的储贷机构，阻挠监管机构的正常执法；第二，多年以来，联盟一直拥护宽松的会计政策..."
+
+He compared the League's post-crisis behavior to "Exxon allowing its tanker captains to drink freely after the Valdez oil spill."
+
+---
+
+#### D.3.2 No Stock Options at Wesco (Consistent from 1987)
+
+**Source**: [MT-1998]
+
+> "西科公司过去没有股票期权计划，将来也不会实施股票期权计划。我们并非不赞成按照业绩发放薪酬的激励措施，我们只是不认可股票期权的会计处理。"
+
+This confirms the no-options principle was in place at Wesco as well as Berkshire, dating back at least to the 1980s.
+
+---
+
+### D.4 THE BLUE CHIP STAMPS COMPLETE STORY (New Detail)
+
+**Source**: [MT-1993]
+
+Munger provides a strikingly candid assessment of Blue Chip Stamps' decline:
+
+> "我们本事很大，把这家公司的销售额从每年1.2亿美元搞到了30万美元。这可不是什么值得骄傲的事。尽管蓝筹印花的主营业务偃旗息鼓了，但我们还是取得了一定的成功。蓝筹印花的股票，现在的价值，估计有10多亿美元。"
+
+This is the most direct statement of the paradox: they destroyed the original business (trading stamps, from $120M to $300K in sales) but created billions in value by using the float to invest. The admission is more colorful and honest than any version in our existing corpus.

@@ -608,6 +608,20 @@ Below, each of the 20 most important Munger topics is cross-referenced against s
 | 54 | 003-2009-How-We-Can-Restore-Confidence.md | 2009 | Washington Post Op-ed | en | ~1000 | financial-reform, derivatives, moral-duty, bipartisanship, taxation | High |
 | 55 | 004-Munger's checklist-zh.md | - | Checklist/Derived | zh | ~1000 | mental-models, decision-making, 492-questions | Medium |
 
+### books/ — Full Book Texts (1 file)
+
+| # | Filename | Year | Type | Language | Word Count (est) | Primary Topics | Quality |
+|---|---------|------|------|----------|------------------|----------------|---------|
+| 56 | munger-tao-2023-full.txt | 1987-2022 | 芒格之道 (Chinese compilation) | zh | ~509,000 | Full Chinese translations of Wesco (1987-2010) + DJCO (2014-2022) shareholder meeting Q&A. 31 chapters. MUCH more complete than existing abbreviated English meeting notes. | High |
+
+**Key details of this source:**
+- Published 2023 by 芒格书院 (Munger Academy)
+- Part 1 (上编): 1987-2010 Wesco Financial shareholder meetings (15 chapters, includes years NOT in existing corpus: 1987-1995, 1997)
+- Part 2 (下编): 2014-2022 Daily Journal shareholder meetings (8 chapters, includes 2021-2022 NOT in existing corpus)
+- Gap years: 1996, 2012, 2013 not covered (no meetings held or no official records)
+- For 1999-2011 Wesco and 2014-2020 DJCO: this book provides FULLER Chinese translations compared to the abbreviated English meeting notes in our corpus
+- Tag format for this source: **[MT-YYYY]**
+
 ### Summary Statistics
 
 | Category | Count | Total Words (est) | Languages |
@@ -617,7 +631,8 @@ Below, each of the 20 most important Munger topics is cross-referenced against s
 | Letters (Wesco Notes) | 13 | ~70,000 | en (13) |
 | Letters (DJCO Notes) | 7 | ~97,000 | en (6), en/zh (1) |
 | Writings | 4 | ~21,000 | en (3), zh (1) |
-| **TOTAL** | **55** | **~387,000** | **en (40), zh (14), en/zh (1)** |
+| Books | 1 | ~509,000 | zh (1) |
+| **TOTAL** | **56** | **~896,000** | **en (40), zh (15), en/zh (1)** |
 
 ---
 
@@ -630,8 +645,8 @@ These topics are central to Munger's thinking but have minimal source material i
 | Gap Topic | Importance to Munger | Current Coverage | Recommendation |
 |-----------|---------------------|-----------------|----------------|
 | **Munger's early partnership (Wheeler Munger, 1962-1975)** | Critical — foundation of his investment career | Very thin — only passing mentions in 2017 Bitcoin talk | Web search for partnership letters, return data, investment decisions |
-| **Munger on real estate development** | Important — he developed real estate before full-time investing | Almost none | Search for his real estate projects, lessons learned |
-| **Munger on law practice and transition to investing** | Important — shaped his career philosophy | Fragments in 2017 Bitcoin talk | Search for interviews about leaving law, the "undignified" nature of billing |
+| **Munger on real estate development** | Important — he developed real estate before full-time investing | **NOW COVERED** by [MT] 芒格之道 — extensive detail on Santa Barbara project (1987-1994) | **RESOLVED** |
+| **Munger on law practice and transition to investing** | Important — shaped his career philosophy | Fragments in 2017 Bitcoin talk; [MT] book adds some context | Partially resolved |
 | **Munger on Costco** | Critical — his favorite modern business model | Scattered mentions in DJCO notes, no dedicated analysis | Web search for Munger's Costco board service, dedicated Costco analysis |
 | **Munger on BYD / Chinese investments** | Important — his role in Berkshire's BYD investment | Very thin — passing mentions in DJCO notes | Web search for BYD investment rationale, Li Lu connection |
 | **Munger's philanthropy / Munger Graduate Residences** | Important — his largest personal legacy | Almost none | Search for Munger's architecture philanthropy, University of Michigan dorm gift |
@@ -663,11 +678,11 @@ These well-known Munger texts are not present in the local corpus and should be 
 | Period | Coverage | Gap | Action |
 |--------|----------|-----|--------|
 | **Pre-1980 (early career)** | Almost none | Munger's partnership, early investments, transition from law | Needs supplementation |
-| **1980-1993** | Very thin (only 1986 Harvard speech) | 1980s real estate, early Berkshire years, stock market crash of 1987, S&L crisis | Needs supplementation |
-| **1994-2005 (peak speech era)** | Good — major speeches present | Most foundational speeches are here | Adequate for core Munger philosophy |
-| **2006-2013** | Moderate — through Wesco notes, one speech | 2008 crisis coverage good, but post-crisis years thin | Supplemental meeting notes would help |
-| **2014-2020** | Good — DJCO notes comprehensive | Good annual coverage via meeting notes | Adequate |
-| **2021-2023 (pre-death)** | None | Last years of Munger's public commentary | Web search for final DJCO meetings, interviews |
+| **1987-1998** | **NOW COVERED** by [MT] 芒格之道 | 10 Wesco meetings (1987-1998). Previously the LARGEST gap in corpus. | **RESOLVED** — Full Chinese translations now available |
+| **1999-2011 (Wesco meetings)** | Good — English meeting notes + [MT] fuller Chinese versions | English notes existed; [MT] book provides more complete Q&A text | Enhanced by [MT] book |
+| **2014-2020 (DJCO meetings)** | Good — English meeting notes + [MT] fuller Chinese versions | English notes existed; [MT] book provides more complete Q&A text | Enhanced by [MT] book |
+| **2021-2022** | **NOW COVERED** by [MT] 芒格之道 | 2 DJCO meetings. Previously the SECOND LARGEST gap. | **RESOLVED** — Full Chinese translations now available |
+| **2023 (pre-death)** | Web sources only | Final interviews (Acquired, CNBC) not in book | Web sources adequate |
 
 ### 4.4 Language Distribution Issues
 
@@ -704,10 +719,101 @@ These well-known Munger texts are not present in the local corpus and should be 
 
 4. **MEDIUM PRIORITY**: Add the missing key sources identified in section 4.2.
 
-5. **LOW PRIORITY**: Fill the time period gaps (pre-1980, 2021-2023).
+5. **COMPLETED (June 2026)**: The two largest time period gaps (1987-1998 Wesco and 2021-2022 DJCO) are now filled by 《芒格之道》(2023). This adds ~509K Chinese characters of full Q&A text across 31 chapters/35 years. See 01-writings.md, 02-conversations.md, 05-decisions.md, 06-timeline.md, and 07-rag-quote-database.md appendices for extracted content.
 
 6. **LOW PRIORITY**: Add the empty articles/ directory with Munger's published writings, op-eds, and magazine profiles.
 
 ---
 
 *End of Topic Taxonomy and Cross-Reference Index. This document should be regenerated or updated whenever new source files are added to the corpus.*
+
+
+## APPENDIX: Poor Charlie's Almanack Additions [PCA]
+
+*New source inventory and chapter-topic mapping from Poor Charlie's Almanack (3rd expanded edition, Peter Kaufman ed., 2008). Added 2026-06-15.*
+
+---
+
+### PCA.1 NEW SOURCE ADDITION TO INVENTORY
+
+| # | Category | Filename | Year | Type | Language | Word Count (est) | Primary Topics | Quality |
+|---|----------|----------|------|------|----------|------------------|----------------|---------|
+| 56 | books | poor-charlies-almanack-full.txt | 2005/2008 | Complete Book (3rd expanded ed.) | en/zh | ~370K chars, 101 chapters | Complete Munger canon: biography, methodology, Mungerisms (2001-2006), 11 Talks (1986-2007), articles, recommended books, chronology | Definitive |
+
+This single source is equivalent in breadth to all 55 existing corpus files combined. It contains the FULL text of every major Munger speech, plus editorial framing, plus the complete Mungerisms section, plus the complete chronology.
+
+---
+
+### PCA.2 CHAPTER-TO-TOPIC MAPPING
+
+The book's chapters map to our topic taxonomy as follows:
+
+| Book Chapter | Lines | Content | Covers Taxonomy Topics |
+|---|---|---|---|
+| Chapter 1 (Biography) | 170-486 | Full biography by Michael Broggie, Buffett interview, family interviews, partnership history | 5.1 (character), 5.2 (success), 5.4 (relationships), 10.2 (Buffett, Franklin) |
+| Chapter 2 (Methodology) | 487-760 | Kaufman's framework of Munger's life/learning/decision-making methods; investment checklist; lollapalooza definition | 1.1-1.5 (all investment philosophy), 2.1 (mental models), 2.5 (psychology), 4.2 (management) |
+| Chapter 3 (Mungerisms) | 761-1306 | 2001-2006 Berkshire/Wesco meeting excerpts organized by topic: success, Berkshire, Buffett, investment advice, market, management criticism, Wall Street, accounting, stock options, derivatives, lawyers, happiness/wealth, humor | ALL topic areas, particularly: 1.1-1.4, 3.1-3.2, 4.1-4.3, 5.1-5.4, 7.1-7.3 |
+| Chapter 4, Talk 1 | 1326-1431 | 1986 Harvard School commencement: inversion, Carson's prescription for misery | 5.3 (avoiding misery), inversion |
+| Chapter 4, Talk 2 | 1432-1864 | 1994 USC Business School: elementary worldly wisdom, mental models, investment management | 1.1-1.4, 2.1-2.6, 3.1, 4.1 |
+| Chapter 4, Talk 3 | 1865-2365 | 1996 Stanford Law School: worldly wisdom revisited, 24 standard causes of misjudgment | 2.1, 3.1, 6.1-6.2 |
+| Chapter 4, Talk 4 | 2366-2501 | 1996 "Practical Thought About Practical Thought": Coca-Cola case study, $2 trillion challenge | 1.2, 2.5, 3.2, 4.1 |
+| Chapter 4, Talk 5 | 2502-2662 | 1998 Harvard Law School reunion: need for multidisciplinary skills, pilot training model | 2.1, 6.1-6.2 |
+| Chapter 4, Talk 6 | 2663-2752 | 1998 Foundation financial officers: investment practices, over-diversification critique | 1.3, 1.4, 9.1 |
+| Chapter 4, Talk 7 | 2753-2818 | 2000 Philanthropy Roundtable: wealth effect, bezzle, gray money | 7.2, 7.3, 9.1 |
+| Chapter 4, Talk 8 | 2819-2923 | 2003 "Great Financial Scandal of 2003": stock option accounting satire | 4.3, 7.3 |
+| Chapter 4, Talk 9 | 2924-3200 | 2003 UCSB Economics: academic economics critique, strengths/weaknesses | 2.1, 7.1-7.2, 6.1 |
+| Chapter 4, Talk 10 | 3201-3345 | 2007 USC Gould School of Law commencement: life wisdom, lifelong learning, seamless trust | 5.1-5.4, 6.1 |
+| Chapter 4, Talk 11 | 3346-3743 | 2005 Psychology of Human Misjudgment (DEFINITIVE VERSION - 25 tendencies, revised by Munger at age 81) | 3.1-3.2 (all 25 tendencies), 2.5 |
+| Chapter 5, Articles | 3744-4100 | 9 articles including: Berkshire Hathaway history, antitrust abuse, Munger Science Center, "silent partner" profile, accounting optimism critique, Bessie Crellin rise/fall, 2010-2011 Slate articles on financial tragedy | 4.3, 7.3, 1.4, 10.2 |
+| Recommended Books | 4101-4154 | ~20 books recommended by Munger + editor recommendations | 6.2 (learning resources), key intellectual influences |
+| Chronology (年谱) | 4155-4273 | Complete year-by-year chronology from 1924-2015 | 10.1-10.2 (historical context, all influences) |
+
+---
+
+### PCA.3 TOPICS NOW FULLY COVERED (Previously Underrepresented)
+
+The addition of Poor Charlie's Almanack dramatically improves coverage of several previously thin topics:
+
+| Gap Topic (from Section 4.1) | Pre-PCA Coverage | PCA Improvement |
+|---|---|---|
+| Munger's early partnership (Wheeler Munger 1962-1975) | Very thin | COMPLETE: Full 14-year performance data, key decisions, the agony of 73-74 losses, the liquidation details |
+| Munger on real estate development | Almost none | IMPROVED: Specific deals (with Otis Booth), profit figures ($1.4M by 1964), the Caltech condo project |
+| Munger on law practice and transition to investing | Fragments | IMPROVED: Law firm founding story, reason for leaving (lost "dignity" in billing), handover of shares to dying partner |
+| Munger on Costco | Scattered | STRONG: Full board recruitment story, Sinegal's account, Munger's comparison to Sam Walton |
+| Munger's philanthropy details | Almost none | IMPROVED: Huntington Library project, Harvard-Westlake Science Center, early pro bono work through law firm |
+| Munger's early life / family history | Thin | COMPLETE: Hamster trading, Grandpa's bank rescue, Central High shooting team, Air Force IQ test |
+| The "avoiding stupidity" system | Implied in inversion concept | FORMALLY DOCUMENTED: The book explicitly names and describes this as distinct from simple inversion |
+| The full investment checklist | 492-question zh version only | SUPPLEMENTED: Kaufman's 10-category structuring of the checklist in English + Chinese |
+| Lollapalooza Effect formal definition | Brief mention | COMPLETE: Full definition with critical mass/nuclear explosion physics metaphor |
+| Munger's self-awareness about his own system | Not covered | NEW: Preface to Talk 11 reveals Munger's three legacy models, his "shoe button complex," his epistemological humility |
+
+---
+
+### PCA.4 NEW KEY CROSS-REFERENCES
+
+The book enables these new cross-references that were not possible with the existing corpus alone:
+
+| Cross-Reference | Sources Within PCA | Significance |
+|---|---|---|
+| Federal Express Example | Talk 2 (Ch.4), Chapter 3 (Mungerisms) | The book version confirms the example is THE canonical Munger incentive story, appearing in both prepared speech AND impromptu Q&A |
+| Xerox Sales Commission | Talk 11 (Ch.4), Chapter 3 | Both the formal psychology treatment AND the Mungerisms anecdotal version are in the book |
+| CBS/Paley Persian Messenger | Talk 2, Talk 11 | Book shows this example appears in BOTH the 1994 speech AND the 2005 psychology chapter |
+| Coca-Cola $2 Trillion Challenge | Talk 4 (Ch.4) | Complete step-by-step exposition not available in existing corpus (Chinese summary only) |
+| Planck/Chauffeur Knowledge | Chapter 2 (methodology), Talk 10 (USC commencement) | Appears in BOTH the editorial framework AND Munger's own speech, confirming it as core concept |
+| Lollapalooza Effect | Chapter 2 (formal definition), Talk 11 (capstone tendency), Talk 2 (early mention) | Book allows tracing the concept's DEVELOPMENT from 1994 mention through 1997 formalization to 2005 capstone |
+
+---
+
+### PCA.5 IMPORTANT BOOK-LEVEL INSIGHTS NOT CAPTURED IN INDIVIDUAL SPEECHES
+
+**PCA.5.1 The Editorial Architecture**: Peter Kaufman's structuring is itself a significant intellectual contribution. By organizing Munger's scattered teachings into: Biography -> Methodology -> Mungerisms -> 11 Talks -> Articles -> Recommended Books -> Chronology, Kaufman created a coherent intellectual journey. The methodology chapter (Chapter 2) is entirely Kaufman's synthesis - it does not exist as a standalone Munger speech.
+
+**PCA.5.2 Repetition as Pedagogy**: The book's introduction explicitly notes that "Munger will repeatedly use certain phrases and examples. He does this intentionally: he knows that for achieving the deep 'fluency' he advocates, repetition is the core of teaching." This explains why the same examples (Federal Express, CBS, Coca-Cola, See's) appear across multiple talks.
+
+**PCA.5.3 The Title's Significance**: "Poor Charlie's Almanack" is a direct homage to Benjamin Franklin's "Poor Richard's Almanack." The framing is explicit: Munger is to modern investing what Franklin was to 18th-century practical wisdom. This self-conception is a meta-layer not captured in individual speeches.
+
+**PCA.5.4 The Book's Three-Language Nature**: The Chinese edition (translated by Li Lu's associate Li Jihong) contains both Chinese translation AND preserved English originals for key sections. This makes it a uniquely valuable bilingual resource.
+
+**PCA.5.5 Talk 11 (Psychology) Is the DEFINITIVE Version**: The book explicitly states that Munger substantially revised this for publication at age 81, adding a preface explaining his motivations, addressing potential criticisms, and admitting the system's theoretical imperfections while defending its practical utility. This preface alone adds significant value beyond the raw speech text.
+
+**PCA.5.6 The "Cult" Metaphor**: Both the book's editor and Munger himself repeatedly frame the Berkshire/Wesco community as a "cult." Munger opens his 2011 thoughts with "It's a damn cult." The editor frames the annual meetings as pilgrimages to the "temple of Graham, Dodd, Buffett, and Munger." This ironic self-awareness is a distinctive feature of the book's tone.

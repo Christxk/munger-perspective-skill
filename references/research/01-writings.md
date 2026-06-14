@@ -771,6 +771,266 @@ Appears in: 2005 Psychology Speech, DJCO 2014
 Appears in: 1994 Speech (as model description), Mungerisms (as investment outcome)
 
 
+## APPENDIX: Poor Charlie's Almanack Additions [PCA]
+
+*Content newly extracted from the complete text of Poor Charlie's Almanack (3rd expanded edition, edited by Peter D. Kaufman). Added 2026-06-15.*
+
+---
+
+### PCA.1 KAUFMAN'S EDITORIAL FRAMEWORK: How Munger's Thinking Is STRUCTURED
+
+**Source**: [PCA] Chapter 2: "Munger的生活、学习和决策方法" (Munger's Life, Learning, and Decision-Making Methods), edited by Peter Kaufman
+
+Kaufman, as editor, provides a meta-framework that explicitly structures Munger's approach into a coherent system. This is editorial insight not captured in Munger's individual speeches:
+
+**The Method's Core Architecture:**
+
+> "凡事往简单处想，往认真处行。" (Keep it simple, and execute seriously.) — opening epigraph
+
+**Kaufman identifies these foundational pillars:**
+
+1. **The Latticework of Mental Models as Operating System**: Kaufman presents Munger's "multiple mental models" approach not as one idea among many, but as the central operating system that organizes ALL of Munger's thinking. The book explicitly structures the models as coming from: history, psychology, physiology, mathematics, engineering, biology, physics, chemistry, statistics, and economics.
+
+2. **"Ecological" Investment Analysis**: Kaufman coins the term "生态投资分析法" (ecological investment analysis) to describe Munger's method of analyzing a company within its entire business ecosystem, not in isolation.
+
+3. **The Checklist as Implementation Tool**: Rather than presenting mental models as abstract concepts, Kaufman structures them into a practical investment principles checklist with eight categories: Risk, Independence, Preparation, Humility, Rigorous Analysis, Allocation, Patience, and Decisiveness.
+
+4. **The Character Foundation**: Kaufman explicitly links Munger's investment success to pre-existing character traits: discipline, patience, calmness, independence. The method works BECAUSE of the character, not independently of it.
+
+**Kaufman's Framing of Munger's "Self-Created System":**
+
+> "查理找不到现成的方法来解决这个任务，所以他费劲地自创了大部分通过自学得来的系统。说他'自学'并非夸大其辞，他曾经说：'直到今天，我从来没在任何地方上过任何化学、经济学、心理学或者商学的课程。'然而这些学科——特别是心理学——却构成了他的系统赖以立足的基础。" [PCA, Chapter 2]
+
+(Munger never took any courses in chemistry, economics, psychology, or business - yet these disciplines form the foundation of his self-created system.)
+
+**Kaufman's Summary of the Munger Edge:**
+
+> "这种'简单'唯有在到达理解的漫长旅途的终点——而非起点——才会到来。他独到的眼光得来不易：那是他毕生钻研人类行为模式、商业系统和许多其他科学学科的产物。" [PCA, Chapter 2]
+
+(This "simplicity" only comes at the END of the long journey of understanding, not at the beginning.)
+
+---
+
+### PCA.2 THE "LOLLAPALOOZA EFFECT" - FORMAL DEFINITION FROM THE BOOK
+
+**Source**: [PCA] Chapter 2, quoting Munger in Outstanding Investor Digest (December 29, 1997)
+
+The book provides the most complete English-language definition of the Lollapalooza Effect:
+
+> "最重要的事情是要牢牢记住，这100种模型往往能够带来特别大的力量。当几个模型联合起来，你就能得到lollapalooza效应；这是两种、三种或四种力量共同作用于同一个方向，而且你得到的通常不仅仅是几种力量之和。那就像物理学里面的临界质量，当你达到一定程度的质量，你就能引发核爆炸——而如果你没有达到那种质量，你将什么也得不到。有时候各种力量只是简单地相加，有时候它们会在临界点或者临界质量的基础上联合起来。" [PCA, Chapter 2]
+
+English original (reconstructed from context):
+
+> "The most important thing to keep in mind is that these 100 models often carry very heavy freight. When several models combine, you get the lollapalooza effect; that's two, three, or four forces all acting in the same direction. And what you get is often not just the sum of the forces. It's like critical mass in physics - when you achieve a certain mass, you get a nuclear explosion. If you don't achieve that mass, you get nothing. Sometimes the forces simply add together, and sometimes they combine at the critical point or on the basis of critical mass."
+
+And the corollary:
+
+> "更为常见的情形是，这100种模型带来的各种力量在某种程度上是相互冲突的。所以你将会面临鱼和熊掌不可兼得的境况。如果你不明白有舍才有得的道理，如果你以为鱼与熊掌可以兼得，那么你就太傻了。" [PCA, Chapter 2]
+
+(More commonly, the forces from these 100 models are somewhat conflicting. You'll face trade-offs. If you don't understand that you must give up something to gain something, you're a fool.)
+
+**Munger's biological framing via Julian Huxley:**
+
+> "你必须意识到生物学家朱利安·赫胥黎的那句话是千真万确的——他说：'生活无非就是一个接一个的联系。'所以你必须拥有各种模型，你必须弄清楚各种模型的相互关系以及它们的效应。" [PCA, Chapter 2]
+
+("Life is just one damn relatedness after another" - Julian Huxley. You must have various models and understand their interrelationships and effects.)
+
+---
+
+### PCA.3 THE COMPLETE INVESTMENT PRINCIPLES CHECKLIST (English & Chinese)
+
+**Source**: [PCA] Chapter 2, "投资原则检查清单" (Investment Principles Checklist)
+
+The book provides the authoritative version of Munger's checklist. This is the framework Kaufman synthesized from Munger's teachings:
+
+**1. Risk - All investment evaluations should begin by measuring risk**
+- Calculate appropriate margin of safety
+- Avoid dealing with people of questionable character
+- Insist on proper compensation for risk assumed
+- Always be aware of inflation and interest rate risks
+- Avoid major mistakes; avoid permanent capital loss
+
+**2. Independence - "Only in fairy tales are emperors told they have no clothes"**
+- Objectivity and rationality require independent thinking
+- Remember: whether you're right or wrong doesn't depend on whether others agree - only whether your analysis and judgment are correct
+- Following the crowd takes you toward the average (only mediocre performance)
+
+**3. Preparation - "The only way to win is to work, work, work, and hope to have a few insights"**
+- Cultivate yourself as a lifelong learner through extensive reading; develop curiosity; try to be a little wiser every day
+- Readiness to prepare is more important than the will to win
+- Master the mental models of all major disciplines
+- If you want to be smart, keep asking "why, why, why"
+
+**4. Humility - Acknowledging ignorance is the beginning of wisdom**
+- Stay within your clearly defined circle of competence
+- Identify and verify disconfirming evidence
+- Resist the craving for false precision and false certainty
+- Above all, don't fool yourself - and remember you're the easiest person to fool
+
+**5. Rigorous Analysis - Use scientific method and effective checklists to minimize errors and omissions**
+- Distinguish between value and price, process and action, wealth and scale
+- Remember the shallow beats the profound
+- Be a business analyst, not a market, macro, or securities analyst
+- Consider total risk and return; always focus on second-order and higher-order effects
+- Think forward and backward - invert, always invert
+
+**6. Allocation - Proper allocation of capital is the investor's #1 job**
+- Remember: the best use is always measured by the second-best use (opportunity cost)
+- Good ideas are rare - when odds favor you, bet heavily
+- Don't "fall in love" with investments - be situation-dependent, follow opportunities
+
+**7. Patience - Restrain the natural human tendency to act**
+- "Compound interest is the eighth wonder of the world" (Einstein) - don't interrupt it unnecessarily
+- Avoid unnecessary transaction costs and friction; never act just for the sake of acting
+- Stay clear-headed when luck arrives
+- Enjoy the process as well as the result, because you live in the process
+
+**8. Decisiveness - When the right opportunity appears, act with determination**
+- Be fearful when others are greedy; be greedy when others are fearful
+- Opportunities don't come often - seize them when they do
+- Opportunity only favors the prepared mind: that's the game of investing
+
+**9. Change - Learn to change and accept irreducible complexity in life**
+- Recognize and adapt to the true nature of the world around you; don't expect it to adapt to you
+- Continuously challenge and actively revise your "most cherished ideas"
+- Face reality, even when you don't like it - especially when you don't like it
+
+**10. Focus - Keep it simple; remember what you originally set out to do**
+- Remember: reputation and integrity are your most valuable assets - and can be lost in an instant
+- Guard against arrogance and boredom
+- Don't overlook the obvious by obsessing over details
+- Exclude unnecessary information: "A small leak will sink a great ship"
+- Face your big problems; don't hide them
+
+**Munger's summary of why this system works:**
+
+> "只要得到严格的遵守，光是'避免犯傻的芒格体系'就能帮助你超越许多在你之上的人，无论他们有多么聪明。" [PCA, Chapter 2]
+
+("If strictly followed, the 'Munger system of avoiding stupidity' alone can help you surpass many people above you, no matter how smart they are.")
+
+---
+
+### PCA.4 THE "AVOIDING STUPIDITY" SYSTEM (Not Just Inversion)
+
+**Source**: [PCA] Chapter 2
+
+This is a distinct concept from simple inversion. The book presents Munger's system as "first eliminate all the things that shouldn't be done":
+
+> "查理一般会先注意应该避免什么，也就是说，先弄清楚应该别做什么事情，然后才会考虑接下来要采取的行动。'我只想知道我将来会死在什么地方，这样我就可以永远不去那里啦。'这是查理很喜欢的一句妙语。" [PCA, Chapter 2]
+
+(Charlie generally first pays attention to what should be avoided. That is, first figure out what NOT to do, then consider what actions to take.)
+
+The system is formalized in this remarkable passage from a 2004 Berkshire annual meeting, where a young shareholder asked Buffett how to succeed in life. After Buffett's response:
+
+> "别吸毒。别乱穿马路。避免染上艾滋病。" [PCA, Chapter 2, Munger interjection]
+
+("Don't do drugs. Don't jaywalk. Avoid getting AIDS.")
+
+Kaufman's editorial comment: "许多人以为他这个貌似调侃的回答只是一句玩笑话而已（这句话确实很幽默），但实际上它如实反映了查理在生活中避免麻烦的普遍观点和他在投资中避免失误的特殊方法。" [PCA, Chapter 2]
+
+(Many thought this was just a joke, but it actually faithfully reflects Charlie's universal viewpoint of avoiding trouble in life and his special method of avoiding mistakes in investing.)
+
+---
+
+### PCA.5 THE FULL 2005 PSYCHOLOGY CHAPTER - NEW ELEMENTS NOT IN EXISTING ZH TRANSLATION
+
+**Source**: [PCA] Chapter 4, Talk 11: "人类误判心理学" (The Psychology of Human Misjudgment), Munger's final revision at age 81
+
+**PCA.5.1 Munger's Preface - Why He Revised His Psychology System**
+
+The 2005 version includes a remarkable author's preface where Munger explains WHY he revised his psychology system into the definitive form. This preface is not included in the standalone speech version:
+
+**Three reasons for the revision (Munger's own words):**
+
+1. **Pursuit of logical completeness**: The earlier version was based on extemporaneous talks; this version was written for logical rigor, making it "drier and more difficult" but more complete.
+
+2. **Critique of academic psychology**: Munger admits he only "flipped through three psychology textbooks 15 years ago" and acknowledges he may be criticized by professional psychologists. His response: "谁喜欢与那些拥有信息优势的尖锐批评家结下新的梁子呢？" (Who likes to start new feuds with sharp critics who have an information advantage?)
+
+3. **The "Shoe Button Complex"**: Munger admits some may see him as "大言不惭" (arrogantly pontificating) about a subject he never formally studied. He references his Harvard Law classmate Ed Rothschild's term "鞋扣情结" (shoe button complex) - named after a man who, after achieving dominance in the shoe button industry, spoke with authority on everything.
+
+**Munger's ultimate motivation - his "sword" legacy:**
+
+> "我爱上了我这种编排心理学知识的方法，因为它一直以来对我很有用。所以呢，在去世之前，我想在某种程度上效仿三位人物，给世人留点东西。这三位人物分别是：约翰·班扬的《天路历程》的主角、本杰明·富兰克林，以及我的第一位雇主恩尼斯特·巴菲特。班扬笔下的人物，也就是那位外号'真理剑客'的骑士，在临终时留下了这样的遗嘱：'我的剑留给能挥舞它的人。'" [PCA, Talk 11 preface]
+
+("I fell in love with my way of organizing psychological knowledge, because it has always been useful to me. So before I die, I want to emulate three figures and leave something for the world: John Bunyan's Pilgrim's Progress protagonist, Benjamin Franklin, and my first employer Ernest Buffett. The Bunyan character, known as 'Valiant-for-Truth,' left this testament: 'My sword I leave to him who can wear it.'")
+
+**PCA.5.2 Munger's Self-Awareness About His Three Predecessor Models**
+
+The preface reveals that Munger consciously modeled his legacy on three figures:
+1. **Valiant-for-Truth** (Pilgrim's Progress): The warrior who passes his sword to the next generation
+2. **Benjamin Franklin**: Left behind his autobiography, Poor Richard's Almanack, and much more
+3. **Ernest Buffett**: Left behind "knowledge of how to run a grocery store, and some fishing knowledge I acquired"
+
+This three-part modeling of his own legacy has not been previously documented in the research corpus.
+
+**PCA.5.3 The Question of "Overlap" Among the 25 Tendencies**
+
+In the preface, Munger explicitly addresses a criticism of his system:
+
+> "和欧几里得的系统相比，这份心理倾向列表是不是显得有点重复？这些倾向之间是否有重叠之处？这个系统能用其他同样令人信服的方法排列出来吗？这三个问题的答案都是肯定的；但这些缺点并不算严重。进一步提炼这些倾向的做法虽然是可取的，但却会使它们的实用性受到限制，因为对于像心理学这样的软科学来讲，有许多含糊之处是没办法弄清楚的。" [PCA, Talk 11 preface]
+
+("Compared to Euclid's system, doesn't this list of psychological tendencies seem somewhat repetitive? Do these tendencies overlap? Could this system be arranged in other equally convincing ways? The answer to all three questions is yes. But these flaws are not serious. Further refining these tendencies, though desirable, would limit their practical utility, because in soft sciences like psychology, many ambiguities simply cannot be resolved.")
+
+This is Munger's explicit epistemological stance on his own system - it is practically useful despite theoretical imperfection.
+
+---
+
+### PCA.6 "IF YOU MIX RAISINS WITH TURDS, YOU'VE STILL GOT TURDS" - The Extended Context
+
+**Source**: [PCA] Chapter 3, Mungerisms section, "对基金管理企业的批评" (Criticism of Fund Management)
+
+The book provides the full context for this famous aphorism, which relates to accounting fraud:
+
+> "现在，它的机制类似于连锁信。由于和诸如风险投资之类的合法活动混在一起，这种做法看起来似乎很体面。但我们正在混淆体面的活动和可耻的活动——所以我在伯克希尔·哈撒韦的年会上说，如果你把葡萄干和大便搅在一起，你得到的仍然是大便。" [PCA, Chapter 3]
+
+(The mechanism is similar to chain letters. Because it's mixed with legitimate activities like venture capital, it looks respectable. But we're confusing respectable activities with shameful activities - hence at the Berkshire annual meeting I said, if you mix raisins with turds, you've still got turds.)
+
+---
+
+### PCA.7 MUNGER'S RULE ON DERIVATIVES ACCOUNTING
+
+**Source**: [PCA] Chapter 3, "对金融机构和衍生品的警告" section
+
+The book contains the full-force version of Munger's derivatives critique:
+
+> "说美国衍生品的会计法像阴沟是对阴沟的侮辱。" [PCA, Chapter 3]
+
+("To say that American derivatives accounting is like a sewer is an insult to sewers.")
+
+And his daughter's memorable interjection, captured in the book:
+> "爸爸，那个关于阴沟的笑话是你说的啊。" — 玛姬·考夫曼 (Maggie Kaufman, age 18, at the 2002 Berkshire annual meeting)
+
+---
+
+### PCA.8 "BONKERS" REDUX - The Extended Critique of Efficient Market Theory
+
+**Source**: [PCA] Chapter 3 and Chapter 2
+
+The book attributes to Munger this re-statement of the hammer critique applied to economists:
+
+> "Beta系数、现代组合投资理论等等——这些在我看来都没什么道理。我们想要做到的是，用低廉的价格，甚至是合理的价格，来购买那些拥有可持续竞争优势的企业。大学教授怎么可以散播这种无稽之谈（股价波动是衡量风险的尺度）呢？几十年来，我一直都在等待这种胡言乱语结束。" [PCA, Chapter 3]
+
+("Beta, modern portfolio theory, etc. - these make no sense to me. What we want is to buy businesses with sustainable competitive advantages at low or even reasonable prices. How can university professors spread this nonsense that stock price volatility is a measure of risk? For decades I've been waiting for this nonsense to end.")
+
+---
+
+### PCA.9 PETER KAUFMAN'S INTRODUCTION: THE META-STRUCTURE OF THE BOOK
+
+**Source**: [PCA] "导读" (Editor's Introduction)
+
+Kaufman's introduction provides the organizing principle for the entire book:
+
+> "查理的世界观很独特，他用'跨学科的'方法让自己养成了清晰而简单的思维模式——可是他的观点和思想却绝不简单。" [PCA, Introduction]
+
+("Charlie's worldview is unique. He uses an 'interdisciplinary' method to cultivate clear and simple thinking patterns - but his views and thoughts are absolutely not simple.")
+
+Kaufman explicitly identifies the core organizing themes:
+1. Munger's ideas are based on "fundamental human nature, basic truths, and core principles from many disciplines"
+2. Life decisions are MORE important than investment decisions
+3. Independence is the GOAL of making money, not the other way around
+4. "Repetition is the core of teaching" - Munger deliberately repeats examples and phrases for pedagogical effect
+
+
 ## APPENDIX: PDF-Extracted Content
 
 *Newly extracted from PDF sources. Added 2026-06-14.*
@@ -959,3 +1219,186 @@ About Precision Steel's CEO facing structural decline in US steel:
 > "I realized very early that non-egality would work better in the parts of the world that I wanted to inhabit. What do I mean by non-egality? I mean John Wooden when he was the number one basketball coach in the world. He just said to the bottom five players that you don't get to play. The top seven did all the playing. Well the top seven learned more, remember the learning machine, they learned more because they did all the playing. And when he got to that system he won more than he had ever won before. I think the game of life, in many respects, is about getting a lot of practice into the hands of the people that have the most aptitude to learn and the most tendency to be learning machines. And if you want the very highest reaches of human civilization, that's where you have to go. You do not want to choose a brain surgeon for your child from 50 applicants where all of them just take turns doing the procedure. You don't want your airplanes designed that way. You don't want your Berkshire Hathaway's run that way. You want to get the power into the right people."
 
 **Analysis**: This is an important and somewhat surprising Munger argument - he explicitly advocates for unequal allocation of opportunity as the path to excellence. The "non-egality" concept is a genuine Munger coinage. It connects his "learning machines" concept with organizational design.
+
+---
+
+## APPENDIX: 芒格之道 (1987-2022) Additions
+
+*New content from 《芒格之道》(2023, 芒格书院编), a complete Chinese-language compilation of Munger's Wesco (1987-2010) and Daily Journal (2014-2022) shareholder meeting Q&A. This book contains FULL Chinese translations of Q&A exchanges, significantly expanding our source material.*
+
+---
+
+### B.1 NEW RECURRING ARGUMENTS (Appearing in 3+ years across 1987-2022)
+
+#### B.1.1 "形势比人强" (Situation Overwhelms Individual Ability)
+
+**Source**: [MT-1989], [MT-1994], [MT-1997], [MT-1998]
+First articulated in 1989, this argument becomes a recurring theme across decades. The core insight: when industry forces are overwhelmingly powerful, even the best management and hardest work cannot reverse the tide.
+
+**1989 version ([MT-1989])**
+> "决定结果的主要有两个因素：一个是形势，另一个是人。形势太强，任凭你有多大能力，都无济于事。有句俗话，表达方法不一样，但说的是同样的道理。以前，有一位久经沙场的投资界老前辈，我们很尊重他。每当年轻人建议他冒险的时候，他总是说：'河里淹死的都是会水的。'"
+
+**Key examples used across years:**
+- Blue Chip Stamps sales declined from $120M to $2M - impossible to stop
+- Berkshire's textile mill would have drained all capital if they hadn't given up
+- A local supermarket chain pre-emptively closed when Wal-Mart announced expansion
+- "谁爱去谁去，反正我不去" (Whoever wants to go, go. I'm not going.)
+
+**Analysis**: This argument represents a distinct Munger contribution - the recognition that human agency has limits when industry headwinds are too strong. It cross-references with his "competitive destruction" model and his realistic epistemology.
+
+---
+
+#### B.1.2 "有克制的贪婪" (Disciplined Greed)
+
+**Source**: [MT-1987]
+Munger reframes the concept of "humility" into a more precise description:
+
+> "充分认清客观条件的限制，充分认识自身能力的限制，谨小慎微地在限制范围内活动，这是赚钱的诀窍。这个诀窍，与其说是'谦卑'，不如说是'有克制的贪婪'。"
+
+**Analysis**: This is a more nuanced reframing than our existing "circle of competence" concept. Munger explicitly says the secret isn't humility per se, but a calculated, restrained form of greed - knowing exactly where to be aggressive and where to pull back. This adds precision to the existing "humility" framing.
+
+---
+
+#### B.1.3 "好矿不怕管理差" (A Good Mine Doesn't Fear Bad Management)
+
+**Source**: [MT-1997]
+> "我年轻的时候，曾经在一家矿业公司当律师。这家矿业公司的老板是个慈祥的老人。他告诉过我一句话：'查理，好矿不怕管理差。' 投资要选容错率高的好生意。有点管理问题，有点困难，有点错误，好生意照样还是好生意。"
+
+**Analysis**: This argument appears as a corollary to "bet on the business, not the management." Munger extends it with a memorable mining metaphor - a genuinely good asset survives mediocre operators. This connects to his emphasis on "fault-tolerant" businesses.
+
+---
+
+#### B.1.4 "在发放贷款之前，就把贷款收回来了" (Collect the Loan Before You Make It)
+
+**Source**: [MT-1987], [MT-1994]
+> "银行业有句老话，我非常喜欢，'在发放贷款之前，就把贷款收回来了'。很多时候，还真是只有在发放贷款之前，才能把贷款收回来。"
+
+**Analysis**: A recurring Texas banker's maxim that Munger quotes across multiple years. It encapsulates his entire approach to risk management: prevention over cure, margin of safety as pre-condition.
+
+---
+
+#### B.1.5 The S&L Crisis as Systemic Case Study (1987-1993)
+
+**Source**: [MT-1987], [MT-1988], [MT-1989], [MT-1990], [MT-1991], [MT-1992], [MT-1993]
+Munger devoted enormous attention to analyzing the Savings & Loan crisis across seven consecutive years. His analysis forms a complete systemic critique that is NEW to our corpus:
+
+**Core framework he developed:**
+1. **Bad incentives**: Deposit insurance + deregulated interest rates + deregulated asset allocation = moral hazard
+2. **劣币驱逐良币 (Gresham's Law applied to finance)**: Conservative S&Ls are forced to match reckless competitors' deposit rates or lose depositors
+3. **"九龙治水" (nine dragons governing water)**: Fragmented regulatory structure made effective supervision impossible
+4. **Accounting gimmicks**: Fee-income recognized upfront, allowing Ponzi-like earnings growth
+5. **"这不是自由市场经济制度，而是毁灭价值的经济制度"** (This is not a free market system, but a value-destroying system)
+
+**His prediction (proven correct)**: The S&L crisis would become "one of the worst financial disasters in American history" with losses exceeding $100 billion.
+
+---
+
+#### B.1.6 "所有人都有这个倾向" (Universal Salesman Bias)
+
+**Source**: [MT-1987], [MT-1989], [MT-1990], [MT-1997]
+
+The fishing tackle salesman story appears in the 1994 USC speech. The book reveals Munger told this story as early as 1987:
+
+> "多年以前，我在帕萨迪纳市有个朋友，是做渔具生意的。他出售的鱼钩五颜六色的。我以前从没见过色彩这么丰富的鱼钩。我问他：'你这鱼钩五颜六色的，鱼是不是更容易上钩啊？' 他回答道：'查理，我这鱼钩又不是卖给鱼的。' 你们笑归笑，所有人都有这个倾向。所有人的潜意识里都有这样的偏见：给别人提建议时，以为是在为别人考虑，其实是从自己的利益出发。自己用不用理发，别问理发师。"
+
+**Analysis**: The earlier (1987) telling emphasizes "everyone has this tendency" more broadly than the 1994 version. The "don't ask a barber if you need a haircut" extension is new.
+
+---
+
+### B.2 EVOLUTION OF MUNGER'S CORE IDEAS (Visible across 35 years)
+
+#### B.2.1 On Good Businesses: From Cigar-Butt to Quality (Trajectory Visible)
+
+**1987-1988 ([MT])**: Still heavily focused on liquidation value, "cheap" stocks
+**1989 ([MT])**: First major articulation of quality: "最理想的公司，每年创造的现金高于净利润"
+**1990-1991 ([MT])**: Explicitly discusses Graham's blind spot: "格雷厄姆没想明白的是，有的公司值得长期持有，能获得良好的收益，哪怕买入的价格是净资产的好几倍。"
+**1994 ([MT])**: Personal experience with failed businesses (harvester dealership, electronics manufacturing) that taught him to seek quality
+**1997 ([MT])**: "好生意，每个决定都简单，容错率也高" - the full "fault-tolerant" framework
+**1998 ([MT])**: "我们是花了很长时间，才学聪明的。"
+
+**Analysis**: The book shows the gradual evolution was driven by MULTIPLE painful failures (not just See's Candies), including a harvester dealership, a Baltimore department store, and an electronics manufacturing company.
+
+---
+
+#### B.2.2 On Banks: From Constructive to Skeptical
+
+**1990-1991 ([MT])**: Extremely bullish on Wells Fargo - detailed defense of buying during the real estate crisis
+**1997 ([MT])**: "今天的银行躺着赚钱" (Today's banks make money lying down) but "未来如何，不得而知"
+**2021-2022 ([MT])**: Much more skeptical: "找到值得投资的银行，不是不可能，但确实非常难" (Finding a bank worth investing in is not impossible, but very difficult). "银行的管理层，很难做到像巴菲特那么理智"
+
+**Analysis**: The 35-year span shows a clear trajectory from cautiously optimistic to deeply skeptical about banking as an investment category.
+
+---
+
+#### B.2.3 On Newspapers: From Cautious Optimism to Complete Fatalism
+
+**1995 ([MT])**: "报纸仍然是好生意，但明显不如过去了"
+**1997-1998 ([MT])**: Still positive on newspaper economics
+**2000s (existing corpus)**: Increasingly pessimistic
+**2021-2022 ([MT])**: "报纸已经死光了，几乎一个不剩了" (Newspapers are all dead, almost not a single one left). "95%的报纸已经不复存在了...传统媒体的衰落是文明的重大损失"
+
+---
+
+#### B.2.4 On China: From Distant Observer to Committed Investor
+
+**1992 ([MT])**: Only discusses Japan, barely mentions China
+**2014-2019 (existing corpus)**: Early China interest, BYD praise
+**2021 ([MT])**: "作为一个大国，中国创造的经济奇迹史无前例...中国走的道路应该是适合中国的"
+**2022 ([MT])**: "我们之所以拿出一部分资金去中国投资，是因为与美国的投资机会相比，中国的投资机会更好，我们能以更便宜的价格买入，获得更高的公司价值"
+
+---
+
+### B.3 NEW CONCEPTS/TERMS FROM THE BOOK
+
+#### B.3.1 "咬手指" (Thumb-Sucking Error)
+**Source**: [MT-1992]
+The specific Chinese term for Buffett's "thumb-sucking" - knowing what to do but not doing it. Applied to buying Freddie Mac but not Fannie Mae.
+
+#### B.3.2 "书呆子成功的故事" (Nerd Success Stories)
+**Source**: [MT-1993]
+Munger's self-aware framing of his own life trajectory: "我喜欢书呆子成功的故事。原因是什么，应该不用我说了吧？"
+
+#### B.3.3 "好生意，容错率高" (Good Businesses Have High Fault Tolerance)
+**Source**: [MT-1997]
+A refinement of the quality investing thesis: the key metric is not just high returns but how much management error the business can absorb without destroying value.
+
+#### B.3.4 "在发放贷款之前，就把贷款收回来了"
+The lending version of "margin of safety" applied to credit decisions - a concept not in existing corpus.
+
+#### B.3.5 "几个模型叠加共振" (Multiple Model Resonance)
+**Source**: [MT-1997]
+An earlier articulation of the Lollapalooza concept: "两个模型同时发挥作用，可能产生叠加效应。在这种情况下，二加二未必等于四，而是可能等于六，甚至八"
+
+---
+
+### B.4 MUNGER'S SELF-DESCRIBED INTELLECTUAL INFLUENCES (New from 1987-1998)
+
+| Figure | Year | Context |
+|--------|------|---------|
+| **Garrett Hardin** (《生活在极限之内》) | [MT-1993], [MT-1997] | Read twice, "这本书凝结了一位老人一生的智慧" |
+| **Bill Gates biography** | [MT-1993] | "书呆子成功的故事" |
+| **Richard Dawkins** (《自私的基因》) | [MT-1997] | Recommended to shareholders |
+| **Physics training** | [MT-1998] | "学物理对我产生了很大的影响...物理学的方法要求我们永远追求事物的本质" |
+| **Sir William Osler + Thomas Carlyle** | [MT-1989] | "与其为朦胧的未来而烦恼忧虑，不如脚踏实地，做好眼前的事" - this became Berkshire's operating philosophy |
+
+---
+
+### B.5 THE 2010-2022 EVOLUTION (Late-Stage Munger)
+
+**Source**: [MT-2010], [MT-2014-2020] (existing), [MT-2021], [MT-2022]
+
+Key late-stage positions not fully captured in existing corpus:
+
+1. **On crypto (escalating hostility)**: 2018 corpus has "noxious poison." By 2022 ([MT-2022]): "加密货币是像性病一样的脏东西，我连正眼瞧一下都不愿意。我真希望政府能立即禁止加密货币。"
+
+2. **On SPACs and Robinhood** ([MT-2021]): "只要有人愿意买，投行连屎都能卖。" (As long as someone will buy, investment banks will sell even sh*t.) "罗宾汉的宣传口号很龌龊、很卑劣。"
+
+3. **On reducing stock market liquidity** ([MT-2022]): "如果我说了算，我会征收高昂的短期利得税，压缩股市的交易量，让赌徒没有容身之地。"
+
+4. **On the decline of traditional media** ([MT-2022]): "报纸消亡了，取而代之的是一群博眼球的疯子...传统媒体的衰落是文明的重大损失。"
+
+5. **On index fund concentration risk** ([MT-2022]): "指数基金的规模越来越大...贝莱德集团的拉里·芬克以及先锋集团的掌舵者，他们的权势堪比教皇。我不想让他们说了算。"
+
+6. **On happiness formula** ([MT-2021]): "要想幸福，第一条，降低自己的预期。这一点是你自己能掌控的。总是抱有不切实际的预期，注定一生痛苦。"
+
+7. **On the Deng Xiaoping reform** ([MT-2022]): "邓小平推动了一场巨大的改革，他必将作为一位伟大的领袖而永载史册...邓小平真是一位伟人，中国创造了人类历史上的奇迹。"
