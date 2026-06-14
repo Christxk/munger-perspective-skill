@@ -1,0 +1,1021 @@
+FocusInvestor.com: The Focused Few Presents:  
+ 
+The Focus Investing Series Part 3: The Munger Network of Mental Models  
+ 
+ 
+Written by: 
+Richard M. Rockwood
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Introduction 
+“You’ve got to have models in your head and you’ve got to array your experience – both vicarious and direct – onto this latticework of 
+mental models.” Charlie Munger  
+Mr. Charles T. Munger, Vice Chairman of Berkshire Hathaway, is Warren Buffett’s partner at 
+Berkshire Hathaway. He is famous for his cutting and insightful commentary on issues that 
+concern him and he is a preeminent investor. He is a voracious reader and devotee of great 
+thinkers such as Ben Franklin, whose wisdom he partially credits with developing his thought 
+processes. Mr. Buffett has frequently given credit to Mr. Munger for providing him with key 
+insights into the investment process.  
+Mr. Munger does not pretend that investing is easy. He advises that it takes sharp wits, strategy, 
+and a lot of discipline to be successful in the investment field. Mr. Munger contends that more 
+individuals could achieve better investment results than they actually do, if only they'd employ 
+some of the basic "mental methods" he and Mr. Buffett have used throughout their careers.  
+"The number one idea," he said in a 2001 Harvard Law Bulletin interview1, "is to view a stock as 
+an ownership of the business [and] to judge the staying quality of the business in terms of its 
+competitive advantage. Look for more value in terms of discounted future cash flow than you're 
+paying for. Move only when you have an advantage. It's very basic. You have to understand the 
+odds and have the discipline to bet only when the odds are in your favor."  
+Mr. Buffett is clearly a master of betting only when the odds are in his favor. This excerpt from 
+the Berkshire Hathaway 1980 annual report shows how he uses this concept to his advantage:  
+“GEICO’s problems at that time [1976] put it in a position analogous to that of American Express 
+in 1964 following the salad oil scandal. Both were one-of-a-kind companies, temporarily reeling 
+from the effects of fiscal blow that did not destroy their exceptional underlying economics.  The 
+GEICO and American Express situations, extraordinary business franchises with a localized 
+excisable cancer (needing, to be sure, a skilled surgeon), should be distinguished from the true 
+“turnaround” situation in which the managers expect – and need – to pull off a corporate 
+Pygmalion.”  
+This article will attempt to list a series of models that cover areas of knowledge that individuals 
+have almost certainly amassed during their lifetimes. This article will also discuss how most 
+individuals understand these concepts only as they relate to the task they are currently performing 
+or pondering. For example, most engineers would never consider adapting their knowledge of 
+breakpoint to the investing process.  
+It is my hope that, after reading this article in the focus investing series, the reader will 
+understand how to develop and use his or her own system of mental models. I believe that 
+developing the habit of examining problems using this multidisciplinary approach should not only 
+help you become a better investor but, much more importantly, a better thinker.  
+                                                 
+1  http://www.law.harvard.edu/alumni/bulletin/2001/summer/feature_1-fulltext.html 
+Page 2 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+ 
+A Network of Mental Models  
+The idea of developing a network of mental models is based on the concept that everyone should 
+approach problem-solving from many difference perspectives.  The traditional teaching method 
+used in the typical American classroom revolves around the idea that topics should be learned in 
+isolation from other topics. This inhibits students from learning that ideas from multiple 
+disciplines can be used with great success when trying to solve problems.  Focus investors should 
+develop their own systems of mental models to help them make better investment decisions.  
+In the following section of this article the various individual areas of knowledge that Mr. Munger 
+has discussed in several of his speeches will be covered on an individual basis. This information 
+should help everyone develop and enhance his or her own system of mental models.  
+Mathematics 
+It is critical that investors have at least an understanding of high school level mathematics.  
+Compound interest, the time value of money, and the basic ideas of probability theory, for 
+example, are vital concepts that all investors should have a firm grasp on; they must be a part of 
+their basic repertoire of skills.  If investors fail to add these skills to their repertoire they will be at 
+a severe disadvantage to others in the investing field who are equipped with these skills.  
+Let’s examine more mathematical concepts that should be part of your investment toolkit.  In this 
+section we will cover probability theory, decision trees, and the law of large numbers. Compound 
+interest and the time value of money were covered in Part 1 of the Focus Investing Series and as 
+such will not be covered here.   
+Probability Theory  
+“Fear of harm ought to be proportional not merely to the gravity of the harm, but also to the probability of the event [occurring]” 
+Blaise Pascal  
+“Take the probability of loss times the amount of possible loss from the probability of gain times the amount of possible 
+gain. That is what we're trying to do. It's imperfect, but that's what it's all about.” Warren Buffett2
+In 1654, Blaise Pascal, a prominent French scientist, mathematician, and philosopher, and Pierre 
+de Fermat, a government official and mathematician, exchanged a series of letters that discussed 
+the odds involved in games of chance. They formed in those letters the basis of what today is 
+known as probability theory.  
+Probability theory is the branch of mathematics that develops models to help explain random 
+phenomena. Traditional questions that involve randomness include,  `will it rain today?' or `will I 
+be dealt a royal flush today?’ These two questions have one common feature: the outcome (it 
+rains today; being dealt a royal flush) cannot be accurately predicted on a consistent basis in 
+advance, but we know that if enough days are observed, it will rain, and someone will eventually 
+be dealt a royal flush.  
+The practical aspects of the theory were soon realized.  For instance, the study of human mortality 
+by life insurance companies resulted from applying this theory. Probability theory is now a major 
+branch of mathematics with widespread applications in science and engineering.  
+                                                 
+2 1989 Berkshire Hathaway Annual Meeting 
+Page 3 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Probability theory also helps us manage risk.  In his excellent book, Against the Gods, Peter 
+Bernstein states that the “essence of risk management lies in maximizing the areas where we have 
+some control over the outcome while minimizing the areas where we have absolutely no control 
+over the outcome and the linkage between effect and cause is hidden from us.” This can certainly 
+be applied to investing and is why investing only within your circle of competence is so critical to 
+the success of the focus investor.  
+Mr. Munger has compared betting on horse races to investing in common stocks on several 
+occasions. He states that the way to win at horse racing is to carefully study the individual horses 
+and only betting when the odds of a given horse winning a particular race are in your favor. So in 
+essence the investor should only invest when the probability of the investment outperforming the 
+market indexes is high. By following this rule the investor builds a margin of safety into their 
+investment decisions.  
+This section of a fascinating article by Michael J. Mauboussin captures the vital points of long-
+term success using probability theory3:  
+• 
+Focus. Professional gamblers do not play a multitude of games—they don’t stroll into a 
+casino and play a little black jack, a little craps, a spend a little time on the slot machine. 
+They focus on a specific game and learn the ins and outs. Similarly, most investors must 
+define a circle of competence—areas of relative expertise. Seeking a competitive edge across 
+a spectrum of industries and companies is a challenge, to say the least. Most great investors 
+stick to their circle of competence.  
+ 
+• 
+Lots of situations. Players of probabilistic games must examine lots of situations, because the 
+“market” price is usually pretty accurate. Investors, too, must evaluate lots of situations and 
+gather lots of information. For example, the very successful president and CEO of Geico’s 
+capital operations, Lou Simpson, tries to read 5-8 hours a day, and trades very infrequently.  
+ 
+• 
+Limited opportunities. As Thorp notes in Beat the Dealer, even when you know what you’re 
+doing and play under ideal circumstances, the odds still favor you less than 10% of the time. 
+And rarely does anyone play under ideal circumstances. The message for investors is even 
+when you are competent, favorable situations—where you have a clear-cut variant perception 
+vis-à-vis the market—don’t appear very often.  
+ 
+• 
+Ante. In the casino, you must bet every time to play. Ideally, you can bet a small amount 
+when the odds are poor and a large sum when the odds are favorable, but you must ante to 
+play the game. In investing, on the other hand, you need not participate when you perceive 
+the expected value as unattractive, and you can bet aggressively when a situation appears 
+attractive (within the constraints of an investment policy, naturally). In this way, investing is 
+much more favorable than other games of probability.  
+ 
+ 
+ 
+ 
+                                                 
+3 Page 3 of the January 29, 2002 edition of The Consilient Observer, entitled The Babe Ruth Effect: Frequency versus Magnitude by 
+Michael J. Mauboussin. Reprinted with permission of the author. 
+Page 4 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Decision Trees  
+“One of the advantages of a fellow like Buffett is that he automatically thinks in terms of decision trees.” Charlie 
+Munger4
+Decision trees are excellent tools for helping their users choose between different courses of 
+action. They provide a highly effective structure within which you can lay out possible courses of 
+action and investigate the possible outcomes of choosing various actions. They also help develop 
+a balanced picture of the risks and rewards associated with each possible course of action under 
+examination.  
+Now you are ready to evaluate the decision tree. This is where you can work out which option has 
+the greatest worth to you. Start by assigning a cash value for each possible outcome – what would 
+the expected value be if that particular outcome were to occur?  
+Next look at each break in the tree (which represents a point of uncertainty) and estimate the 
+probability of each outcome occurring. If you use percentages, the total must come to 100% at 
+each circle. If you use fractions, these must add up to 1.  
+Once the two aforementioned steps have been taken (i.e. the values of the outcomes have been 
+entered and the probability has been estimated) it is time to start calculating the expected values 
+of the various branches in the decision tree.  
+Once all expected values of the outcomes have been calculated, the investor should pick the break 
+of the tree that represents the highest expected value.  As you can see in the example below path 2 
+would provide the highest expected value of the two paths under consideration.  
+Example:  
+$1.25
+.60 
+Path 1: .60($1.25) = .75  
+Path 2: .40($2.00)= .80 
+ 
+.40 
+$2.00
+Decision trees assist the investor in making effective investment decisions because they:  
+• 
+provide a nice picture of the problem in such a manner that all options can be observed  
+• 
+allow investors to analyze all the possible outcomes of a decision  
+• 
+provide a framework to quantify the values of various courses of action and the probabilities 
+that they will occur  
+• 
+aid investors in their quest to make the best decisions on the basis of available information.  
+ 
+As with all decision-making methods, decision tree analysis should be used in conjunction with 
+common sense – decision trees are just one important part of the decision-making tool kit.  
+ 
+                                                 
+4 Page 50, May 5, 1995 edition of Outstanding Investor Digest 
+Page 5 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Law of Large Numbers  
+ 
+This “law” relates to the relative frequency of an event, and the probability of the event occurring. 
+These two factors need to be equal only when an infinite number of repetitions are being 
+observed. In other words, reality tends towards theoretical values when the number of 
+observations is large.  
+Let’s examine this concept using a sample consisting of all the mutual funds in existence and 
+grouping them into a bell curve by performance against a market index like the S&P 500. With a 
+large number of mutual funds in the sample, some funds will dramatically underperform the 
+market and some funds will dramatically outperform the market. These outliers are graphically 
+represented by the tails of the bell curve.  
+The farther one gets from the average return, the flatter the tail gets, but, given a large enough 
+sample of funds, there will always be a group of funds that really outperform their peers and end 
+up at the far ends of both tails.  In other words, these funds at the tail ends have performed far 
+better than the average fund in the sample.  
+The law of large numbers also has another meaning to investors. It's a matter of simple math. A 
+$30 billion company will have a much more difficult time maintaining a 40% per year growth 
+rate than a $30 million company growing at the same rate. 
+Accounting 
+Accounting is the language in which business results are reported. The ability to understand this 
+language should be an integral part of every investor’s toolkit.  Focus investors can either take a 
+formal class on accounting or purchase a book on the subject to educate themselves on the 
+subject.  
+Understanding GAAP (Generally Accepted Accounting Principles), which is the common 
+language that accountants use to prepare financial statements, is not enough for focus investing 
+practitioners. This is so because GAAP is a flexible system and, as such, allows company 
+management a certain amount of leeway in how they report their financial results. This leeway is 
+dangerous in that management can take advantage of the accounting system to show better results 
+than are actually occurring.  
+To learn more on what accounting red flags to watch out for I would recommend reading the 
+interesting books, Guide to Financial Reporting and Analysis by Eugene E. Comiskey, Charles  
+W. Mulford and Financial Shenanigans by Howard Schilit, or reading the FocusInvestor.com 
+article entitled “Accounting: Focus on the Red Flags”.  
+Legal System 
+The legal system of the country that the investor lives in must strongly protect copyright and 
+trademark information in order for a capitalist system to function properly. Entrepreneurs and 
+businessmen need a proper legal system to be in place in order for them to be willing to spend the 
+time, energy and commit necessary capital to build businesses. Why expend the necessary time 
+and effort to develop a well-known brand name, for instance, if there is no system in place to 
+protect the trademarks of the business?  
+ 
+ 
+Page 6 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+The Decision-Making Process 
+Asking the Who, What, When, Where, and Why Questions  
+Focus investors should always attempt to solve problems and examine issues by answering the 
+who, what, when, where, and why questions. Using this method to examine issues or problems 
+can provide the investor with key insights into the subject matter being examined.  
+Invert  
+Mr. Munger also advocates thinking through problems backwards. This is similar to what Carl 
+Jacobi, an eminent algebraist, was fond of saying: “Invert, always Invert”.  
+In one of Mr. Munger’s speeches he gave an example of how a situation could be examined using 
+he process of thinking backward. He discussed the development process of Coca-Cola as if a 
+businessman wanted to create a soda company from scratch and examined the key issues that 
+would need to be solved. Below are several examples of the types of questions they would have 
+asked themselves:  
+• 
+What kind of properties should the new drink have? One property the drink should not 
+have is an aftertaste. Consumers should be able to consume large quantities of the drink 
+at every opportunity and not be deterred by an unpleasant aftertaste.  
+• 
+The soda should be developed in such a manner that it can be shipped in large quantities 
+at minimal costs. This makes it easier to develop an efficient, large-scale distribution 
+system.  
+• 
+The soda should be produced in such a manner that others will find it hard to replicate.  
+To accomplish this goal, certain hard-to-find ingredients should be included in the 
+formation of the soda, or the list of ingredients in the soda should be kept secret. If the 
+ingredients of the product are a closely held secret it could add a certain mystique to the 
+soda, as well as making it much harder for a competitor to duplicate the soda.  
+• 
+Keeping the formula a secret will also deter the competition that will surely be 
+forthcoming if the product launches successfully.  The company can also deter 
+competition by expanding the business as quickly as possible. For example, the 
+distribution system could be expanded until it reaches a critical mass that competitors 
+would find hard to duplicate without massive capital expenditures.  
+The focus investor should always examine problems from several different perspectives. Try to 
+discover what could destroy the competitive advantages of the companies under examination. The 
+investor should also try to determine how these threats to the company’s competitive advantage 
+could be avoided or negated. The focus investor should also try to disprove any conclusions they 
+may have reached instead. This should improve their knowledge of all facets of the equation and 
+help them avoid any potential mistakes made due to confirmation bias. 
+ 
+ 
+Page 7 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Statistics 
+Statistics are used to examine the characteristics of a sample group. Statistics are very common. 
+For example, polls are always being conducted and their results examined from a statistical 
+viewpoint. The results of the polls can affect government decisions, product designs, and many 
+other decisions. The DNA matching programs frequently used by the justice system to convict or 
+acquit people are based on statistical analysis. In short, statistics is a science dedicated to trying to 
+draw answers out of numbers.  
+Mean  
+The mean is one of the most common statistical concepts that investors will come across in their 
+readings. To calculate the mean of a series of numbers, simply add up the values in the data set 
+and then divide that sum by the number of values in the dataset.  
+For example, let’s calculate the mean salary at a company with the following personal and salary 
+structure:  
+- The CEO of the company has a salary of $100,000 a year -Two managers make $200,000 a year 
+- The firm employs two accountants who each make $45,000 each a year -The firm’s two 
+secretaries earn $30,000 a year  
+The mean is calculated by adding everyone’s salary together. This would equal $650,000.  The 
+next step would be to divide this number by the number of values, which in this case is 7. So the 
+mean salary of this company is $650,000 divided by 7, or $92,857.  
+The main drawback to this concept is that any number that is unusually higher or lower than the 
+rest of the series can negate the usefulness of this measurement. When the dataset is analyzed 
+closely the investor will observe that only three out of the seven people earn a salary that 
+approximates the mean salary. 
+Standard Deviation and Normal Distribution  
+Standard deviation is a concept which tells statisticians how wide apart the values in a data set are 
+from one another. A large standard deviation means that the values in the data set being observed 
+are fairly diverse, while a small standard deviation means the values in the data set are fairly 
+tightly bunched together. This concept is a very important concept for all focus investors to 
+understand.  
+Standard deviation is often called the “mean of the mean” and it can often help the investor find 
+the true story behind a series of numbers. To fully understand this concept it is necessary to 
+explain a concept that statisticians call normal distribution.  
+When statisticians say that the data they are examining shows a normal distribution, they are 
+saying that most of the values in a set of data being examined are close to the average of the data 
+series and only a small set of the data are far beyond the average.  
+For example, let’s imagine that a statistician was conducting research on the sleeping habits of 
+adult males. They would need to examine the normal sleeping habits of a large group of adult 
+males to represent the data set. Like most data, the average time adult males spend sleeping per 
+night will probably turn out to be normally distributed. That is, for most adult males, their nightly 
+Page 8 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+sleeping habits are closely aligned to the median sleeping habits of adult males in general, with 
+only a small amount of adult ma les sleeping longer or shorter than the average of the overall 
+group.  
+The results of the data seem to confirm what most people would understand implicitly. Most 
+people would assume the general population of adult males would have similar sleeping patterns, 
+with only a minority of people sleeping a great deal longer or shorter than the average.  
+This 1889 quote by Francis Galton, a famous pioneer of statistical correlation and regression, 
+describes the macro view of standard distribution: “Whenever a large sample of chaotic elements 
+are taken in hand and marshaled in the order of their magnitude, an unsuspected and most 
+beautiful form of regularity proves to have been latent all along.”  
+If a set of normally distributed data were shown in a graphical format, it would resemble a 
+standard bell-curve shape.  When the standard deviations in a data set being examined are tightly 
+bunched together, the bell shape will have steep curves and, conversely, the bell shape will be 
+relatively flat if the standard deviations are not tightly bunched together.   
+Many investors have heard the expression “six sigma”. Six Sigma is a “highly disciplined process 
+that helps us focus on developing and delivering near-perfect products and services. Why 
+‘Sigma’? The word is a statistical term that measures how far a given process deviates from 
+perfection. The central idea behind Six Sigma is that if one can measure how many "defects" 
+there are in a process, one can systematically figure out how to eliminate them and get as close to 
+"zero defects" as possible.”5
+Focus investors strive to be Six Sigma investors.  
+Regression to the Mean  
+Regression to the mean is a statistical phenomenon in which high or low results tend to be 
+followed by more average results. In the 1800s Sir Francis Galton observed this phenomenon 
+when he planted sweet pea seeds and calculated the average diameter of 100 seeds produced by 
+each plant. He discovered that the seed diameters tended to “regress toward the mean,” meaning 
+that the smaller pea seeds had somewhat larger offspring, and larger seeds had somewhat smaller 
+offspring.  
+One word of caution is in order for focus investors. They should remember that the regression to 
+the mean concept, when applied to the selection of common stocks, is a statistical explanation and 
+not an economic one.  
+Engineering 
+Backup Systems  
+In engineering, for critical systems which absolutely have to work, a backup system is put in 
+place every time. This redundancy helps to ensure that the system continues to operate even if 
+part of it fails.  The same thought process implies to focus investing as well.  
+Investors must make a series of decisions when examining companies, with an eye towards 
+possibly making an investment. They have to determine the economics of the business and what 
+                                                 
+5 http://www.ge.com/sixsigma/makingcustomers.html 
+Page 9 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+the company will produce in future cash flows, for instance. The margin of safety principle is the 
+focus investor’s backup system. The margin of safety principle basically states that an investment 
+should be made when the price of the stock in question reflects a worst-case scenario, so that even 
+if the investor’s projections are wrong he or she won’t experience a dramatic loss in capital.  
+Breakpoints  
+All focus investors should possess an in-depth understanding of the company they have invested 
+in, but they should also be wary of the dangers of over-analyzing information.  In the investment 
+process, it is important to remember that the number of decisions to be made should be kept as 
+small as possible.  
+This is one reason that traders in stock never seem to earn an acceptable long-term return on their 
+investments. They simply have to make too many decisions correctly on a consistent basis to have 
+the effort prove worthwhile.  
+Does this seem to be an odd statement? Think of it this way: the more decisions that have to be 
+made when conducting the investment process, the higher the possibility that an error will be 
+made. Avoiding undue complexity whenever possible should be the motto of all focus investors. 
+Remember the old maxim: KISS (Keep it Simple Stupid).  
+Physics 
+Physics is the realm of science that investigates how the universe functions. In a classic example 
+of combined mental models, Sir Isaac Newton, one of the most famous physicists in history, 
+explained the properties of gravity using two earlier discoveries.  In order to produce his thoughts 
+on the properties of gravity, he combined the laws of planetary motion with the observation that a 
+falling mass accelerates at a uniform pace.  
+The Theory of Equilibrium  
+Economics uses the equilibrium theory; for example, when demand equals supply the market is in 
+balance. Economists use this theory as a base explanation for how the markets are supposed to 
+work. The efficient market theory is an example of thinking, since it states that stock pr ices and 
+their intrinsic values always trade in equilibrium in the market. While that theory is incorrect, it is 
+fair to say that stocks prices do tend, for the most part, to trade around their respective intrinsic 
+values.  
+The market is really a complex adaptive system in which many intertwining parts continually 
+change behavior patterns in response to changing environmental stimuli. The stock market is 
+continually processing new information (i.e. new environmental stimuli) and, as such, can never 
+be in a state of equilibrium.  For focus investors this means that at times the market as a whole 
+can present investors with valuations that are higher or lower than a company’s intrinsic value.  
+Critical Mass  
+In nuclear physics, critical mass is the minimum amount of fissile material necessary to achieve a 
+self-sustaining fission chain reaction (i.e. explosion).  Great changes in the thinking of the masses 
+generally do not occur at a single moment in time, but rather develop over time as a progression 
+of events and developments which influence people’s thinking.  As time goes on these ideas seem 
+Page 10 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+to develop more and more momentum, until a critical mass is reached and the new change is 
+adapted.  
+ 
+In business this idea can be observed when a business undergoes a fundamental change in regard 
+to operations that leads to a reduction in cost per unit resulting from increased production, often 
+realized through operational efficiencies.  
+These economies of scale can be observed in full force at Coca-Cola.  No company could 
+replicate their distribution system and thus be able to match their pricing, unless they were to 
+spend billions of dollars. The achievement of critical mass usually means that the company 
+achieving it has some type of competitive advantage over its competitors.  
+Know Yourself & Understand Motivation Factors 
+When examining a decision or when trying to determine what course of action people may take, it 
+is vitally important to understand what motivates the interested parties. For instance, the stock 
+brokerage profession has many built-in negative motivational factors.  Most brokers only get paid 
+on a per trade basis, which, in turn increases their motivation to have their clients trade on a 
+frequent basis. Of course the vast majority of brokers avoid this behavior, but their motivation 
+structure is set up in such a manner that it has inherent conflicts built into it.  
+Focus investors should also understand their circle of competence and stay within it. They should 
+be honest with themselves concerning which business models they understand and which ones 
+they don’t. 
+Economics 
+Economics is a field of study that examines how society manages its scarce resources. 
+Economists therefore try to determine how people make decisions, based on their salary, their 
+buying and saving habits, and how they allocate their savings. Economists also study how buyers 
+and sellers of particular goods determine the price that a good will sell at and what quantities of 
+the goods will sell at the agreed-upon price.  Finally economists analyze issues that affect the 
+economy as a whole.  
+In the textbook Principles of Macroeconomics, by N. Gregory Mankiw lists ten principles 
+of economics. The first six principles are relevant to this article.  
+1. 
+People Face Tradeoffs. In order to possess the objects that we desire we choose to 
+ 
+possess those objects over other, less desirable objects.  
+ 
+2. 
+The Cost of Something is What You Give Up to Get It. Since people must make tradeoffs 
+to possess what they desire, they must make decisions by comparing the costs and 
+benefits of various courses of action. The opportunity cost of possessing an object is what 
+was given up to obtain another object.  
+ 
+3. 
+Rational People Think at the Margin. Often in life individuals must make small changes 
+to their existing plans.  Economists call these small changes marginal changes.  
+ 
+4. 
+People Respond to Incentives. Individuals make their decisions after examining the costs 
+and benefits of various courses of action. People’s behavior can change dramatically in 
+response to incentives.  
+Page 11 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+ 
+5. 
+Trade Can Make Everyone Better Off. Trade between multiple parties can result in all 
+     
+parties being better off.  
+ 
+6. 
+Markets are Usually a Good Way to Organize Economic Activity. In a market economy, 
+resources are allocated via the decentralized decisions of all the members of the 
+economy.  
+ 
+Before we discuss economics in depth we should carefully examine an observation made by 
+Charlie Munger during a speech he gave at the University of California, Santa Barbara 
+concerning the field of economics. He discussed several concepts but I want to highlight one of
+them, “Physics Envy”.  He described this concept as “the craving for a false precision, i.e. the
+desire to have a formula.”  Mr. Munger went on to say that precision “is not going to happen by
+and large in economics.  It’s too complex a system.  And the craving for that physics-style
+precision does nothing but get you into terrible trouble.”  It is a important concept to keep in mind
+when trying to make investment decision. 
+The following is a list of key economic concepts:  
+Law of Supply and Demand  
+The law of demand states that there is an inverse relationship between the price of a good and the 
+quantity of the good demanded. The income level of the buyer, the price of the good and the 
+availability of substitutes are all factors that influence the level of demand.  
+The law of supply states that there is a positive relationship between the price of a good and the 
+quantity supplied.  The price levels of the good, the costs of inputs to produce the good, and the 
+technological costs to produce a good are all factors that influence the level of the goods supplied.  
+Income and Substitution Effects  
+Substitutes are goods that experience an increase in demand when another similar product 
+increases in price.  
+A fall in the price of a commodity, or good, generally has two effects on a consumer’s income:  
+Substitution Effect:  
+- 
+The consumer enjoys an increase in real purchasing power since they he or she can now buy  
+the same amount of the product as before with less money and thus have money left over for  
+additional expenditures or savings.  
+Income Effect:  
+- 
+The consumer could conceivably use more of a good that has become less expensive and not 
+use as much of the goods that are now relatively more expensive.  
+Although these effects occur simultaneously, a distinction can be made between the two. The first 
+statement is what is called the substitution effect. The substitution effect measures the change in 
+the purchase of a good resulting only from the change in the price of the good. In this case the 
+utility (i.e. satisfaction) that the consumer receives from the good remains constant even though 
+the price has changed.  
+Page 12 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+The income effect is the change in the consumption patterns of a good that results from the 
+change in purchasing power that occurs as a result of the price change. In the preceding case the 
+price of the relatively more expensive product has reduced its utility.  
+Scarcity  
+Scarcity is a key concept in economics.  The concept relates to the fact that there is only a 
+limited supply of goods available for purchase.  
+ 
+Utility & Rationality  
+ 
+Economists assume that people will always try to maximize their happiness; in other words, that 
+people will always try to obtain goods that maximize their utility. Economists assume that people 
+behave in a rational manner and make rational choices.  
+Elasticity  
+Elasticity is the measurement of how sensitive a variable is in relation to another variable. These 
+measurements are used to test the effect on demand and supply when there are changes in prices 
+and incomes.  
+The concept of price elasticity of demand measures the responsiveness of changes in quantity 
+demanded to price changes of a given product.  Goods that have a price elasticity of less than 1 
+are said to be inelastic. Goods that have a price elasticity greater than 1 are said to be elastic. 
+Necessities such as water are said to be inelastic since the demand remains much the same, even 
+if the price of the product increases dramatically.  
+Income elasticity of demand is the same concept as price elasticity of demand, except that income 
+changes and not price changes are measured.  
+Monopolies  
+A monopoly is a market structure in which only one producer, or seller, exists for a product. This 
+domination of a market for a particular product or service by a single company tends to lead to 
+restricted levels of competition and artificially high prices on a sustained basis.  
+Generally the product being sold has no close substitutes for consumers to switch to.  Monopolies 
+are typically characterized by the following: one firm supplies the market with many buyers and 
+sellers; the product being sold is unique; the firm has strong pricing power; and entry into the 
+market is restricted in some manner.  
+Oligopoly  
+Oligopolies consist of several firms that are in the same market and generally compete on features 
+other than price. Price wars, where all the market players slash prices, tend simply to lead to 
+lower profits for all the firms, leaving the overall market shares of the companies little changed.  
+Instead, oligopolistic firms tend to compete, for instance, through advertising, product or service 
+quality. Companies that form the oligopoly are generally safe from new companies entering the 
+market because the barriers to entry to the market are high. 
+Page 13 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Economies of Scale 
+The advantages that economies of scale bring to businesses are terribly important to most 
+companies. One has to look no further than Gillette or Coca-Cola to see what benefits having a 
+large, dependable manufacturing division, coupled with an efficient distribution system, can bring 
+to a company.  
+Think of Gillette. The company has an approximately 70% share of the global wet shaving 
+market.  It would not have been able to do this without an efficient manufacturing process and the 
+ability to ship its products globally on an affordable basis. Any company trying to match them 
+would have to spend billions of dollars to match these economies of scale.  
+Pavlovian Conditioning 
+Almost everyone, on hearing the term “Pavlovian”, thinks of the famous canine experiment. In 
+the experiment a dog was conditioned to expect food when a light was turned on. Eventually the 
+dog would start salivating as soon as the light was turned on, even if no food was present.  
+From birth, all animals, and humans are equipped with a limited set of reflexes, i.e. genetically 
+hard-wired responses to specific environmental stimuli. A reflex is a relationship between a 
+specific environmental event (i.e. stimulus) and a fixed behavioral action (i.e. response) that it 
+evokes. These reflexes are often a key factor in survival.  
+Pavlovian association is generally broken down into several classifications: Classic, Operant and 
+Instrumental Conditioning. These are discussed in detail below  
+Classic Conditioning  
+Classic conditioning is when a stimulus is experienced that elicits an emotional response time 
+after time. For example, imagine past visits to a grandparent’s home, where it always seemed to 
+smell of mothballs. Now if every time you smell mothballs you recall visiting your grandparent’s 
+home, that is an example of classic conditioning.  
+This concept ties into the concept of association. Think of Coca-Cola commercials.  Do you ever 
+see the actors in the commercials not having a good time? Of course not. Coca-Cola is 
+deliberately associating drinking Coca-Cola with good times and feelings.  The company tries to 
+connect happiness with drinking Coca-Cola in its ad campaigns.  
+Instrumental Conditioning  
+Instrumental conditioning occurs when the subject chooses to continue, or discontinue, a behavior 
+based upon the positive or negative reinforcement the subject has received. Trademarks that have 
+developed a positive image tend to generate positive thoughts to their current and prospective 
+consumers, which help in future sales opportunities.  
+A great example of Pavlovian association would be when the sales of a product increase when the 
+price of the product is raised higher than comparable products.  One reason that the increase in 
+sales occurs is that most people associate higher prices with higher quality.  
+ 
+Page 14 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Operant Conditioning  
+Operant conditioning involves associative learning, in which there is a contingency between the 
+response and the presentation of the reinforcer. For example, this concept can be seen in the 
+classic experiments by Frederick Skinner, where he trained rats and pigeons to press a lever in 
+order to obtain a food reward. His experiments prove that behavior can be modified with the use 
+of rewards.  
+Mr. Munger gave a powerful example of how a reward system can influence behavior when he 
+discussed Xerox. He stated, “Early in the history of Xerox, Joe Wilson, who was then in the 
+government, had to go back to Xerox because he couldn't understand how their better, new 
+machine was selling so poorly in relation to their older and inferior machine. Of course when he 
+got there he found out that the commission arrangement with the salesmen gave a tremendous 
+incentive to the inferior machine.”6
+Competitive Destruction 
+The best industry for investment is an industry in which the participants act in a rational manner. 
+Oligopolies work best for an investor when this is the case. When the companies in a particular 
+industry choose not to act in a rational manner, competitive destruction can be observed.  An 
+example of this type of behavior can be observed by examining the airline industry. When one 
+airline went into bankruptcy protection it was allowed to keep operating at a loss, thereby hurting 
+the performance of the rest of the companies in the industry.  
+Another example of this destructive behavior in the airline industry was observed when it became 
+standard practice in the industry to offer free airline miles to frequent fliers.  These programs 
+worked well initially for the creator of the programs but they became an industry problem when 
+the other airlines initiated their own programs. These new programs often provided better options 
+in order to induce people to switch programs which in turn forced the other airlines to upgrade 
+their programs.  
+The first airline to initiate a frequent flyer program likely experienced a temporary increase in 
+sales and profits but at the end of the day the programs resulted in decreased profits for all airlines 
+that developed their own programs.  
+Surfing 
+Individuals tend to become caught up in the latest crazes. For an example of this look at the 
+Beanie Baby craze. People were waiting in line for hours to purchase the toys when they arrived 
+in stores and were selling them for many times their retail value on the Internet, even though they 
+knew that they had no true value in the long run.  
+The Internet stock craze was another example of this behavior. People starting buying up the 
+stocks because they had been spectacularly outperforming the market. The mass migration into 
+these stocks then pushed the price even higher, and more and more people saw the incredible rise 
+in market valuations and decided to jump into the act as well.  Eventually the bubble was sure to 
+burst. Investors must form and act on their own conclusions and not blindly follow the behavior 
+of the crowd.  
+                                                 
+6 http://www.tilsonfunds.com/mungerpsych.html 
+Page 15 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+The Stock Pari-Mutuel System 
+Mr. Munger has compared investing to betting on the horse races on several occasions.  The 
+similarity between investing and gambling is that in both instances the person is estimating the 
+probabilities of possible outcomes occurring and only investing or waging when the probabilities 
+are judged to be positive. 
+ 
+The gambler studies the past behavior of the horses in a given race and only places a bet when he 
+believes the odds of a given horse winning have been mispriced and he can take advantage of his 
+situation. He is also taking into account the potential payoff should the horse he picks win.  
+ 
+The focus investor is performing the same activities. They are studying the economics of various 
+businesses and assessing at what price would investing in that business provide the highest 
+possibility of above average, long-term gains.  Focus investors should only make investments 
+when the odds are strongly in their favor, since they are maintaining concentrated portfolios.  
+ 
+Psychology of Investing 
+This section was covered at length in the second part of the focus investing series. Several 
+subjects that weren’t discussed will be covered here. One of those subjects that weren’t covered 
+was the concept of social proof.  
+Social Proof  
+Social proof occurs when individuals attempt to confirm their previously developed assumptions 
+on any given subject.  This is a natural product of how we tend to learn through imitation of 
+others’ actions and behaviors. This learning style, however, can cause problems for investors 
+because the behavior of the crowd can be dead wrong.  
+Denial  
+Denial is another area that wasn’t explicitly covered.  This can happen when someone learns of 
+an occurrence that is too terrible for him or her to comprehend easily, so they refuse to believe 
+that the occurrence really happened. This behavior is often observed when a family member is 
+accused of a heinous crime. Often the initial reaction of other family members is to state firmly 
+that the accused family member would never be capable of committing such a crime.  
+Consistency  
+Humans are often trapped into certain behavior patterns because they have already committed to 
+believing that those behavior patterns are correct, and they feel that if they change their behavior 
+they will be judged to be inconsistent and indecisive. Psychologists have long recognized a desire 
+in most people to be and look consistent in their words, beliefs, attitudes, and deeds.  
+Reciprocation Tendency  
+Reciprocation is the tendency to want to pay back someone who has done something for you. 
+This is a very strong psychological phenomenon. Individuals are often far more willing to provide 
+information or assistance to someone who has helped them or provided advice to them in the past.  
+Page 16 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Another aspect of this tendency can be seen when people initially ask for a big favor and then, if 
+that is not granted, they ask for a smaller favor (often what they really wanted).  This other party 
+will often agree to the smaller favor, since they feel bad for refusing the big favor and also wish 
+to appear to be reasonable.  
+ 
+Authority  
+ 
+From birth, our society trains everyone to respect people of perceived authority, whether that 
+authority is real or not. People are much more willing to believe a statement when it comes from 
+someone they believe is an authority on the matter. People are also much more willing to go 
+along with actions taken by an authority figure, even if know that the action is inappropriate.  
+ 
+Scarcity  
+ 
+Quite simply, people desire objects that are hard to obtain. Robert Cialdini advises, “the rule of 
+scarcity tells us that people are especially persuaded and motivated, not so much by what they 
+stand to gain but by what they stand to lose if they don’t do something (e.g., act now, attend a 
+function). That loss is more powerful psychologically.”  
+Focus investors need to learn to think for themselves and not be lulled into practicing mindless 
+and reflective behavior just because that is what “everyone” is doing. Focus investors also need to 
+understand the natural bias to be highly accepting of information that confirms their thoughts or 
+beliefs. They should instead think of looking for information that doesn’t jive with the theories 
+that are developing on a subject matter.  
+Chemistry 
+Autocatalysis  
+In chemistry, when certain processes (or reactions) start to occur, they can speed up of their own 
+accord when they are combined with a catalyst. The catalyst tends to stabilize the reaction and 
+makes it easier for the process to jump to another level. The catalyst itself usually is not affected 
+by the process and can go and influence many other reactions.  For example, when a couple wants 
+to get married they have an official legalize the marriage, but the official otherwise does not 
+participate in the marriage. 
+ 
+In the autocatalysis process, properties, events or products serve as their own catalysts and are 
+"self-breeding". For example, the invention of the air conditioner created the need for air 
+conditioning, hence the self-stimulated increase in the demand for air conditioners. 
+ 
+Biology 
+“The slightest advantage in one being … over those with which it comes into competition, or better adaptation in however slight 
+a degree to the surrounding physical conditions, will turn the balance.” On the Origin of Species by Means of Natural Selection 
+by Charles Darwin.  
+Natural Selection  
+The theory of evolution is the key biological concept that focus investors need to understand.  
+Charles Darwin developed his theory of natural selection by carefully observing wildlife during 
+his trip aboard the HMS Beagle.  
+Page 17 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+While visiting the Galapagos Islands, he observed that each of the islands supported its own form 
+of tortoise, mockingbird, and finch. He further observed that the various individual species were 
+closely related but differed in structure and eating habits from one island to the next. These 
+observations caused Darwin to question if there weren’t in fact possible links between the distinct 
+but similar species.  
+After much discussion with other scientists on why, and how, the species on the island were so 
+similar, he developed a theory that natural selection could produce variations that had some 
+benefit to a species and its survival. These variations, and their subsequent benefits to the species, 
+would be passed on to succeeding generations.  
+How does this relate to the investment process? I believe Robert Hagstrom, in his book 
+Latticework: The New Investing, explained it well when he wrote, “Whereas in nature the process 
+of evolution is one of natural selection, seeing the market with an evolutionary framework allows 
+us to observe the law of economic selection.”    
+This law of economic selection is easily observed in the business world. For example, one firm 
+may develop a unique way of producing a product in a less expensive manner, which allows it to 
+generate higher profits than other firms that are in the same line of business but are not using this 
+new procedure. Hence, conceivably, the firm using the less expensive procedure should sell for a 
+higher multiple than its competitors.  
+Survival by Differentiation  
+In the 1930s the Soviet scientist G.F. Gause conducted an experiment in which he placed two 
+protozoans of different species into a glass jar with a limited amount of food. He also placed two 
+protozoans of the same species into the same situation. He discovered that the protozoans of 
+different species survived by sharing their food source, while the protozoans of the same species 
+were unable to cooperate and did not survive.  
+In the business world the companies that have sustainable competitive advantages have somehow 
+differentiated themselves from their competition.  They may have a lower cost structure, superior 
+customer service, superior quality, or a more efficient distribution system, for example.  
+Lollapalooza Effect 
+The idea of developing and using your own network of mental models reaches its logical and 
+powerful apex when they are combined to form lollapalooza effects. A lollapalooza effect occurs 
+when several models in the network are combined and are heading in the same direction to 
+produce a given result. The results of this combined effect can be quite dramatic.  For instance, in 
+order to suppress and combat the HIV virus, a drug “cocktail” was developed. While the 
+individual drugs weren’t effective, the combination of several medications was extremely 
+effective.  
+Another example of a lollapalooza effect can be seen in open outcry auctions.  Mr. Munger 
+summed up these effects in this statement: “the open-outcry auction is just made to turn the brain 
+into mush: you've got social proof, the other guy is bidding, you get reciprocation tendency, you 
+get deprival super-reaction syndrome, the thing is going away… I mean it just absolutely is 
+designed to manipulate people into idiotic behavior.”7
+                                                 
+7 http://www.tilsonfunds.com/mungerpsych.html 
+Page 18 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+ 
+The key to understanding and creating lollapalooza effects is being able to understand how sets of 
+models relate to one another. Once this relation is understood, the next step is to build an 
+understanding of what effect the combination will have on a given situation.  
+ 
+Focus investors should avoid compartmentalizing all incoming information into separate, distinct 
+mental compartments. Investors will prove to be much more successful in life and investing if 
+they explore how separate pieces of information interact and use this newly gleaned information 
+to solve future issues. Keep in mind that just because a piece of incoming information is 
+connected to one process, it doesn’t mean that the concept behind it can’t be applied to other 
+processes.  
+ 
+In his speech on Coca-Cola to a Stanford Law School class, Mr. Munger gave a fascinating 
+example of how using various mental models in combination can produce incredible lollapalooza 
+effects. I will attempt the capture the key concepts of the speech as they relate to the lollapalooza 
+effect in the creation of the classic soda beverage, Coca-Cola.  
+Mr. Munger initiated the discussion on the creation of Coca-Cola by asking if the drink should be 
+a hot or a cold beverage. The first mental model used to answer this question was the physics 
+model, because the creator of the beverage would have had to foresee that refrigeration of the 
+product would be widely available in the future.  
+The second mental model involved was physiology, since the maker of the drink needed to 
+understand that individuals preferred to drink a cold beverage after engaging in strenuous activity.  
+In addition, an individual residing in a hot climate would naturally prefer drinking a cold 
+beverage when looking for relief from the heat.  
+After the decision had been made to produce a cold drink, the next issue involved creating a 
+strong and well-known brand so the beverage could distinguish itself from its competition.  In 
+developing the brand, the creators needed to be confident that the legal system in place would 
+protect them against competition infringing on their brand name.  
+Any company should endeavor to make the brand so familiar to its customers that they 
+automatically order the drink by its trademark name. This is a desired conditioned reflex. In its 
+marketing campaign the company should always associate their product with people experiencing 
+happy times, thereby taking advantage of Pavlovian association effects.  
+It was decided that the drink itself should use ingredients that reinforce the desire to drink more 
+of the soda. The stimulant caffeine and sugar should be used to flavor. The properties of these 
+ingredients would combine and help the users of the product develop a favorable taste for the 
+drink. An additional important factor was that the overall flavor profile of the beverage should not 
+include an aftertaste. This would negatively affect the drinking experience and could cut down 
+the quantities that users would be willing to consume.  
+In addition to the flavor properties, the visual properties of the drink were enhanced. The first step 
+in this process was to give the drink a dark color to make it more appealing than the plainness of 
+water. Carbonation was also added to provide a better taste and make the product seem more 
+visually appealing.  
+The product should be in a form that can be easily shipped. This was a problem for Coca-Cola as 
+the weight and dimensions of the soda and bottles combined made it expensive to transport. Their 
+Page 19 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+solution was to only sell syrup. They sold sales territories and developed a system of bottlers and 
+shipped only the syrup for the soda to the bottlers. The bottlers were then responsible for 
+transporting the final product to customers in their respective territories. This allowed Coca-Cola 
+to save on shipping costs and maintain control of the ingredients in their products.  
+Once the above steps in the development process had been completed, the company needed to 
+develop an effective marketing strategy. The company gave many marketing products to 
+establishments that used their beverages so they could display them in their establishments. The 
+clients of those establishments would then know Coca-Cola was available.  The company even 
+gave away free sample coupons so new users would sample their product. Social proof was one 
+reason for doing this. When one person observes another consuming the product, they are 
+unconsciously showing other people that they like and enjoy the product.  
+I hope you observed all the different aspects of the mental models at work in the above example. 
+As the history of the Coca-Cola Company has shown, building a business and products with a 
+strong lollapalooza effect can produce incredible investment returns.  
+ 
+Another lollapalooza effect can occur when you combine two of Mr. Munger’s concepts: 
+“Physics Envy” and “Man with a Hammer Syndrome”.  As he said during a 2003 speech at the 
+University of California, “[this behavior is] really terrible in business [because] you’ve got a 
+complex system and it spews out a lot of wonderful numbers [that] enable you to measure some 
+factors.  But there are other factors that are terribly important.  There’s no precise numbering 
+where you can put to these factors.  You know they’re important [but] you don’t have the 
+numbers.  Well practically everybody just overweighs the stuff that can be numbered, because it 
+yields to the statistical techniques they’re taught in places like this, and doesn’t mix in the hard-
+to-measure stuff that may be more important.  That is a mistake I’ve tried all my life to avoid, and 
+I have no regrets for having done that.” 
+ 
+The focus investor with a firm grasp of the mental models concept is a gigantic step ahead of the 
+majority of investors.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Conclusion 
+To wrap up the discussion on mental models, here is a list of five “ultra-simple general notions” 
+that Mr. Munger provided in a 1996 speech. These notions, listed below, tie into the mental 
+models concept discussed in this article. The notions are:  
+1. Solve the big no-brainer questions first.  
+2. Use math to support your reasoning.  
+3. Think through a problem backward, not just forward.  
+4. Use a multidisciplinary approach.  
+5. Properly consider results from a combination of factors, or lollapalooza effects.  
+ 
+Focus investors should develop their own network of models that work best for them.  They 
+should always seek to increase their network of knowledge with information from a wide 
+spectrum of disciplines. The most successful focus investors will, more than likely, be 
+enthusiastic readers of widely varying subject matters, but only choose to retain ideas that prove 
+to be useful in building their network of mental models.  
+I hope this article provides you with a strong foundation for starting your own model 
+development process. I also hope that the material presented in the focus investing series has 
+helped you understand the focus investing process, and the advantages it has for investors who 
+are able to think rationally and make decisions free from the influences of herd behavior.  
+Please feel free to contact me via email at rich@focusinvestor.com or engage in further 
+discussion on the subject of focus investing on the FocusInvestor.com message board at 
+http://www.focusinvestor.com/cgi-bin/forum/ikonboard.cgi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Copyright 2000-2004, FocusInvestor.com. All rights reserved.  This material is for personal use only. Republication and re-
+dissemination, including posting to news groups, is expressly prohibited without the prior written consent of FocusInvestor.com.  
+ 
+ 
+Page 21 of 22
+
+--- PAGE BREAK ---
+
+FocusInvestor.com 
+ 
+Focus Investing Series Part 3: Mental Models 
+Bibliography:  
+ 
+Against the Gods (1996) by Peter Bernstein  
+ 
+Damn Right! (2000) by Janet Lowe  
+ 
+Influence: The Psychology of Persuasion (1993) by Dr. Robert Cialdini 
+ 
+ Latticework: The New Investing (2000) by Robert Hagstrom  
+ 
+The Warren Buffett Portfolio (1999) by Robert Hagstrom  
+ 
+The Warren Buffett Way (1994) by Robert Hagstrom  
+ 
+The Triumph of Bits (1999) by Michael Mauboussin, Alexander Schay, and Stephen Kawaja 
+ 
+A Lesson on Elementary, Worldly Wisdom as it Relates to Investment Management and Business 
+by Charlie Munger in the May 5, 1995 edition of Outstanding Investor Digest  
+ 
+Business: What Lawyers Should Know by Charlie Munger, in the Dec. 21, 1997 edition of the 
+Outstanding Investor Digest  
+ 
+Psychology of Human Misjudgment (1995) by Charlie Munger. Speech given at Harvard  
+University. Transcribed and edited by Whitney Tilson. 
+ 
+The Consilient Observer, January 29, 2002 edition, The Babe Ruth Effect: Frequency versus 
+Magnitude by Michael J. Mauboussin  
+ 
+Principles of Macroeconomics (1997) by N. Gregory Mankiw  
+ 
+The Natural Laws of Business (2001) by Richard Koch  
+Page 22 of 22
